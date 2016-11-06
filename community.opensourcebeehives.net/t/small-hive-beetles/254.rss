@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small hive beetles</title>
+    <link>http://community.opensourcebeehives.net/t/small-hive-beetles/254</link>
+    <description>How are people dealing with small hive beetles on the CTB? I just installed bees a couple weeks ago and am already seeing a bunch of them. Anyone developing a design for modification of the bottom board to allow for a mineral oil trap?? Anyone want to collaborate with me on this?</description>
+    
+    <lastBuildDate>Sat, 15 Aug 2015 09:29:07 -0400</lastBuildDate>
+    <category>Beekeeping</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/small-hive-beetles/254.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Small hive beetles</title>
+        <author>no-reply@example.com (@marcob8890 Mark Benson)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/marcob8890">Mark Benson</a> wrote:</p>
+          <blockquote>
+              <p>We lost our CTB to beetles, the 4 Warre hives at the same location are fine.  I suspect the vent holes on the gable ends is how they got in.  We plan on covering them with screen in the future.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/small-hive-beetles/254/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/small-hive-beetles/254/2</link>
+        <pubDate>Sat, 15 Aug 2015 09:29:07 -0400</pubDate>
+        <guid isPermaLink="false">post-254-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/small-hive-beetles/254.rss">Small hive beetles</source>
+      </item>
+      <item>
+        <title>Small hive beetles</title>
+        <author>no-reply@example.com (@mrtorrence Cody Harrison)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/mrtorrence">Cody Harrison</a> wrote:</p>
+          <blockquote>
+              <p>How are people dealing with small hive beetles on the CTB? I just installed bees a couple weeks ago and am already seeing a bunch of them. Anyone developing a design for modification of the bottom board to allow for a mineral oil trap?? Anyone want to collaborate with me on this?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/small-hive-beetles/254/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/small-hive-beetles/254/1</link>
+        <pubDate>Wed, 24 Jun 2015 11:37:38 -0400</pubDate>
+        <guid isPermaLink="false">post-254-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/small-hive-beetles/254.rss">Small hive beetles</source>
+      </item>
+  </channel>
+</rss>

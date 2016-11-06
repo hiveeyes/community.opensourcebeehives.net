@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote Sensor Testers (Northern Hemisphere)</title>
+    <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82</link>
+    <description>Introduce, Explain, Collaborate
+-------------------------------
+
+Are you interested in testing our sensors in the Northern Hemesphere? Please introduce yourself, your interest, and your skill level in sensor development below!</description>
+    
+    <lastBuildDate>Thu, 26 Mar 2015 10:43:22 -0400</lastBuildDate>
+    <category>Sensor Kits</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@justcyn Cynthia Reynolds)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/justcyn">Cynthia Reynolds</a> wrote:</p>
+          <blockquote>
+              <p>INTRO: I am a beekeeper in Norway with a group at a CSA farm (langstroth hives), and am setting up a Warré hive in my yard (bees are due in June) I am eager to set up sensors on this one, and have been researching for quite some time (Arnia, smart citizen and some other monitoring systems) . This hive has access to power and wifi <img src="//community.opensourcebeehives.net/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"><br>My conclusion so far has been that Raspberry Pi is the way to go, as I want webcams - one NoIR to mount on a moveable board that snugs up against the glass (can be moved from box to box) to watch the inside of the hive, and one that can withstand the elements at the hive entrance. Temperature and humidity sensors were going to be mounted in the quilt box. All data/cams are to be available online - I often have classes come for a visit and take them to see the bees (lots of kid beekeeping suits!) I would love for them to follow the bees online. <br>I am keen to learn what you guys have to share, and hope to make this happen soon. (ideally getting sensors in before the bees arrive!)<br>ps.. I also have access to a fabLab so 3D printing and a CNC router are all within reach <img src="//community.opensourcebeehives.net/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"> </p>
+
+<p>if there are any locals here.. do get in touch!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/13">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/13</link>
+        <pubDate>Thu, 26 Mar 2015 10:43:22 -0400</pubDate>
+        <guid isPermaLink="false">post-82-13</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@coloradobum Jeff Thomas)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/coloradobum">Jeff Thomas</a> wrote:</p>
+          <blockquote>
+              <p>Bees are ordered and I plan to cut a Colorado Top Bar soon.</p>
+
+<p>What's the process for getting an alpha sensor kit for the hive? Do I have to make it? Can I buy one from someone?</p>
+
+<p>thanks.</p>
+
+<p>jeff</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/12">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/12</link>
+        <pubDate>Tue, 17 Mar 2015 11:41:18 -0400</pubDate>
+        <guid isPermaLink="false">post-82-12</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@marcob8890 Mark Benson)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/marcob8890">Mark Benson</a> wrote:</p>
+          <blockquote>
+              <p>My name is Mark and I live in Houston, Tx. The company I founded builds measurement systems for downhole drilling applications.  The measurements include force, velocity, earth's magnetics, gamma radiation, etc., etc. We build the hardware and develop the software for real time remote monitoring.  I have access to mechanical, electrical and software engineers, as well as a full machine shop and electronics lab.  My interest in bees began when a close friend started bee keeping several years ago.  He educated me on the severity of the CCD and the joy of bee keeping.  We recently filed  papers in Texas as a non-profit org with the intention of installing and managing bee colonies on private land in the SE Texas area.  I was researching monitoring systems when I found OSBH.  I built a cnc router several years ago so I was thrilled when I saw the hive designs.  I am in process of building 5 Warre and 5 CTB for our first installation due to deploy in May.  I have a long history of living the DIY lifestyle and I think I have enough experience in collaborative effort to be helpful to this project.<br>I would also like to offer assistance in other ways such as, machining parts, sourcing and contributing components and building hives.  I don't have an all or nothing attitude and would be happy just to help.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/11">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/11</link>
+        <pubDate>Sun, 22 Feb 2015 10:33:37 -0500</pubDate>
+        <guid isPermaLink="false">post-82-11</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@jet jet townsend)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jet">jet townsend</a> wrote:</p>
+          <blockquote>
+              <p>Hiyas,</p>
+
+<p>I'm jet, I live right outside Pittsburgh, PA.  I've been hacking hardware and software since the 8 bit days and Arduino since 2007 or 2008.   I'm also in to digifab, I've built a couple of repraps and I'm building my second Lasersaur and putting 4axis CNC on my metal mill.</p>
+
+<p>That being said, I'm new to beekeeping.  I passed my required class this week and will apply for a will-issue permit to have a couple of hives in our backyard.  One of my first thoughts was "wouldn't it be cool if there were a way to tie sensors to pachube the way people in Japan tied in geiger counters?"   DuckDuckGo later I discover OSBH, what a grand idea.</p>
+
+<p>Right now I'm mostly interested in design/fabrication of sensor rigs or UIs for viewing data, my dba days ended in the early days of POTUS Bill Clinton.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/10">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/10</link>
+        <pubDate>Tue, 03 Feb 2015 23:03:45 -0500</pubDate>
+        <guid isPermaLink="false">post-82-10</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p>Great to see you on the forum <a class="mention" href="/users/hognala">@hognala</a> - please share any insights once you've assembled the alpha kit.</p>
+
+<p>Nice to meet you <a class="mention" href="/users/wynn_geary">@wynn_geary</a> - as an industrial designer, do you have any experience with design for CNC fabrication? We're developing a new project and looking for designers.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/9">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/9</link>
+        <pubDate>Sun, 04 Jan 2015 06:17:54 -0500</pubDate>
+        <guid isPermaLink="false">post-82-9</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@hognala Alan Copeland)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/hognala">Alan Copeland</a> wrote:</p>
+          <blockquote>
+              <p>Howdy! My name is Alan, I live in Loveland, Colorado. I saw some of the OSBH guys at the NoCo Mini Maker Faire in 2013. My dad is a new beekeeper in Illinois with about 40 hives (standard top bar). Over a recent visit we talked about adding sensors to some of his hives. I'm a Technical Support engineer focusing on software used to control hardware (Test Equipment), and have recently started building some simple Arduino/Raspberry Pi projects. I just bought all of the parts for version 0.2 of the sensor kit to try out your design!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/8">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/8</link>
+        <pubDate>Fri, 02 Jan 2015 11:52:05 -0500</pubDate>
+        <guid isPermaLink="false">post-82-8</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@wynn_geary Wynn Geary)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/wynn_geary">Wynn Geary</a> wrote:</p>
+          <blockquote>
+              <p>Howdy, my name is Wynn Geary. I'm a 17 year old beekeeper and industrial/graphic designer in Philadelphia PA. This spring I will be trying out a Barcelona Warre hive. I have little experience with sensors but I'm interested in following along in the development of the sensors and potentially testing them out.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/7">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/7</link>
+        <pubDate>Tue, 30 Dec 2014 20:23:00 -0500</pubDate>
+        <guid isPermaLink="false">post-82-7</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@mdonaldsonmatasci Matina Donaldson-Matasci)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/mdonaldsonmatasci">Matina Donaldson-Matasci</a> wrote:</p>
+          <blockquote>
+              <p>Hello there! My name is Matina Donaldson-Matasci and I am a new professor of biology at Harvey Mudd College. I study honey bee behavior, especially foraging and communication. Although I don't currently have any bees, I am planning to get some this coming spring. I have played around with building automated sensors before (using Arduino and infrared sensors) and am very interested in testing out your design as well as trying to hook it up to an electronic scale to continuously monitor the weight of the hive. I have some background in computer programming but all my electronics "skills" are self-taught. The students at Harvey Mudd all go through an intense core curriculum including computer science and engineering so they would be well prepared to contribute to a project like this.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/6">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/6</link>
+        <pubDate>Tue, 16 Dec 2014 18:43:10 -0500</pubDate>
+        <guid isPermaLink="false">post-82-6</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@coloradobum Jeff Thomas)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/coloradobum">Jeff Thomas</a> wrote:</p>
+          <blockquote>
+              <p>Hello. Jeff Thomas here. I'm a Ruby software developer living in western colorado. I'm more on the tinkering level for hardware, but learning more everyday.</p>
+
+<p>I have four healthy colonies in top-bar hives (non-osbh designs) in my backyard. I would consider adding either the Colorado Top Bar or Barcelona Warre in the spring.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/5</link>
+        <pubDate>Mon, 06 Oct 2014 14:46:07 -0400</pubDate>
+        <guid isPermaLink="false">post-82-5</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@markbuiford Mark Bui-Ford)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/markbuiford">Mark Bui-Ford</a> wrote:</p>
+          <blockquote>
+              <p>Hi, My name is Mark Bui-Ford, a descendent of multiple generations of beekeepers on both sides of my family. My favorite quite about my inner geek is, "Mark, there is nothing inner about your geek!" I don't write code or design hardware, but I can usually stumble through integrating existing components fairly well.</p>
+
+<p>In my current role as Technical Marketing Manager, I do a lot of project management, bringing smarter people together to make things happen. Recently I have been researching options to track temperature and humidity in print shops (paper is very sensitive to both), so I find the sensor discussions on this forum very interesting.</p>
+
+<p>My grandfather got me into beekeeping back in the early 80's. It was so sad to see my bees slowly die out as the Santa Clara Valley was sprayed with malathion from helicopters every night to combat a mediterranean fruit fly infestation. </p>
+
+<p>I have a <a href="http://www.monnit.com/Products/Wireless-Sensors/Commercial-Coin-Cell/900-MHz/Wireless-Humidity-Sensors" rel="nofollow">$79 wireless Monnit temperature and humidity sensor</a> outside our hive at our place on the San Francisco peninsula right now. I just ordered another one to see how it would do in a corner of a frame in our hive. </p>
+
+<p>If anyone knows of other technology to try, let me know!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/4</link>
+        <pubDate>Thu, 02 Oct 2014 17:35:28 -0400</pubDate>
+        <guid isPermaLink="false">post-82-4</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p>Hey <a class="mention" href="/users/keitharaneo">@keitharaneo</a> - thanks for the intro - awesome to have you in the forum!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/3</link>
+        <pubDate>Thu, 25 Sep 2014 17:48:33 -0400</pubDate>
+        <guid isPermaLink="false">post-82-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@keitharaneo Keith Richard Araneo-Yowell)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/keitharaneo">Keith Richard Araneo-Yowell</a> wrote:</p>
+          <blockquote>
+              <p>Hello, My name is Keith Araneo-Yowell and I'm a MS candidate Econometrics at the University of Utah. I have always had great interest in the natural world, and especially insects. I began keeping bees in 2007 after I read a book on basic beekeeping and have been hooked ever since. As far as developing a sensor goes, I have admittedly little experience, but the relevant experience I do have would include my participation in a freshman design competition in mechanical engineering at my school (my team took second place). Though the robots did not have on-board sensors we made, and hand-soldered the circuit boards from which the bots could execute timed actions (engaging forward or reverse mode on a motor) [I said it wasn't much]. I also learned standard design practices in developing a robotic system as well as how to create planning documents and use solid works. My expertise is definitely in the realm of data science however. I have backgrounds in statistical analysis with SPSS, SAS, excel, and R as well as manipulating datasets in SQL. I also have experience in technical writing and editing. I like quality data and am enthusiastic to be a part of a team whose goal is delivering just that. I'm excited to learn about developing sensors as part of this team.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/2</link>
+        <pubDate>Thu, 25 Sep 2014 16:33:43 -0400</pubDate>
+        <guid isPermaLink="false">post-82-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+      <item>
+        <title>Remote Sensor Testers (Northern Hemisphere)</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <h2>Introduce, Explain, Collaborate</h2>
+
+<p>Are you interested in testing our sensors in the Northern Hemesphere? Please introduce yourself, your interest, and your skill level in sensor development below!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82/1</link>
+        <pubDate>Thu, 25 Sep 2014 15:24:46 -0400</pubDate>
+        <guid isPermaLink="false">post-82-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+      </item>
+  </channel>
+</rss>

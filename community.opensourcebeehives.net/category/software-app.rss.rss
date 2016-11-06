@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software App.</title>
+    <link>http://community.opensourcebeehives.net/category/software-app</link>
+    <description>Topics in the &#39;Software App.&#39; category Welcome to the SOFTWARE DEVELOPMENT collaboration area. If you&#39;re a web or software developer we would love your help our data pipeline and online platform. To get started, please see the To Do List thread below.</description>
+    
+      <lastBuildDate>Fri, 29 Jan 2016 03:18:58 -0500</lastBuildDate>
+      <atom:link href="http://community.opensourcebeehives.net/category/software-app.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>I have developed iPhone app named BeeHive</title>
+          <author>no-reply@example.com (@yuichi Yuichi Shiga)</author>
+          <category>Software App.</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/yuichi">Yuichi Shiga</a> wrote:</p>
+            <blockquote>
+              <p>I am Yuichi, a beekeeper from Japan, and I live in San Francisco now.</p>
+
+<p>I released an iPhone app for beekeepers. It is social networking app for beekeeper and allows you to communicate with beekeepers all over the world.</p>
+
+<p>It would be great if you could install this app and try it. You can log in by using your Facebook Account.</p>
+
+<p>You may wonder why I developed this app. I am working for a technology company as a Engineer, so I can develop apps by myself.My parents keep bees in Japan and I had kept them too in Japan.</p>
+
+<p>This app is completely free and there are no ad. I would like many people to enjoy beekeeping more.<br>If many people like it, I would like to develop Android version.</p>
+
+<p>And eventually, I wanna support Open Source Beehives in the future. </p>
+
+<p>You can download this app on App store.</p>
+
+<p>App Store (Free download)<br><aside class="onebox whitelistedgeneric">
+  <header class="source">
+    <a href="https://itunes.apple.com/app/id1043834217">
+      itunes.apple.com
+    </a>
+  </header>
+  <article class="onebox-body">
+    <img src="http://is3.mzstatic.com/image/thumb/Purple49/v4/c0/15/24/c0152441-053c-c61f-1a7b-0e43c01da98f/source/1200x630bf.jpg" class="thumbnail" width="137" height="72">
+
+<h3><a href="https://itunes.apple.com/app/id1043834217">BeeHive - social networking app for beekeepers - on the App Store</a></h3>
+
+<p>Read reviews, compare customer ratings, see screenshots, and learn more about BeeHive - social networking app for beekeepers -. Download BeeHive - social networking app for beekeepers - and enjoy it on your iPhone, iPad, and iPod touch.</p>
+
+  </article>
+  <div style="clear: both"></div>
+</aside>
+</p>
+
+<p>And I have the landing page for this app.<br>Landing page<br><a href="http://www.beehive-app.net/" class="onebox" target="_blank">http://www.beehive-app.net/</a></p>
+
+<p>If would be great if you could introducde this app and share this app with your friends.<br>If you have any questions, feel free to ask me!</p>
+
+<p>best regards</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/i-have-developed-iphone-app-named-beehive/299">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/i-have-developed-iphone-app-named-beehive/299</link>
+          <pubDate>Fri, 29 Jan 2016 03:18:58 -0500</pubDate>
+          <guid isPermaLink="false">topic-299</guid>
+          <source url="http://community.opensourcebeehives.net/t/i-have-developed-iphone-app-named-beehive/299.rss">I have developed iPhone app named BeeHive</source>
+        </item>
+        <item>
+          <title>How do I contribute to the software app?</title>
+          <author>no-reply@example.com (@coloradobum Jeff Thomas)</author>
+          <category>Software App.</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/coloradobum">Jeff Thomas</a> wrote:</p>
+            <blockquote>
+              <p>Hi everyone.</p>
+
+<p>Bees are ordered and I plan to cut a Colorado top bar soon. I've offered to be a alpha tester for the sensor kit.</p>
+
+<p>I'm a developer by trade- so I'm interested in helping with the software app.</p>
+
+<p>How can I get started helping with the software app?</p>
+
+<p>thanks</p>
+
+<p>jeff</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212</link>
+          <pubDate>Tue, 17 Mar 2015 11:46:54 -0400</pubDate>
+          <guid isPermaLink="false">topic-212</guid>
+          <source url="http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212.rss">How do I contribute to the software app?</source>
+        </item>
+        <item>
+          <title>Monitor System using Thingspeak now online</title>
+          <author>no-reply@example.com (@geo3geo Geo Meadows)</author>
+          <category>Software App.</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/geo3geo">Geo Meadows</a> wrote:</p>
+            <blockquote>
+              <p>See <a href="http://www.mecol.co.uk/P11.php" rel="nofollow">www.mecol.co.uk/P11.php</a> for the composite realtime data chart for my first hive. Hope to add another hive soon. System based on Sweetpea LeoFi Arduino linked to Thingspeak over a home WiFi network.<br>Please ignore data prior to installation date of 23rd Dec.<br>Full software and circuitry downloadable from above web site page. <br>Further info at bugthebees.blogspot.com</p>
+
+<p>Geo</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/monitor-system-using-thingspeak-now-online/145">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/monitor-system-using-thingspeak-now-online/145</link>
+          <pubDate>Fri, 26 Dec 2014 11:16:49 -0500</pubDate>
+          <guid isPermaLink="false">topic-145</guid>
+          <source url="http://community.opensourcebeehives.net/t/monitor-system-using-thingspeak-now-online/145.rss">Monitor System using Thingspeak now online</source>
+        </item>
+        <item>
+          <title>Hivelife - software for manual hive observations</title>
+          <author>no-reply@example.com (@brianzable Brian Zable)</author>
+          <category>Software App.</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/brianzable">Brian Zable</a> wrote:</p>
+            <blockquote>
+              <p>Hello everyone!</p>
+
+<p>I'm here to post about a project I've been working on called Hivelife. The project is a web application that shares a similar philosophy to the OSBH project. The goal of Hivelife is to create a free tool for beekeepers to record their observations from beehive inspections. The data from these inspections is then anonymized according to user settings and made available for the public. I started working on this as an academic project and have since then taken it down to focus on redesigning it. In the future, I'd like to also develop mobile applications that make data collection in the field easier. Right now, the focus is to make a polished web application so that everyone with a web browser can add data. I'd also like to explore ways to integrate Hivelife with the OSBH sensors kits. I believe this would make it a very powerful tool in that it would be able to record data from both sensors and human observation.</p>
+
+<p>Right now you can visit the site at <a href="https://hivelife.co/" rel="nofollow">https://hivelife.co/</a> - its just a single page with a little bit of information at the moment, but in the coming weeks there will be a blog containing development updates. If anyone has any questions, thoughts, or comments, I'd love to hear them! I hope to have a working beta of the site ready by the beginning of the next beekeeping season in the US!</p>
+            </blockquote>
+            <p>Posts: 23</p>
+            <p>Participants: 10</p>
+            <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132</link>
+          <pubDate>Wed, 03 Dec 2014 21:41:44 -0500</pubDate>
+          <guid isPermaLink="false">topic-132</guid>
+          <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+        </item>
+        <item>
+          <title>To Do List: Software Development</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Software App.</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <ol>
+<li><a href="https://docs.google.com/document/d/1fxSlZO14vU9Kf1gBHbt3jNZ4hAENSaygdi3EN7Igy0s/edit#heading=h.y63fzq71p7sg">Review the Smart Citizen API 2.0 Roadmap</a></li>
+<li>Contact us at: <a href="mailto:sensors@opensourcebeehives.net">sensors@opensourcebeehives.net</a>
+</li>
+</ol>
+
+<p><strong>Sign up to become an <a href="https://docs.google.com/forms/d/15JKKNMnB5Qfg_-e_3tlqqauB6GLfPLucrd2rbQ2zwwM/viewform">OFFICIAL COLLABORATOR</a></strong></p>
+
+<hr>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/to-do-list-software-development/52">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/to-do-list-software-development/52</link>
+          <pubDate>Wed, 17 Sep 2014 07:38:24 -0400</pubDate>
+          <guid isPermaLink="false">topic-52</guid>
+          <source url="http://community.opensourcebeehives.net/t/to-do-list-software-development/52.rss">To Do List: Software Development</source>
+        </item>
+        <item>
+          <title>About the Software App. category</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Software App.</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p>Welcome to the SOFTWARE DEVELOPMENT collaboration area. If you're a web or software developer we would love your help our data pipeline and online platform. To get started, please see the To Do List thread below.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/about-the-software-app-category/21">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/about-the-software-app-category/21</link>
+          <pubDate>Tue, 02 Sep 2014 15:02:22 -0400</pubDate>
+          <guid isPermaLink="false">topic-21</guid>
+          <source url="http://community.opensourcebeehives.net/t/about-the-software-app-category/21.rss">About the Software App. category</source>
+        </item>
+  </channel>
+</rss>

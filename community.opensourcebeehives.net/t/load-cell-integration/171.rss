@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Load Cell Integration</title>
+    <link>http://community.opensourcebeehives.net/t/load-cell-integration/171</link>
+    <description>This Topic is about how we acutally integrate a load cell into the hive designs (Colorado Top Bar and the Warré Design).
+
+As exact working load cells are quite expensive the approach is to use only **one sensor per Hive** - taking the whole weight of it.
+
+This is the load cell  we&#39;re up to right now:
+&lt;img src=&#39;/uploads/default/218/2a254ae2790ba2e0.jpg&#39;&gt;
+
+And here are some general ideas about the possibilities of how to install the load cell:
+&lt;img src=&quot;/uploads/default/217/1d611dde885a896e.png&quot; width=&quot;690&quot; height=&quot;318&quot;&gt; 
+
+@jonathan @AaronM Any idea where to go from here?</description>
+    
+    <lastBuildDate>Wed, 27 Apr 2016 17:19:17 -0400</lastBuildDate>
+    <category>Sensor Kits</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@Absz0lut Csaba Agod)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/absz0lut">Csaba Agod</a> wrote:</p>
+          <blockquote>
+              <p>Is there a working firmware with an integrated H30A Bosche Load Cell ?<br>Thanks</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/17">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/17</link>
+        <pubDate>Wed, 27 Apr 2016 17:19:17 -0400</pubDate>
+        <guid isPermaLink="false">post-171-17</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@julianawitt julian awitt)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/julianawitt">julian awitt</a> wrote:</p>
+          <blockquote>
+              <p>Transcell Technology is dedicated to the development of new <a href="http://www.transcell.com/Load_Cells/c4/index.html">load cells</a>   products and services in the weighing industry. They have been leading through customer service, technical service, and new product technological innovations for over 30 plus years and are running successfully till date. The Transcell counting scales are the ideal scale for ensuring that nothing is left to chance due to human error. They have solutions for all of your questions and provide you with numerous devices like counting scale, balance scale, floor scale, portable scale or postal scale.  Almost all of their devices, especially TCS3T Series counting scale allow you to easily get a number count on whatever it is you are counting. They can do any counting tasks like counting the number of pills to fill a prescription or to pack a certain amount of screws in a package, etc. </p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/16">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/16</link>
+        <pubDate>Mon, 25 Jan 2016 13:19:52 -0500</pubDate>
+        <guid isPermaLink="false">post-171-16</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@Clemens Clemens Gruber)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/clemens">Clemens Gruber</a> wrote:</p>
+          <blockquote>
+              <p>The picture in the first posting comes from a prototype Marcus did for the frame hardware and me for load cell set up and Arduino sketch. See <a href="http://wbk.in-berlin.de/wp/blog/2014/04/durchbruch-bienenwaage/" rel="nofollow">http://wbk.in-berlin.de/wp/blog/2014/04/durchbruch-bienenwaage/</a> (sorry only in German). </p>
+
+<p>I would not count on OpAmps alone. They can lift up signals but after doing this the next barrier is the 10 bit only resolution of Arduino's ADC. You will only get a resolution of 1024th of the maximal load. I tried out an external 16 bit ADC (ADS1115) but was not really happy with the result. Use instead an ADS1231 or a HX711.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/15">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/15</link>
+        <pubDate>Tue, 14 Apr 2015 19:31:37 -0400</pubDate>
+        <guid isPermaLink="false">post-171-15</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@jet jet townsend)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jet">jet townsend</a> wrote:</p>
+          <blockquote>
+              <p>Thanks, I'll check out that 125P.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/14">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/14</link>
+        <pubDate>Sun, 01 Mar 2015 15:38:26 -0500</pubDate>
+        <guid isPermaLink="false">post-171-14</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@marcob8890 Mark Benson)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/marcob8890">Mark Benson</a> wrote:</p>
+          <blockquote>
+              <p>The instrument amplifier I used in the above project was a Texas Instruments INA 125P, spec sheet can be found here:  <a href="http://www.ti.com/lit/ds/symlink/ina125.pdf" rel="nofollow">www.ti.com/lit/ds/symlink/ina125.pdf</a>.  The adjustable gain in a handy feature and the cost to rig up the whole system is very affordable.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/13">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/13</link>
+        <pubDate>Tue, 24 Feb 2015 10:50:54 -0500</pubDate>
+        <guid isPermaLink="false">post-171-13</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@marcob8890 Mark Benson)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/marcob8890">Mark Benson</a> wrote:</p>
+          <blockquote>
+              <p>I've used instrument amplifiers to act as the bridge and an Arduino to interface them , very low cost.  I'll try to find the actual part numbers but I believe they are made by Dallas Semi.  Attached is an illustration of how they were hooked up(for illustration purposes only!).  I used this setup to measure force on the rigging of a sailboat.<div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/239/631cc2224f8ad3e4.jpg" class="lightbox" title="Load Cell_bb.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/899/04e/ca870efb48_624x500.jpg" width="624" height="500"><div class="meta">
+<span class="filename">Load Cell_bb.jpg</span><span class="informations">2343x1875 1020 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/12">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/12</link>
+        <pubDate>Sun, 22 Feb 2015 09:54:12 -0500</pubDate>
+        <guid isPermaLink="false">post-171-12</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@jet jet townsend)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jet">jet townsend</a> wrote:</p>
+          <blockquote>
+              <p>My other project needs &gt; 100K support, and a loaded Langstroth can break 130K, so I'm starting at the heavy end. The Phidgets sensors in that range are $50 + another $100 for the USB bridge + whatever gets the data into my garage.   For $150 I can build a wireless Arduino with a Flexiforce, but I need to test how accurate it is during cold weather.  We've got plenty of -10C days to work with this week in PGH.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/11">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/11</link>
+        <pubDate>Sat, 21 Feb 2015 11:00:28 -0500</pubDate>
+        <guid isPermaLink="false">post-171-11</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@ron Ron Jacob)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
+          <blockquote>
+              <p>Sounds good as their 50kg load cell is about 7$ each:<br><a href="http://www.phidgets.com/products.php?category=34&amp;product_id=3135_0" class="onebox" target="_blank">http://www.phidgets.com/products.php?category=34&amp;product_id=3135_0</a></p>
+
+<p>but the bridge is just too expensive to be price competetiv. We could use 4x an ADC (like the Hx711) which is about 5$ each. But running into the proble of lacking pin connections than...</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/10">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/10</link>
+        <pubDate>Sat, 21 Feb 2015 09:47:46 -0500</pubDate>
+        <guid isPermaLink="false">post-171-10</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@marcob8890 Mark Benson)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/marcob8890">Mark Benson</a> wrote:</p>
+          <blockquote>
+              <p>Phidgets.com sells load cells and a usb interface board for them. They specialize in sensors and interface systems for hackers and their stuff is very easy to use. They also have a good library of sample code, should be straightforward to adapt them to an RPi.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/9">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/9</link>
+        <pubDate>Sat, 21 Feb 2015 09:03:53 -0500</pubDate>
+        <guid isPermaLink="false">post-171-9</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@jet jet townsend)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jet">jet townsend</a> wrote:</p>
+          <blockquote>
+              <p>Got it a couple of days ago, just now experimenting with 2M ohm resistor.  It has a nice curve from 1 to 10K then a jump up to 90K (me!) and 113K (me + test weights).  </p>
+
+<p>I'm wondering if the stats are prior to calibration.  That is, if installed a dozen of these I'd have to come up with the right amount of resistance load to adjust each individual sensor.  Alternatively, one could have four sensors (one on each axis) and take the average value as a reading.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/8">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/8</link>
+        <pubDate>Fri, 20 Feb 2015 20:36:16 -0500</pubDate>
+        <guid isPermaLink="false">post-171-8</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@jet jet townsend)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jet">jet townsend</a> wrote:</p>
+          <blockquote>
+              <p>Are there requirements for weight measurement?   Most of the locals I know here don't use scales, they just calculate weight by counting loaded frames or the experienced "heft" technique.   (Few of them have more than 4 hives, most have 2.)</p>
+
+<p>When my PS-03 arrives this week I'll put it through it's paces.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/7">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/7</link>
+        <pubDate>Sun, 08 Feb 2015 16:34:32 -0500</pubDate>
+        <guid isPermaLink="false">post-171-7</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@geo3geo Geo Meadows)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/geo3geo">Geo Meadows</a> wrote:</p>
+          <blockquote>
+              <aside class="quote" data-post="5" data-topic="171"><div class="title">
+<div class="quote-controls"></div>
+<img width="20" height="20" src="/user_avatar/community.opensourcebeehives.net/jet/40/223.png" class="avatar">jet said:</div>
+<blockquote><p>Flexiforce PS-03</p></blockquote></aside>
+
+<p>Jet - not sure the Flexiforce is good enough for hive weight, following is from their spec:</p>
+
+<p>Repeatability: &lt; ±2.5% of full scale (Conditioned sensor, 80% of full force applied)<br>Hysteresis: &lt; ±4.5% of full scale (Conditioned sensor, 80% of full force applied)<br>Drift: &lt; 3% / logarithmic time (Constant load - 25 lb.)</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/6">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/6</link>
+        <pubDate>Sun, 08 Feb 2015 14:53:18 -0500</pubDate>
+        <guid isPermaLink="false">post-171-6</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@jet jet townsend)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jet">jet townsend</a> wrote:</p>
+          <blockquote>
+              <p>I'm looking at the Flexiforce PS-03 for another project, but they might be good for total hive weight.  The #100 sensor can be set up so that it measures up to #1000 by changing the power feed and resistors used to read its resistance.</p>
+
+<p>Here's their FAQ:<br><a href="http://www.imagesco.com/sensors/flexiforce-faq.html#14" class="onebox" target="_blank" rel="nofollow">http://www.imagesco.com/sensors/flexiforce-faq.html#14</a></p>
+
+<p>SparkFun distributes these if you have trouble finding a cheap/local supplier.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/5</link>
+        <pubDate>Sat, 07 Feb 2015 00:19:50 -0500</pubDate>
+        <guid isPermaLink="false">post-171-5</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@Jagungal Cormac Farrell)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jagungal">Cormac Farrell</a> wrote:</p>
+          <blockquote>
+              <p>I agree with the above - here in Australia we tend to have really big nectar flows from the Eucalyptus trees that then suddenly stop, so tracking relative weight gain is what we need. </p>
+
+<p>If you are doing proper inspections it should be very easy to relate readings to hive conditions, so absolute accuracy is only really important for a consistent global data set. </p>
+
+<p>Basically I need a warning of sudden weight gains, as a normal colony can fill an 8-frame Langstroth deep super in around a week.  Makes a hell of a mess of your inside cover when they fill every scrap of space with honey laden burr comb.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/4</link>
+        <pubDate>Tue, 03 Feb 2015 22:48:58 -0500</pubDate>
+        <guid isPermaLink="false">post-171-4</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@geo3geo Geo Meadows)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/geo3geo">Geo Meadows</a> wrote:</p>
+          <blockquote>
+              <p>My own preference would be for something that can't fall in a any way (wind/animals etc) so I'd go for placing the cell below so it takes, say, 80% of the weight. This would be very stable and involve very little hardware. Software can compensate but absolute accuracy is not in my opinion an issue anyway, it's relative weight change that matters.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/3</link>
+        <pubDate>Mon, 02 Feb 2015 15:12:49 -0500</pubDate>
+        <guid isPermaLink="false">post-171-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p>Awesome <a class="mention" href="/users/ron">@Ron</a>.</p>
+
+<p>This might be a silly suggestion, but imagine if we had a strip of weight sensors along the inside pocket where the top bars sit. This way you could measure the weight of each top bar individually, and create accurate readings of how much weight is honey, and how much is brood etc.</p>
+
+<p>Just a thought!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/2</link>
+        <pubDate>Mon, 02 Feb 2015 14:33:28 -0500</pubDate>
+        <guid isPermaLink="false">post-171-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+      <item>
+        <title>Load Cell Integration</title>
+        <author>no-reply@example.com (@ron Ron Jacob)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
+          <blockquote>
+              <p>This Topic is about how we acutally integrate a load cell into the hive designs (Colorado Top Bar and the Warré Design).</p>
+
+<p>As exact working load cells are quite expensive the approach is to use only <strong>one sensor per Hive</strong> - taking the whole weight of it.</p>
+
+<p>This is the load cell  we're up to right now:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/218/2a254ae2790ba2e0.jpg" class="lightbox" title="p1040455.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/951/c6b/d555ed988e_690x466.jpg" width="690" height="466"><div class="meta">
+<span class="filename">p1040455.jpg</span><span class="informations">1395x943 133 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p>And here are some general ideas about the possibilities of how to install the load cell:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/217/1d611dde885a896e.png" class="lightbox" title="text3970.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/240/1fa/7f9842fd4d_690x318.png" width="690" height="318"><div class="meta">
+<span class="filename">text3970.png</span><span class="informations">929x429 61.4 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p><a class="mention" href="/users/jonathan">@jonathan</a> <a class="mention" href="/users/aaronm">@AaronM</a> Any idea where to go from here?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/load-cell-integration/171/1</link>
+        <pubDate>Mon, 02 Feb 2015 14:14:21 -0500</pubDate>
+        <guid isPermaLink="false">post-171-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+      </item>
+  </channel>
+</rss>

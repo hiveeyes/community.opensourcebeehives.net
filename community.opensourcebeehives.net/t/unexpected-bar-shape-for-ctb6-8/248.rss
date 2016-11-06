@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unexpected Bar Shape for CTB6.8</title>
+    <link>http://community.opensourcebeehives.net/t/unexpected-bar-shape-for-ctb6-8/248</link>
+    <description>I just cut my first CTB 6.X and everything ran pretty well!
+&lt;img src=&quot;/uploads/default/280/deb575045de7c2e1.JPG&quot; width=&quot;320&quot; height=&quot;240&quot;&gt; 
+
+However, the top bars don&#39;t seem to rest as easily on the hive as they did in the older designs and the shape of the bars seems to be inverted from earlier designs. Here&#39;s what they look like:
+&lt;img src=&quot;/uploads/default/281/06447b0d470887e5.JPG&quot; width=&quot;375&quot; height=&quot;500&quot;&gt; 
+
+Did I do something wrong? Did I misread the 5mm pocket layer or is this correct?
+
+Thanks!
+
+-Dave</description>
+    
+    <lastBuildDate>Thu, 04 Jun 2015 09:45:08 -0400</lastBuildDate>
+    <category>CNC Fabrication Support</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/unexpected-bar-shape-for-ctb6-8/248.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Unexpected Bar Shape for CTB6.8</title>
+        <author>no-reply@example.com (@zorlack Dave S)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/zorlack">Dave S</a> wrote:</p>
+          <blockquote>
+              <p>I just cut my first CTB 6.X and everything ran pretty well!<br><img src="//community.opensourcebeehives.net/uploads/default/280/deb575045de7c2e1.JPG" width="320" height="240"> </p>
+
+<p>However, the top bars don't seem to rest as easily on the hive as they did in the older designs and the shape of the bars seems to be inverted from earlier designs. Here's what they look like:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/281/06447b0d470887e5.JPG" class="lightbox" title="IMG_7348.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/a83/498/9d39f5428c_375x500.JPG" width="375" height="500"><div class="meta">
+<span class="filename">IMG_7348.JPG</span><span class="informations">480x640 130 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p>Did I do something wrong? Did I misread the 5mm pocket layer or is this correct?</p>
+
+<p>Thanks!</p>
+
+<p>-Dave</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/unexpected-bar-shape-for-ctb6-8/248/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/unexpected-bar-shape-for-ctb6-8/248/1</link>
+        <pubDate>Thu, 04 Jun 2015 09:45:08 -0400</pubDate>
+        <guid isPermaLink="false">post-248-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/unexpected-bar-shape-for-ctb6-8/248.rss">Unexpected Bar Shape for CTB6.8</source>
+      </item>
+  </channel>
+</rss>

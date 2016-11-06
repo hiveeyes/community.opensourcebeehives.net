@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bosch load cell results</title>
+    <link>http://community.opensourcebeehives.net/t/bosch-load-cell-results/210</link>
+    <description>I&#39;ve updated my BeeBug blog at http://bugthebees.blogspot.co.uk/ to show latest results for a Bosch  H10A-C3-0040 sensor that I&#39;ve had on test for a week. It costs less than 30 euros delivered to the UK from Germany and I&#39;m most impressed with its performance. It&#39;s a full bridge configuration so very easy to connect to an instrumentation amp. It&#39;s now part of my second BeeBug installation, linked to my website via Thingspeak and local Wifi. 
+
+Live at www.mecol.co.uk/P11.php  
+Click on Hive 2 at bottom of page for second BeeBug system,  just settling down now after some Wifi teething problems.
+
+Geo</description>
+    
+    <lastBuildDate>Tue, 14 Apr 2015 19:28:52 -0400</lastBuildDate>
+    <category>Sensor Kits</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Bosch load cell results</title>
+        <author>no-reply@example.com (@Clemens Clemens Gruber)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/clemens">Clemens Gruber</a> wrote:</p>
+          <blockquote>
+              <p>I tested also Bosche load cells (btw it is not Bosch, it is Bosche, with "e" at the and, Bosch has also load cells, but much more expensive). </p>
+
+<p>The H30A (100 or 200 kg max. capacity) or the H40A seems to bee good choices. Have a look at the H20A, it has a 2 mm lower profile on one side so I wonder if you can use it without any distance plate.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/bosch-load-cell-results/210/4</link>
+        <pubDate>Tue, 14 Apr 2015 19:28:52 -0400</pubDate>
+        <guid isPermaLink="false">post-210-4</guid>
+        <source url="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210.rss">Bosch load cell results</source>
+      </item>
+      <item>
+        <title>Bosch load cell results</title>
+        <author>no-reply@example.com (@geo3geo Geo Meadows)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/geo3geo">Geo Meadows</a> wrote:</p>
+          <blockquote>
+              <p>I think the only way would be to have four sensors, one under each leg of the hive base and then display the readings in some sort of graphical display. It's an interesting project, I'll have four of the cheapo load cells coming free shortly as I'm moving to the Bosch sensor on both hives so I could do this in addition to the system I now have. I'll post something if I get round to this. Thanks for the feedback.<br>Geo</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/bosch-load-cell-results/210/3</link>
+        <pubDate>Fri, 20 Mar 2015 13:07:21 -0400</pubDate>
+        <guid isPermaLink="false">post-210-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210.rss">Bosch load cell results</source>
+      </item>
+      <item>
+        <title>Bosch load cell results</title>
+        <author>no-reply@example.com (@macsun Mark Carlson)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/macsun">Mark Carlson</a> wrote:</p>
+          <blockquote>
+              <p>Good work Geo. For top bar hives I'd like to monitor the fluctuating weight distribution between the front and back of the hive. Does your setup do that or would you need a sensor in front as well as the back? Any ideas how to modify your sensor setup to do this?</p>
+
+<p>Thanks.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/bosch-load-cell-results/210/2</link>
+        <pubDate>Fri, 13 Mar 2015 11:24:42 -0400</pubDate>
+        <guid isPermaLink="false">post-210-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210.rss">Bosch load cell results</source>
+      </item>
+      <item>
+        <title>Bosch load cell results</title>
+        <author>no-reply@example.com (@geo3geo Geo Meadows)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/geo3geo">Geo Meadows</a> wrote:</p>
+          <blockquote>
+              <p>I've updated my BeeBug blog at <a href="http://bugthebees.blogspot.co.uk/" rel="nofollow">http://bugthebees.blogspot.co.uk/</a> to show latest results for a Bosch  H10A-C3-0040 sensor that I've had on test for a week. It costs less than 30 euros delivered to the UK from Germany and I'm most impressed with its performance. It's a full bridge configuration so very easy to connect to an instrumentation amp. It's now part of my second BeeBug installation, linked to my website via Thingspeak and local Wifi. </p>
+
+<p>Live at <a href="http://www.mecol.co.uk/P11.php" rel="nofollow">www.mecol.co.uk/P11.php</a><br>Click on Hive 2 at bottom of page for second BeeBug system,  just settling down now after some Wifi teething problems.</p>
+
+<p>Geo</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/bosch-load-cell-results/210/1</link>
+        <pubDate>Fri, 13 Mar 2015 06:01:08 -0400</pubDate>
+        <guid isPermaLink="false">post-210-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210.rss">Bosch load cell results</source>
+      </item>
+  </channel>
+</rss>

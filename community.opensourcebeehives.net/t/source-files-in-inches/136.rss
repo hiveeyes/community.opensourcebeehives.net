@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Files in Inches</title>
+    <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136</link>
+    <description>Hello everyone,
+
+I&#39;ve reached out to a CNC shop that is willing to help cut the hives for me, however, they are requesting the dimensions in the files be in inches instead of metric. Apparently their machines will only work in inches and they would prefer not to do the rounding. They used a 5mm deep pocketing operation as an example. Does that translate to 0.196 or 0.2 inches?
+
+The reason I&#39;m posting here is for advice on how to approach this. Has someone run into this problem before? I&#39;m happy to attempt to convert the current source files to inches, but it would be helpful to know what type of accuracy is required to make this work.</description>
+    
+    <lastBuildDate>Wed, 04 Mar 2015 12:35:27 -0500</lastBuildDate>
+    <category>CNC Fabrication Support</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Source Files in Inches</title>
+        <author>no-reply@example.com (@jet jet townsend)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jet">jet townsend</a> wrote:</p>
+          <blockquote>
+              <p>I just trained on the ShopBot at Techshop and they seem to be rather anti-Metric.  I use lasercutters and waterjets in metric and it hasn't been a problem.  I'm going over there later today and will try to see what's involved with importing the files into v-carve.    Once they're converted to SAE we should be able to share them, correct?</p>
+
+<p>[edit]  Ok, I just looked at the Rhino files.  There are a lot of slots and tabs dependent on the thickness of the plywood, I can see where this could slow things down a bit, as there's no good match between metric thickness and SAE plywood.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/source-files-in-inches/136/8">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136/8</link>
+        <pubDate>Wed, 04 Mar 2015 12:25:33 -0500</pubDate>
+        <guid isPermaLink="false">post-136-8</guid>
+        <source url="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss">Source Files in Inches</source>
+      </item>
+      <item>
+        <title>Source Files in Inches</title>
+        <author>no-reply@example.com (@Matty Matty)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/matty">Matty</a> wrote:</p>
+          <blockquote>
+              <p>We just cut this today in our shop on a Laguna Smart Shop.  Cut time was about an hour with swapping bits.  We used a down cut 1/4" router bit with the feed rate set to 180 ipm for the pockets and a 1/4" single flute compression bit for the profile cuts at 180 ipm.  Spindle was at 220 RPS for the down cut bit and 350 RPS for the compression bit.  We could have easily run this at 300-400 ipm but choose to keep this much slower due to the smaller parts and not being familiar with the cut file.</p>
+
+<p>I must say that this was one of the best laid out cut files I have used.  Very impressed.  Would love to see the v6.1 in 19mm (.75in) so we could use the latest files.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/source-files-in-inches/136/7">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136/7</link>
+        <pubDate>Wed, 04 Mar 2015 00:59:07 -0500</pubDate>
+        <guid isPermaLink="false">post-136-7</guid>
+        <source url="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss">Source Files in Inches</source>
+      </item>
+      <item>
+        <title>Source Files in Inches</title>
+        <author>no-reply@example.com (@marcob8890 Mark Benson)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/marcob8890">Mark Benson</a> wrote:</p>
+          <blockquote>
+              <p>I initially thought the same thing, being used to working in inches. After I realized the only conversion needed was on the Z axis for pocketing/outline,  I used the 19 mm file and rounded what few conversions there were.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/source-files-in-inches/136/6">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136/6</link>
+        <pubDate>Sun, 15 Feb 2015 10:50:35 -0500</pubDate>
+        <guid isPermaLink="false">post-136-6</guid>
+        <source url="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss">Source Files in Inches</source>
+      </item>
+      <item>
+        <title>Source Files in Inches</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p>Hi <a class="mention" href="/users/wynn_geary">@wynn_geary</a> - routing times - 6 hours on a $18,000 ShopBot - 1.25 hrs on a $75,000 MultiCam 5000 - 45m on a $150,000 Biesse</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/source-files-in-inches/136/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136/5</link>
+        <pubDate>Wed, 17 Dec 2014 21:30:18 -0500</pubDate>
+        <guid isPermaLink="false">post-136-5</guid>
+        <source url="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss">Source Files in Inches</source>
+      </item>
+      <item>
+        <title>Source Files in Inches</title>
+        <author>no-reply@example.com (@wynn_geary Wynn Geary)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/wynn_geary">Wynn Geary</a> wrote:</p>
+          <blockquote>
+              <p>Speaking of having the hives cut at shops with CNC machines, does anyone have information on roughly how long it takes for one hive to be cut (maybe different machines take different amounts of time)? I'm planning on having a friend cut out one hive but if it's fairly fast and if the files are already all loaded up I'm wondering if it'd be a good idea to cut out two. </p>
+
+<p>Thanks, <br>Wynn</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/source-files-in-inches/136/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136/4</link>
+        <pubDate>Wed, 17 Dec 2014 21:07:06 -0500</pubDate>
+        <guid isPermaLink="false">post-136-4</guid>
+        <source url="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss">Source Files in Inches</source>
+      </item>
+      <item>
+        <title>Source Files in Inches</title>
+        <author>no-reply@example.com (@caleb Caleb Phillips)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/caleb">Caleb Phillips</a> wrote:</p>
+          <blockquote>
+              <p>This issue was a bit of a showstopper for me when trying to get hives manufactured in California. Two different maker-types with shopbots told me that the time it would take them to translate the files and prepare them for loading on the machines would be upwards of 1-3 hours. Ammortizing that labor cost over a small number of hives (+printing and materials) made the hives far too expensive to produce (for me, even batching with half a dozen folks in the San Mateo Bee Guild). Having a shopbot-ready version of the design file (presumably in SI measurements) would be of great help in producing the hives in a cost effective way.</p>
+
+<p>(All that being said, now that I'm in Colorado, I'll be taking the easiest solution: knocking on your door sometime late this winter, Aaron <img src="//community.opensourcebeehives.net/plugins/emoji/images/wink.png" title=":wink:" class="emoji" alt="wink" width="20" height="20">)</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/source-files-in-inches/136/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136/3</link>
+        <pubDate>Thu, 11 Dec 2014 11:54:27 -0500</pubDate>
+        <guid isPermaLink="false">post-136-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss">Source Files in Inches</source>
+      </item>
+      <item>
+        <title>Source Files in Inches</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p>Hey brianblaze - measure your plywood - the 19mm file should work, unless its really close to 18mm - then use that one - I'm in Colorado and we use these files all the time. <a class="mention" href="/users/pbeseda">@pbeseda</a> - any thoughts?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/source-files-in-inches/136/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136/2</link>
+        <pubDate>Wed, 10 Dec 2014 22:11:51 -0500</pubDate>
+        <guid isPermaLink="false">post-136-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss">Source Files in Inches</source>
+      </item>
+      <item>
+        <title>Source Files in Inches</title>
+        <author>no-reply@example.com (@brianzable Brian Zable)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/brianzable">Brian Zable</a> wrote:</p>
+          <blockquote>
+              <p>Hello everyone,</p>
+
+<p>I've reached out to a CNC shop that is willing to help cut the hives for me, however, they are requesting the dimensions in the files be in inches instead of metric. Apparently their machines will only work in inches and they would prefer not to do the rounding. They used a 5mm deep pocketing operation as an example. Does that translate to 0.196 or 0.2 inches?</p>
+
+<p>The reason I'm posting here is for advice on how to approach this. Has someone run into this problem before? I'm happy to attempt to convert the current source files to inches, but it would be helpful to know what type of accuracy is required to make this work.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/source-files-in-inches/136/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136/1</link>
+        <pubDate>Wed, 10 Dec 2014 21:52:09 -0500</pubDate>
+        <guid isPermaLink="false">post-136-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss">Source Files in Inches</source>
+      </item>
+  </channel>
+</rss>

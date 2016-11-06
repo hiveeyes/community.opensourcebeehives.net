@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&quot;Angled pocket entry&quot; for CTB 6.1</title>
+    <link>http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209</link>
+    <description>The hive body drawings associated with CTB 6.1 still show the earlier roof beam design. I&#39;d like to know how to cut the &quot;angled pocket entry&quot; for version 6.1. Is there a specific type of bit that I can use for that application?</description>
+    
+    <lastBuildDate>Fri, 24 Apr 2015 10:02:42 -0400</lastBuildDate>
+    <category>CNC Fabrication Support</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>&quot;Angled pocket entry&quot; for CTB 6.1</title>
+        <author>no-reply@example.com (@PeterWilliams Peter Williams)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/peterwilliams">Peter Williams</a> wrote:</p>
+          <blockquote>
+              <p>I've been cutting them down at 30° and yes, they do fit well. Thanks for the suggestions.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/6">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/6</link>
+        <pubDate>Fri, 24 Apr 2015 10:02:42 -0400</pubDate>
+        <guid isPermaLink="false">post-209-6</guid>
+        <source url="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209.rss">&quot;Angled pocket entry&quot; for CTB 6.1</source>
+      </item>
+      <item>
+        <title>&quot;Angled pocket entry&quot; for CTB 6.1</title>
+        <author>no-reply@example.com (@Matty Matty)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/matty">Matty</a> wrote:</p>
+          <blockquote>
+              <p>For the 6.1 18mm version, I set the table at 30 degrees with the width at 2.75 inches.  Run each side through and this allows the top slat to slide in perfectly.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/5</link>
+        <pubDate>Thu, 19 Mar 2015 09:58:59 -0400</pubDate>
+        <guid isPermaLink="false">post-209-5</guid>
+        <source url="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209.rss">&quot;Angled pocket entry&quot; for CTB 6.1</source>
+      </item>
+      <item>
+        <title>&quot;Angled pocket entry&quot; for CTB 6.1</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p>Yep that's how we were initially doing it as well - feel free to just take a measurement and handle it that way.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/4</link>
+        <pubDate>Wed, 11 Mar 2015 23:09:19 -0400</pubDate>
+        <guid isPermaLink="false">post-209-4</guid>
+        <source url="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209.rss">&quot;Angled pocket entry&quot; for CTB 6.1</source>
+      </item>
+      <item>
+        <title>&quot;Angled pocket entry&quot; for CTB 6.1</title>
+        <author>no-reply@example.com (@Matty Matty)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/matty">Matty</a> wrote:</p>
+          <blockquote>
+              <p>Isn't this something that can just be ripped on a table saw more quickly?  We did this on v5.  Haven't seen the final on v6. since there is no 19mm file.  We ripped the v5 at a 45 degree angle I believe.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/3</link>
+        <pubDate>Wed, 11 Mar 2015 22:45:00 -0400</pubDate>
+        <guid isPermaLink="false">post-209-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209.rss">&quot;Angled pocket entry&quot; for CTB 6.1</source>
+      </item>
+      <item>
+        <title>&quot;Angled pocket entry&quot; for CTB 6.1</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p>You just use an end mill bit - it steps down like a pyramid to make the angle. Use the STL file to get the geometry correct. If you're having issues - tag <a class="mention" href="/users/jonathan">@jonathan</a></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/2</link>
+        <pubDate>Wed, 11 Mar 2015 17:15:32 -0400</pubDate>
+        <guid isPermaLink="false">post-209-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209.rss">&quot;Angled pocket entry&quot; for CTB 6.1</source>
+      </item>
+      <item>
+        <title>&quot;Angled pocket entry&quot; for CTB 6.1</title>
+        <author>no-reply@example.com (@PeterWilliams Peter Williams)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/peterwilliams">Peter Williams</a> wrote:</p>
+          <blockquote>
+              <p>The hive body drawings associated with CTB 6.1 still show the earlier roof beam design. I'd like to know how to cut the "angled pocket entry" for version 6.1. Is there a specific type of bit that I can use for that application?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209/1</link>
+        <pubDate>Wed, 11 Mar 2015 16:29:48 -0400</pubDate>
+        <guid isPermaLink="false">post-209-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209.rss">&quot;Angled pocket entry&quot; for CTB 6.1</source>
+      </item>
+  </channel>
+</rss>

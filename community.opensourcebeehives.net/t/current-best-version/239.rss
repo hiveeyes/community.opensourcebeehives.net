@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Best Version?</title>
+    <link>http://community.opensourcebeehives.net/t/current-best-version/239</link>
+    <description>I noticed that there are several versions of a V6 design for the Colorado Top Bar (which I will be making). The manual is for the 5.4 version.
+
+At first glance it looks a bit puzzling which version I should be building. Could there be a stickie referencing the latest prefered design files and manual?
+
+Simply put there can be many design iterations and fine tuning before the design is useful and standardised for &quot;production&quot; and it might be useful for casual or first time browsers to have simple links to the current best design, updated manual and example pictures.</description>
+    
+    <lastBuildDate>Wed, 27 May 2015 09:22:41 -0400</lastBuildDate>
+    <category>Beehives</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/current-best-version/239.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Current Best Version?</title>
+        <author>no-reply@example.com (@mattias Mattias)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/mattias">Mattias</a> wrote:</p>
+          <blockquote>
+              <p>I also would like to know which version would be best for production. More info about the 6.6 can be found in this post (http://community.opensourcebeehives.net/t/design-review-colorado-top-bar-v6-6/225) but I am not sure if that one is ready for milling</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/current-best-version/239/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/current-best-version/239/3</link>
+        <pubDate>Wed, 27 May 2015 09:22:41 -0400</pubDate>
+        <guid isPermaLink="false">post-239-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/current-best-version/239.rss">Current Best Version?</source>
+      </item>
+      <item>
+        <title>Current Best Version?</title>
+        <author>no-reply@example.com (@jwsswain Jonathan Swain )</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jwsswain">Jonathan Swain </a> wrote:</p>
+          <blockquote>
+              <p>I'd endorse this. I'm also planning to be milling a hive soon, but I have struggled to find my way around the different versions and   the difference with the manual version.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/current-best-version/239/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/current-best-version/239/2</link>
+        <pubDate>Sat, 16 May 2015 09:13:13 -0400</pubDate>
+        <guid isPermaLink="false">post-239-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/current-best-version/239.rss">Current Best Version?</source>
+      </item>
+      <item>
+        <title>Current Best Version?</title>
+        <author>no-reply@example.com (@mnealon Malcolm Nealon)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/mnealon">Malcolm Nealon</a> wrote:</p>
+          <blockquote>
+              <p>I noticed that there are several versions of a V6 design for the Colorado Top Bar (which I will be making). The manual is for the 5.4 version.</p>
+
+<p>At first glance it looks a bit puzzling which version I should be building. Could there be a stickie referencing the latest prefered design files and manual?</p>
+
+<p>Simply put there can be many design iterations and fine tuning before the design is useful and standardised for "production" and it might be useful for casual or first time browsers to have simple links to the current best design, updated manual and example pictures.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/current-best-version/239/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/current-best-version/239/1</link>
+        <pubDate>Sat, 16 May 2015 05:07:48 -0400</pubDate>
+        <guid isPermaLink="false">post-239-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/current-best-version/239.rss">Current Best Version?</source>
+      </item>
+  </channel>
+</rss>

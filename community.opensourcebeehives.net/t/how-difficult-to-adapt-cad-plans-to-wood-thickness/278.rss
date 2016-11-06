@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How difficult to adapt cad plans to wood thickness</title>
+    <link>http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278</link>
+    <description>hi. i have a 1220x2440x19 mm board. how should i adapt the cad plans? is there a quick fix?
+
+greetings</description>
+    
+    <lastBuildDate>Fri, 16 Oct 2015 15:50:04 -0400</lastBuildDate>
+    <category>Beehives</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How difficult to adapt cad plans to wood thickness</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p>Hi nomoi - that's a great suggestion, and we've done that with all AKER kits, including an unfinished beehive, but the CTB won't fit like that unfortunately - we'd have to use two sheets to nest in quarter-section panels.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/5</link>
+        <pubDate>Fri, 16 Oct 2015 15:50:04 -0400</pubDate>
+        <guid isPermaLink="false">post-278-5</guid>
+        <source url="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278.rss">How difficult to adapt cad plans to wood thickness</source>
+      </item>
+      <item>
+        <title>How difficult to adapt cad plans to wood thickness</title>
+        <author>no-reply@example.com (@nomoi robert)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/nomoi">robert</a> wrote:</p>
+          <blockquote>
+              <p>there is no fablab in my area with a cnc mill big enough. just a suggestion to devide the plans in smalle parts too. I don't know what standards are common. But speaking to several carpenters in my area, there are big differences. <img src="//community.opensourcebeehives.net/plugins/emoji/images/frowning.png" title=":frowning:" class="emoji" alt="frowning" width="20" height="20"></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/4</link>
+        <pubDate>Fri, 16 Oct 2015 11:22:31 -0400</pubDate>
+        <guid isPermaLink="false">post-278-4</guid>
+        <source url="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278.rss">How difficult to adapt cad plans to wood thickness</source>
+      </item>
+      <item>
+        <title>How difficult to adapt cad plans to wood thickness</title>
+        <author>no-reply@example.com (@nomoi robert)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/nomoi">robert</a> wrote:</p>
+          <blockquote>
+              <p>yes exactly, trying to be "over accurate" <img src="//community.opensourcebeehives.net/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"> but i sent the carpenter with the cnc mill the plans of the 19 mm dxf file. CTB - v5.4 - Cut Strategies_19mm.dxf</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/3</link>
+        <pubDate>Fri, 16 Oct 2015 11:20:33 -0400</pubDate>
+        <guid isPermaLink="false">post-278-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278.rss">How difficult to adapt cad plans to wood thickness</source>
+      </item>
+      <item>
+        <title>How difficult to adapt cad plans to wood thickness</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p>Hi <a class="mention" href="/users/nomoi">@nomoi</a> - your length and width should be just fine. Is the thickness exactly 19mm?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/2</link>
+        <pubDate>Wed, 14 Oct 2015 11:38:51 -0400</pubDate>
+        <guid isPermaLink="false">post-278-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278.rss">How difficult to adapt cad plans to wood thickness</source>
+      </item>
+      <item>
+        <title>How difficult to adapt cad plans to wood thickness</title>
+        <author>no-reply@example.com (@nomoi robert)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/nomoi">robert</a> wrote:</p>
+          <blockquote>
+              <p>hi. i have a 1220x2440x19 mm board. how should i adapt the cad plans? is there a quick fix?</p>
+
+<p>greetings</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278/1</link>
+        <pubDate>Mon, 12 Oct 2015 19:55:30 -0400</pubDate>
+        <guid isPermaLink="false">post-278-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/how-difficult-to-adapt-cad-plans-to-wood-thickness/278.rss">How difficult to adapt cad plans to wood thickness</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What is the Smart Citizen Kit?</title>
+    <link>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12</link>
+    <description>&lt;img src=&quot;/uploads/default/5/c418443e7b840ce9.jpg&quot; width=&quot;620&quot; height=&quot;465&quot;&gt; 
+&lt;br&gt;
+The [Smart Citizen Kit][1] is an open source wifi-enabled sensor board that can transmit data to the Smart Citizen online platform. Together, [Fablab Barcelona][2] and [Open Tech Forever][3] are developing a customised sensor layer to make the Smart Citizen appropriate for monitoring beehive conditions.
+
+Please post any questions or comments below.
+
+
+  [1]: http://www.smartcitizen.me/
+  [2]: http://fablabbcn.org/
+  [3]: http://www.opentechforever.com</description>
+    <atom:link href="http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>What is the Smart Citizen Kit? at 2014-04-04 14:02:34 -0400</title>
+          <description><![CDATA[
+            <p>Gustavo Arriaga (GArriaga) wrote:</p>
+            <p>I've tried to use the SCK but it is a hot mess.  The user forums over there are plagued with people having every kind of issue imaginable: board component failures, firmware bugs, interface bugs, connectivity problems, etc...etc...etc...  Is the SCK really ready for deployment in another project at this point?  Could the multitude of SCK issues hold this project back significantly?  Is this something that potential backers/collaborators should be made aware of?</p>
+
+<p>edited to add that I assume the SCK will be fully up and running at some point, but right now its causing headaches even for people who are pretty comfortable working with programmable electronics.  Can't imagine how frustrating it could be for people who are more interested in beekeeping than board troubleshooting.  Just something to keep in mind when discussing sensors, electronics and such.</p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/6</link>
+          <pubDate>Fri, 04 Apr 2014 14:02:34 -0400</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/6</guid>
+          <source url="http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12.rss">What is the Smart Citizen Kit?</source>
+        </item>
+        <item>
+          <title>What is the Smart Citizen Kit? at 2014-04-01 07:39:27 -0400</title>
+          <description><![CDATA[
+            <p>Peter Uithoven (peteruithoven) wrote:</p>
+            <p>Where can I find more information? Stay up to date etc. <br>None of these parties mention anything about this on their own website? </p>
+
+<p>Update: I now understand it's part of the crowdfunded project: <a href="https://www.indiegogo.com/projects/open-source-beehives" rel="nofollow">https://www.indiegogo.com/projects/open-source-beehives</a>But still there's very little information available. </p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/5</link>
+          <pubDate>Tue, 01 Apr 2014 07:39:27 -0400</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/5</guid>
+          <source url="http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12.rss">What is the Smart Citizen Kit?</source>
+        </item>
+        <item>
+          <title>What is the Smart Citizen Kit? at 2014-02-25 02:02:09 -0500</title>
+          <description><![CDATA[
+            <p>Christopher Borke (borke) wrote:</p>
+            <p>Is there any discussion of using a bluetooth module?  They're significantly lower powered and would be a great alternative to wifi for battery-powered projects.</p>
+
+<p>Example - <a href="http://www.ampedrftech.com/datasheets/BT31_Datasheet.pdf" rel="nofollow">Amped RF BT31</a>:<br>~40mW transmit power at 115.2k<br>500uA standby mode<br>100 meter LOS transmit range<br>SPI/I2C interfaces</p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/4</link>
+          <pubDate>Tue, 25 Feb 2014 02:02:09 -0500</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/4</guid>
+          <source url="http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12.rss">What is the Smart Citizen Kit?</source>
+        </item>
+        <item>
+          <title>What is the Smart Citizen Kit? at 2013-11-11 13:15:36 -0500</title>
+          <description><![CDATA[
+            <p>Yoav S (syoav) wrote:</p>
+            <p>This is truly an amazing initiative....i want in.</p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/3</link>
+          <pubDate>Mon, 11 Nov 2013 13:15:36 -0500</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/3</guid>
+          <source url="http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12.rss">What is the Smart Citizen Kit?</source>
+        </item>
+        <item>
+          <title>What is the Smart Citizen Kit? at 2013-09-10 14:58:24 -0400</title>
+          <description><![CDATA[
+            <p>Open Source Citizen (OpenSrceCitizen) wrote:</p>
+            <p>This is awesome. It should really revolutionize our understanding of bee conditions and colony collapse.</p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/2</link>
+          <pubDate>Tue, 10 Sep 2013 14:58:24 -0400</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/2</guid>
+          <source url="http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12.rss">What is the Smart Citizen Kit?</source>
+        </item>
+        <item>
+          <title>What is the Smart Citizen Kit? at 2013-09-10 07:02:17 -0400</title>
+          <description><![CDATA[
+            <p>Tristan Copley Smith (trizcs) wrote:</p>
+            <p><img src="http://community.opensourcebeehives.net/uploads/default/5/c418443e7b840ce9.jpg" width="620" height="465"><br><br><br>The <a href="http://www.smartcitizen.me/" rel="nofollow">Smart Citizen Kit</a> is an open source wifi-enabled sensor board that can transmit data to the Smart Citizen online platform. Together, <a href="http://fablabbcn.org/" rel="nofollow">Fablab Barcelona</a> and <a href="http://www.opentechforever.com" rel="nofollow">Open Tech Forever</a> are developing a customised sensor layer to make the Smart Citizen appropriate for monitoring beehive conditions.</p>
+
+<p>Please post any questions or comments below.</p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/1</link>
+          <pubDate>Tue, 10 Sep 2013 07:02:17 -0400</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12/1</guid>
+          <source url="http://community.opensourcebeehives.net/t/what-is-the-smart-citizen-kit/12.rss">What is the Smart Citizen Kit?</source>
+        </item>
+  </channel>
+</rss>

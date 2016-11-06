@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNC Fabrication Support</title>
+    <link>http://community.opensourcebeehives.net/category/cnc-fabrication-support</link>
+    <description>Topics in the &#39;CNC Fabrication Support&#39; category Hey OSBH Community, </description>
+    
+      <lastBuildDate>Wed, 03 Feb 2016 05:54:30 -0500</lastBuildDate>
+      <atom:link href="http://community.opensourcebeehives.net/category/cnc-fabrication-support.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>What CAM software do you recommend?</title>
+          <author>no-reply@example.com (@arasbm Aras)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/arasbm">Aras</a> wrote:</p>
+            <blockquote>
+              <p>I am wondering if there are any open source CAM software that would be able to process the open source beehive designs. So far I have only used very basic CAM software at our makerspace to make very simple parts or signs. Creating the full nested 4x8 sheet is proving to be a bit challenging without expensive CAM software. I will have to break the nest into two or possibly 3 sections so that we can cut it on our 5' by 5' shapoko router.</p>
+
+<p>Can anyone give me some advice about how to proceed? What CAM software should I try? Is there an easy way to break down the full design into individual SVG files so that they could be processed using simpler CAM software such as easel?</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/what-cam-software-do-you-recommend/304">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/what-cam-software-do-you-recommend/304</link>
+          <pubDate>Wed, 03 Feb 2016 05:54:30 -0500</pubDate>
+          <guid isPermaLink="false">topic-304</guid>
+          <source url="http://community.opensourcebeehives.net/t/what-cam-software-do-you-recommend/304.rss">What CAM software do you recommend?</source>
+        </item>
+        <item>
+          <title>Are the OSBH designs available in SVG?</title>
+          <author>no-reply@example.com (@arasbm Aras)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/arasbm">Aras</a> wrote:</p>
+            <blockquote>
+              <p>Hi there,</p>
+
+<p>I am new here and found out about your project very recently. I was wondering if anyone could export the latest plans to SVG for me. At our makerspace we don’t have access to any commercial CAM software that can import the DXF and converting the DXF to SVG is proving rather difficult. If you could export the parts to SVG from your CAD, that would be very useful to us! I am attempting to use easel to create the gcode. </p>
+
+<p>I have already tried using Inkscape and QCAD to convert the DXF file into SVG. QCAD does a better job, however it still breaks segments of contour into individual path.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303</link>
+          <pubDate>Wed, 03 Feb 2016 05:43:46 -0500</pubDate>
+          <guid isPermaLink="false">topic-303</guid>
+          <source url="http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303.rss">Are the OSBH designs available in SVG?</source>
+        </item>
+        <item>
+          <title>Fabrication services in Minnesota, USA</title>
+          <author>no-reply@example.com (@finegrainstudios Andy Fahl)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/finegrainstudios">Andy Fahl</a> wrote:</p>
+            <blockquote>
+              <p>Hi All,<br>I'd like to offer fabrication services for those around the Minneapolis &amp; St. Paul, Minnesota, area. I've just joined the site but have been following it for a few months. I've been interested in beekeeping for several years but haven't been able to get a spot in the highly desirable University of Minnesota extension program for beekeeping. There are just a few classes and they sell out very quickly and we are required to take a course to get a beekeeping permit in the city.</p>
+
+<p>I have a start-up business making wood products using digital fabrication and traditional woodworking methods and am designing for the 4'x8' CNC router and 24"x36" 90W CO2 laser I use. I'd like to be part of the product and be a resource for people who need fabrication services. Finegrain Studios only uses FSC and reclaimed wood as well as timber from my family farm. Finishes are either certified non-toxic commercial products with a preference toward natural oils or my homemade mineral oil and beeswax wood finish...made with the help of Minnesota bees!</p>
+
+<p>Please PM me for more information. My website hasn't yet launched but will in the next month.<br>Andy Fahl<br>Owner, Chief Elf<br>Finegrain Studios, Ltd.<br>finegrainstudios.com</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/fabrication-services-in-minnesota-usa/267">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/fabrication-services-in-minnesota-usa/267</link>
+          <pubDate>Thu, 06 Aug 2015 20:16:55 -0400</pubDate>
+          <guid isPermaLink="false">topic-267</guid>
+          <source url="http://community.opensourcebeehives.net/t/fabrication-services-in-minnesota-usa/267.rss">Fabrication services in Minnesota, USA</source>
+        </item>
+        <item>
+          <title>What size is the frees bit?</title>
+          <author>no-reply@example.com (@mnealon Malcolm Nealon)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/mnealon">Malcolm Nealon</a> wrote:</p>
+            <blockquote>
+              <p>Trying to get a CTB 6.1 cut here in the Netherlands. The company I am trying to use says that he can only use an 8mm bit and that there are several cuts that seemingly require a 4mm bit. He says that he can only use an 8mm bit.</p>
+
+<p>Has anyone else experienced this?  What size bit is expected to be used?</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249</link>
+          <pubDate>Thu, 04 Jun 2015 16:17:06 -0400</pubDate>
+          <guid isPermaLink="false">topic-249</guid>
+          <source url="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249.rss">What size is the frees bit?</source>
+        </item>
+        <item>
+          <title>Unexpected Bar Shape for CTB6.8</title>
+          <author>no-reply@example.com (@zorlack Dave S)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/zorlack">Dave S</a> wrote:</p>
+            <blockquote>
+              <p>I just cut my first CTB 6.X and everything ran pretty well!<br><img src="//community.opensourcebeehives.net/uploads/default/280/deb575045de7c2e1.JPG" width="320" height="240"> </p>
+
+<p>However, the top bars don't seem to rest as easily on the hive as they did in the older designs and the shape of the bars seems to be inverted from earlier designs. Here's what they look like:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/281/06447b0d470887e5.JPG" class="lightbox" title="IMG_7348.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/a83/498/9d39f5428c_375x500.JPG" width="375" height="500"><div class="meta">
+<span class="filename">IMG_7348.JPG</span><span class="informations">480x640 130 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p>Did I do something wrong? Did I misread the 5mm pocket layer or is this correct?</p>
+
+<p>Thanks!</p>
+
+<p>-Dave</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/unexpected-bar-shape-for-ctb6-8/248">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/unexpected-bar-shape-for-ctb6-8/248</link>
+          <pubDate>Thu, 04 Jun 2015 09:45:08 -0400</pubDate>
+          <guid isPermaLink="false">topic-248</guid>
+          <source url="http://community.opensourcebeehives.net/t/unexpected-bar-shape-for-ctb6-8/248.rss">Unexpected Bar Shape for CTB6.8</source>
+        </item>
+        <item>
+          <title>Barcelona_Warre_Hive Pararsolid 3d Nested parts file and cnc flat packs uk</title>
+          <author>no-reply@example.com (@SouthwestCnc Southwest Cnc)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/southwestcnc">Southwest Cnc</a> wrote:</p>
+            <blockquote>
+              <p>Hi, im new here, But love the effort thats been put into the beehive designs in true opensource style, and growing the bee keeper community, So i thought i would join the effort. </p>
+
+<p>Because i router all parts from 3d when there are 3d strategies involved. I have layed all the parts from the 3d Barcelona_Warre_Hive into a parasolid x_t Nested into an 8x4 sheet in the same layout as the original, If of use to anyone, (parasolid text file is version 27, if anyone requires an earlier version or different 3d format please contact me and i will be happy to re format) </p>
+
+<p>View and Download file here: <a href="https://grabcad.com/library/barcelona_warre_hive-8x4-layout-1" rel="nofollow">https://grabcad.com/library/barcelona_warre_hive-8x4-layout-1</a></p>
+
+<p>If anyone here is looking for cnc flat packs of these in the uk.. I can cut these for £100. Please enquire via my website: <a href="http://www.southwestcnc.co.uk" rel="nofollow">www.southwestcnc.co.uk</a></p>
+
+<p>Cheers.<br>Jon.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/barcelona-warre-hive-pararsolid-3d-nested-parts-file-and-cnc-flat-packs-uk/237">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/barcelona-warre-hive-pararsolid-3d-nested-parts-file-and-cnc-flat-packs-uk/237</link>
+          <pubDate>Wed, 13 May 2015 14:31:35 -0400</pubDate>
+          <guid isPermaLink="false">topic-237</guid>
+          <source url="http://community.opensourcebeehives.net/t/barcelona-warre-hive-pararsolid-3d-nested-parts-file-and-cnc-flat-packs-uk/237.rss">Barcelona_Warre_Hive Pararsolid 3d Nested parts file and cnc flat packs uk</source>
+        </item>
+        <item>
+          <title>Production Price for BNC Warre Beehive</title>
+          <author>no-reply@example.com (@danibo Daniel )</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/danibo">Daniel </a> wrote:</p>
+            <blockquote>
+              <p>Hallo <br>I am frustated. I wanted to produce a BNC Warre Beehive but the production in Switzerland (only CNC milling and wood) costs about 1800 $. Is this normal. <br>What are the prices in other areas?</p>
+
+<p>Thanks <br>danibo</p>
+            </blockquote>
+            <p>Posts: 8</p>
+            <p>Participants: 6</p>
+            <p><a href="http://community.opensourcebeehives.net/t/production-price-for-bnc-warre-beehive/229">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/production-price-for-bnc-warre-beehive/229</link>
+          <pubDate>Thu, 23 Apr 2015 15:27:38 -0400</pubDate>
+          <guid isPermaLink="false">topic-229</guid>
+          <source url="http://community.opensourcebeehives.net/t/production-price-for-bnc-warre-beehive/229.rss">Production Price for BNC Warre Beehive</source>
+        </item>
+        <item>
+          <title>I have access to a Routech CNC and need .ard files for a Langstroth</title>
+          <author>no-reply@example.com (@Onyxtacular Damian Jones)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/onyxtacular">Damian Jones</a> wrote:</p>
+            <blockquote>
+              <p>I work for a Cabinetry company and would like to build a few Langstroth hives for the area.  Would I would really like is to take a 4' x 8' sheet of material and have as many components as possible cut out of it.  The software being used is either Alphacam or TurboCad. Does anyone have this information?  This my first time here so pardon if this has already been asked and answered.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/i-have-access-to-a-routech-cnc-and-need-ard-files-for-a-langstroth/216">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/i-have-access-to-a-routech-cnc-and-need-ard-files-for-a-langstroth/216</link>
+          <pubDate>Mon, 23 Mar 2015 13:22:15 -0400</pubDate>
+          <guid isPermaLink="false">topic-216</guid>
+          <source url="http://community.opensourcebeehives.net/t/i-have-access-to-a-routech-cnc-and-need-ard-files-for-a-langstroth/216.rss">I have access to a Routech CNC and need .ard files for a Langstroth</source>
+        </item>
+        <item>
+          <title>&quot;Angled pocket entry&quot; for CTB 6.1</title>
+          <author>no-reply@example.com (@PeterWilliams Peter Williams)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/peterwilliams">Peter Williams</a> wrote:</p>
+            <blockquote>
+              <p>The hive body drawings associated with CTB 6.1 still show the earlier roof beam design. I'd like to know how to cut the "angled pocket entry" for version 6.1. Is there a specific type of bit that I can use for that application?</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209</link>
+          <pubDate>Wed, 11 Mar 2015 16:29:48 -0400</pubDate>
+          <guid isPermaLink="false">topic-209</guid>
+          <source url="http://community.opensourcebeehives.net/t/angled-pocket-entry-for-ctb-6-1/209.rss">&quot;Angled pocket entry&quot; for CTB 6.1</source>
+        </item>
+        <item>
+          <title>Design Files for smaller CNC Machines</title>
+          <author>no-reply@example.com (@martinderm Martin M)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/martinderm">Martin M</a> wrote:</p>
+            <blockquote>
+              <p>Has somebody already been thinking to break down the beehive files for smaller CNC machines? <br>The biggest disadvantage would probably be that it has to be re-done for every design change. Is there any way to avoid that?</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/design-files-for-smaller-cnc-machines/140">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/design-files-for-smaller-cnc-machines/140</link>
+          <pubDate>Mon, 15 Dec 2014 05:26:37 -0500</pubDate>
+          <guid isPermaLink="false">topic-140</guid>
+          <source url="http://community.opensourcebeehives.net/t/design-files-for-smaller-cnc-machines/140.rss">Design Files for smaller CNC Machines</source>
+        </item>
+        <item>
+          <title>Source Files in Inches</title>
+          <author>no-reply@example.com (@brianzable Brian Zable)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/brianzable">Brian Zable</a> wrote:</p>
+            <blockquote>
+              <p>Hello everyone,</p>
+
+<p>I've reached out to a CNC shop that is willing to help cut the hives for me, however, they are requesting the dimensions in the files be in inches instead of metric. Apparently their machines will only work in inches and they would prefer not to do the rounding. They used a 5mm deep pocketing operation as an example. Does that translate to 0.196 or 0.2 inches?</p>
+
+<p>The reason I'm posting here is for advice on how to approach this. Has someone run into this problem before? I'm happy to attempt to convert the current source files to inches, but it would be helpful to know what type of accuracy is required to make this work.</p>
+            </blockquote>
+            <p>Posts: 10</p>
+            <p>Participants: 7</p>
+            <p><a href="http://community.opensourcebeehives.net/t/source-files-in-inches/136">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/source-files-in-inches/136</link>
+          <pubDate>Wed, 10 Dec 2014 21:52:09 -0500</pubDate>
+          <guid isPermaLink="false">topic-136</guid>
+          <source url="http://community.opensourcebeehives.net/t/source-files-in-inches/136.rss">Source Files in Inches</source>
+        </item>
+        <item>
+          <title>About the CNC Fabrication Support category</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p>Hey OSBH Community, </p>
+
+<p>Use this page to ask questions and receive technical support when fabricating your own beehives.</p>
+
+<p>Thanks,<br>OSBH Team</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/about-the-cnc-fabrication-support-category/97">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/about-the-cnc-fabrication-support-category/97</link>
+          <pubDate>Fri, 03 Oct 2014 17:23:19 -0400</pubDate>
+          <guid isPermaLink="false">topic-97</guid>
+          <source url="http://community.opensourcebeehives.net/t/about-the-cnc-fabrication-support-category/97.rss">About the CNC Fabrication Support category</source>
+        </item>
+        <item>
+          <title>Question about Design Software</title>
+          <author>no-reply@example.com (@skottr Scott H)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/skottr">Scott H</a> wrote:</p>
+            <blockquote>
+              <p>Hey, y'all! </p>
+
+<p>First, I've just got to say how great this site and the designs are. Absolutely love what you're doing -- keep up the great work!</p>
+
+<p>Second, I was wondering what type of software y'all (and other forum members) use to create your designs. Is it the same program for the 3D, CAD, and expanded/blown-apart views? Done graphic design for years, but just getting into attempting 3d modeling and CAD.</p>
+
+<p>Many thanks in advance for any info or recs!</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/question-about-design-software/68">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/question-about-design-software/68</link>
+          <pubDate>Thu, 18 Sep 2014 13:09:59 -0400</pubDate>
+          <guid isPermaLink="false">topic-68</guid>
+          <source url="http://community.opensourcebeehives.net/t/question-about-design-software/68.rss">Question about Design Software</source>
+        </item>
+        <item>
+          <title>Making Pockets in Rhino</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p>Hey <a class="mention" href="/users/jonathan">@jonathan</a> and <a class="mention" href="/users/pbeseda">@pbeseda</a></p>
+
+<p>I made this quick screencast - turn off the audio (I'll do that next time) and play in HD and at 2x speed.</p>
+
+<p>Am I making pockets in the optimal way?</p>
+
+<div class="lazyYT" data-youtube-id="6iSAm8f4LYU" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque&amp;list=UUoWoJyQIzCmwolkNrXKwyGA"></div>
+            </blockquote>
+            <p>Posts: 11</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/making-pockets-in-rhino/64">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/making-pockets-in-rhino/64</link>
+          <pubDate>Thu, 18 Sep 2014 02:48:47 -0400</pubDate>
+          <guid isPermaLink="false">topic-64</guid>
+          <source url="http://community.opensourcebeehives.net/t/making-pockets-in-rhino/64.rss">Making Pockets in Rhino</source>
+        </item>
+        <item>
+          <title>Database of CNC Shops</title>
+          <author>no-reply@example.com (@nlk3233 Nate Kaminski)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/nlk3233">Nate Kaminski</a> wrote:</p>
+            <blockquote>
+              <p>Why not create a database of all known shops that can create these designs in house?<br>Things to possibly list;</p>
+
+<ol>
+<li>Name of shop</li>
+<li>General/Specific region, address</li>
+<li>Contact Name</li>
+<li>Cost for service(setup fee, material fees, other fees)</li>
+</ol>
+
+<p>The idea here is to manufacture close to home as to keep costs down, as well as environmental impact.<br>Any suggestions welcome.</p>
+            </blockquote>
+            <p>Posts: 9</p>
+            <p>Participants: 5</p>
+            <p><a href="http://community.opensourcebeehives.net/t/database-of-cnc-shops/60">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/database-of-cnc-shops/60</link>
+          <pubDate>Wed, 17 Sep 2014 16:17:36 -0400</pubDate>
+          <guid isPermaLink="false">topic-60</guid>
+          <source url="http://community.opensourcebeehives.net/t/database-of-cnc-shops/60.rss">Database of CNC Shops</source>
+        </item>
+        <item>
+          <title>CNC Design &amp; Fabrication Research</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>CNC Fabrication Support</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p>Post research and ideas about CNC design and fabrication here.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/cnc-design-fabrication-research/36">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/cnc-design-fabrication-research/36</link>
+          <pubDate>Thu, 11 Sep 2014 15:52:25 -0400</pubDate>
+          <guid isPermaLink="false">topic-36</guid>
+          <source url="http://community.opensourcebeehives.net/t/cnc-design-fabrication-research/36.rss">CNC Design &amp; Fabrication Research</source>
+        </item>
+  </channel>
+</rss>

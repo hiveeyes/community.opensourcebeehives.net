@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BroodMinder IndieGoGo Project</title>
+    <link>http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276</link>
+    <description>I recently heard about a project being run by someone in my area.  Its a Bluetooth LE sensor that would reside inside a hive.  Thought it would be on interest to people on this board.
+
+https://www.indiegogo.com/projects/broodminder-honeybee-health-telemetry#/</description>
+    
+    <lastBuildDate>Fri, 09 Oct 2015 12:52:26 -0400</lastBuildDate>
+    <category>Sensor Kits</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>BroodMinder IndieGoGo Project</title>
+        <author>no-reply@example.com (@fullerm14 Mike Fuller)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/fullerm14">Mike Fuller</a> wrote:</p>
+          <blockquote>
+              <p>This option really intrigues me, because its a lot more simple for your basic backyard beekeeper.  In our climate, we are really just looking to check on our bees in the winter without having to pop the cover.  I'm interested in collecting data, but really have no need to have a constant connection.  When I see the setups with Solar panels, arduino, and cellular data, it just seems a little like overkill for what I'm interested in.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276/3</link>
+        <pubDate>Fri, 09 Oct 2015 12:52:26 -0400</pubDate>
+        <guid isPermaLink="false">post-276-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276.rss">BroodMinder IndieGoGo Project</source>
+      </item>
+      <item>
+        <title>BroodMinder IndieGoGo Project</title>
+        <author>no-reply@example.com (@Clemens Clemens Gruber)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/clemens">Clemens Gruber</a> wrote:</p>
+          <blockquote>
+              <p>Interesting! BLE is an option I had not checked in deep for data transmission yet. You have to be on the hive to trigger data transfer and read data with your mobile, that's the downside. I wonder if you can use the broodminder device as a kind of node an a gateway nearby can "read" the data once a day and send it to the internet. Question would be how much a daily data transfer would eat up the battery.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276/2</link>
+        <pubDate>Thu, 08 Oct 2015 14:39:16 -0400</pubDate>
+        <guid isPermaLink="false">post-276-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276.rss">BroodMinder IndieGoGo Project</source>
+      </item>
+      <item>
+        <title>BroodMinder IndieGoGo Project</title>
+        <author>no-reply@example.com (@fullerm14 Mike Fuller)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/fullerm14">Mike Fuller</a> wrote:</p>
+          <blockquote>
+              <p>I recently heard about a project being run by someone in my area.  Its a Bluetooth LE sensor that would reside inside a hive.  Thought it would be on interest to people on this board.</p>
+
+<p><a href="https://www.indiegogo.com/projects/broodminder-honeybee-health-telemetry#/" class="onebox" target="_blank">https://www.indiegogo.com/projects/broodminder-honeybee-health-telemetry#/</a></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276/1</link>
+        <pubDate>Thu, 08 Oct 2015 10:55:49 -0400</pubDate>
+        <guid isPermaLink="false">post-276-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276.rss">BroodMinder IndieGoGo Project</source>
+      </item>
+  </channel>
+</rss>

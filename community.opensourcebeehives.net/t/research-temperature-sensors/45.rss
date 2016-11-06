@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research: Temperature Sensors</title>
+    <link>http://community.opensourcebeehives.net/t/research-temperature-sensors/45</link>
+    <description>Research, Share, Explain
+------------------------
+
+We are investigating durable, cost effective and accurate sensors appropriate for placing within a beehive. Please document any temperature sensor research below.</description>
+    
+    <lastBuildDate>Tue, 14 Apr 2015 18:40:45 -0400</lastBuildDate>
+    <category>Sensor Kits</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/research-temperature-sensors/45.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Research: Temperature Sensors</title>
+        <author>no-reply@example.com (@Clemens Clemens Gruber)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/clemens">Clemens Gruber</a> wrote:</p>
+          <blockquote>
+              <p>I did some tests with DS18B20 sensors, the positive side is you can use it in a 1-wire-topology, this is optimal e.g. for measuring between combs. It seems also that there are large (and for beekeeper) more than sufficient meshs possible, see <a href="http://www.maximintegrated.com/en/app-notes/index.mvp/id/148" rel="nofollow">http://www.maximintegrated.com/en/app-notes/index.mvp/id/148</a> </p>
+
+<p>The downside is the relatively long reading time (and so power consumption). But there are some techniques to avoid this. In case you use an Arduino, first send a command to calculate new data, in the time waiting time conversion takes place sent arduino to sleep and wake it up to read the temp.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/research-temperature-sensors/45/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/research-temperature-sensors/45/2</link>
+        <pubDate>Tue, 14 Apr 2015 18:40:45 -0400</pubDate>
+        <guid isPermaLink="false">post-45-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/research-temperature-sensors/45.rss">Research: Temperature Sensors</source>
+      </item>
+      <item>
+        <title>Research: Temperature Sensors</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <h2>Research, Share, Explain</h2>
+
+<p>We are investigating durable, cost effective and accurate sensors appropriate for placing within a beehive. Please document any temperature sensor research below.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/research-temperature-sensors/45/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/research-temperature-sensors/45/1</link>
+        <pubDate>Fri, 12 Sep 2014 17:26:19 -0400</pubDate>
+        <guid isPermaLink="false">post-45-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/research-temperature-sensors/45.rss">Research: Temperature Sensors</source>
+      </item>
+  </channel>
+</rss>

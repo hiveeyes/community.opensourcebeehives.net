@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized</title>
+    <link>http://community.opensourcebeehives.net/category/uncategorized</link>
+    <description>Topics in the &#39;Uncategorized&#39; category </description>
+    
+      <lastBuildDate>Thu, 04 Feb 2016 05:20:43 -0500</lastBuildDate>
+      <atom:link href="http://community.opensourcebeehives.net/category/uncategorized.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Raspberry Pi monitor</title>
+          <author>no-reply@example.com (@bpmurray Brendan Murray)</author>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/bpmurray">Brendan Murray</a> wrote:</p>
+            <blockquote>
+              <p>I've been using a Raspberry Pi to monitor my hives for a while now. I have a couple of BS18B20's and a DHT22 in each of 2 hives so I was interested to see that's rather similar to what's been done here. I also have a camera looking at one of the hives - I want to try using OpenCV to track traffic but, probably in common with everyone else, I've had too little time so far. I also want to add load cells via a HX711 but, again, this has stalled.</p>
+
+<p>Anyway, I upload the readings via MQTT to IBM's Bluemix PaaS, where the readings are stored, and from where the data are delivered to the web page at <a href="http://beespi.mybluemix.net">BeeSpi</a>. The Bluemix end is programmed using NodeRED. </p>
+
+<p>This monitors the 2 hives in the bottom of my garden where I have power and WiFi. I'd like to make it work for an off-grid location, perhaps by using solar cells and GPRS.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/raspberry-pi-monitor/306">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/raspberry-pi-monitor/306</link>
+          <pubDate>Thu, 04 Feb 2016 05:20:43 -0500</pubDate>
+          <guid isPermaLink="false">topic-306</guid>
+          <source url="http://community.opensourcebeehives.net/t/raspberry-pi-monitor/306.rss">Raspberry Pi monitor</source>
+        </item>
+        <item>
+          <title>Official Thread: Alpha Board Development</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p>Hello Everyone,</p>
+
+<p>Please follow along here to watch the development of the alpha kit for the OSBH project.</p>
+
+<p>Thanks,<br>Aaron</p>
+            </blockquote>
+            <p>Posts: 29</p>
+            <p>Participants: 8</p>
+            <p><a href="http://community.opensourcebeehives.net/t/official-thread-alpha-board-development/230">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/official-thread-alpha-board-development/230</link>
+          <pubDate>Thu, 23 Apr 2015 16:00:09 -0400</pubDate>
+          <guid isPermaLink="false">topic-230</guid>
+          <source url="http://community.opensourcebeehives.net/t/official-thread-alpha-board-development/230.rss">Official Thread: Alpha Board Development</source>
+        </item>
+        <item>
+          <title>APRS and amateur radio</title>
+          <author>no-reply@example.com (@jet jet townsend)</author>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/jet">jet townsend</a> wrote:</p>
+            <blockquote>
+              <p>Caveat:  in the US you need an amateur radio (ham) license to go down this route.</p>
+
+<p>I'm setting up an APRS station this winter and attaching it to my weather sensor rig.  As I'm fussing with all this, I started thinking, can I make a beehive-scale APRS station?   Or maybe have multiple hosts operating on QRP frequencies with a line-of-sight between the hives and the base/collection station.</p>
+
+<p>Anyone else thought about using QRP or Part 15 compliant networks for getting data back to home?</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/aprs-and-amateur-radio/197">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/aprs-and-amateur-radio/197</link>
+          <pubDate>Sun, 01 Mar 2015 16:05:49 -0500</pubDate>
+          <guid isPermaLink="false">topic-197</guid>
+          <source url="http://community.opensourcebeehives.net/t/aprs-and-amateur-radio/197.rss">APRS and amateur radio</source>
+        </item>
+        <item>
+          <title>Interesting Beehive Innovations (other than OSBH!)</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <p><strong>Theres a lot of innovation happening in the beekeeping arena aside from our project! This is a place to post and discuss new projects and trends related to hive design, hive sensors, and bee projects.</strong></p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 5</p>
+            <p><a href="http://community.opensourcebeehives.net/t/interesting-beehive-innovations-other-than-osbh/188">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/interesting-beehive-innovations-other-than-osbh/188</link>
+          <pubDate>Sun, 15 Feb 2015 16:03:22 -0500</pubDate>
+          <guid isPermaLink="false">topic-188</guid>
+          <source url="http://community.opensourcebeehives.net/t/interesting-beehive-innovations-other-than-osbh/188.rss">Interesting Beehive Innovations (other than OSBH!)</source>
+        </item>
+        <item>
+          <title>OSBH Community Video Hangout Log</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <p>Below are our recorded video Hangout sessions, where we meet with members of the OSBH community to discuss progress, ideas and collaboration. Videos will be archived here and we will also use this thread to notify users of upcoming community hangouts. These will all take place on our <a href="https://plus.google.com/b/102551768489821481095/+OpensourcebeehivesNetosbh/posts">Google+ page</a>.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/osbh-community-video-hangout-log/179">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/osbh-community-video-hangout-log/179</link>
+          <pubDate>Mon, 09 Feb 2015 09:36:46 -0500</pubDate>
+          <guid isPermaLink="false">topic-179</guid>
+          <source url="http://community.opensourcebeehives.net/t/osbh-community-video-hangout-log/179.rss">OSBH Community Video Hangout Log</source>
+        </item>
+        <item>
+          <title>Project goals - please explain</title>
+          <author>no-reply@example.com (@jakub Jakub)</author>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/jakub">Jakub</a> wrote:</p>
+            <blockquote>
+              <p>I wonder if anyone can explain the OSBH project goals to me because I feel like I don't get it any more. Few months ago when I found this project on the Internet I was really excited with the idea of solving the CCD problem using the community driven way. I myself am not a beekeeper. Actually I'm a software developer but I'm aware of the problem and kind of apprehensive because of it. I just want to ask you a few questions.</p>
+
+<ol>
+<li>What are the actual project goals?</li>
+<li>What are the project goals in terms of scale?</li>
+<li>Do you plan to involve professional beekepers?</li>
+<li>What is your view on the diy'ers participation in terms of data quality? To train an algorithm your data must be reliable but it will be not when collected by different devices you actually know nothing about. It is not a problem when participants are few but when going into large scale there will be significant data pollution obfuscating the picture.</li>
+<li>How do you plan to analyze the collected data?</li>
+<li>Is there any kind of a plan or road map for the project? Where can I find it to check if there are any greenfield or support needing areas to participate?</li>
+</ol>
+
+<p>Thanks in advance,<br>Jakub</p>
+            </blockquote>
+            <p>Posts: 8</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/project-goals-please-explain/164">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/project-goals-please-explain/164</link>
+          <pubDate>Thu, 29 Jan 2015 14:28:05 -0500</pubDate>
+          <guid isPermaLink="false">topic-164</guid>
+          <source url="http://community.opensourcebeehives.net/t/project-goals-please-explain/164.rss">Project goals - please explain</source>
+        </item>
+  </channel>
+</rss>

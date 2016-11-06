@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colorado Top Bar Version 2.0</title>
+    <link>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9</link>
+    <description>https://sphotos-a-dfw.xx.fbcdn.net/hphotos-ash3/1238174_415336998571126_1971390474_n.jpg
+
+Please review our **[Topbar v2.0][1]** design and post feedback below. Full documentation available **[here][2]**.
+
+The Topbar v2.0 design is currently fabricated from a single piece of 4&#x27; x 8&#x27; x 3/4&quot; plywood (121.92cm x 243.84cm x 1.905cm). The plywood is cut using a [CNC router][3], which can automatically &#x27;print&#x27; the design in roughly 3hrs. The hive can be slotted together without screws, and we&#x27;ve coated it with linseed oil to improve weather resistance - any suggestions on alternative methods welcome.
+
+The Topbar v2.0 design has not yet been integrated with sensors. We are interested in feedback related to the structure, insulation, and usability of the current design. To make sensor suggestions please post to the Electronics &amp; Sensors category.
+
+**[Topbar v2.0 3D design][4]
+[Full Documentation][5]**
+
+
+ 
+  [1]: https://sketchfab.com/show/b5829c0a91064d71857eb0b211e0450d
+  [2]: https://github.com/OpenTechForever/TopBar2.0
+  [3]: http://en.wikipedia.org/wiki/CNC_router
+  [4]: https://sketchfab.com/show/b5829c0a91064d71857eb0b211e0450d
+  [5]: https://github.com/OpenTechForever/TopBar2.0</description>
+    <atom:link href="http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Colorado Top Bar Version 2.0 at 2013-12-15 19:55:21 -0500</title>
+          <description><![CDATA[
+            <p>Aaron Makaruk (aaronmakaruk) wrote:</p>
+            <p>Hi <a class="mention" href="/users/lee">@lee</a>,</p>
+
+<ol>
+<li><p>In many circles, the top bar style is seen as a more natural beekeeping method, so we've gone with this design to help promote the best environment for the bees themselves. We've heard that hives that use pre-defined comb sizes/foundation limit the size of the bees, and that this can undermine the overall health of the colonies. Technically, the top bars we're using and the overall hives can be routed from wood, so that is all one material type. Purchasing foundations for frames is an added material cost, so that has affected our decision as well.</p></li>
+<li><p>We are interested in lowering the costs of sensors, so yes on that front. We are also interested in pesticide/fungicide detection if that's feasible, and the online software we are using is pretty well made, so that is a new feature. We aren't the only one's working on this kind of project, I want to clarify that we're aware of that, but we do want to push the edge for intelligent beehives where possible. </p></li>
+</ol>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/6</link>
+          <pubDate>Sun, 15 Dec 2013 19:55:21 -0500</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/6</guid>
+          <source url="http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9.rss">Colorado Top Bar Version 2.0</source>
+        </item>
+        <item>
+          <title>Colorado Top Bar Version 2.0 at 2013-12-12 00:12:51 -0500</title>
+          <description><![CDATA[
+            <p>Lee Sutherland (lee) wrote:</p>
+            <p>I've kept bees successfully for a few decades or so. I have some questions about your project:</p>
+
+<ol>
+<li><p>Why was a top bar hive design chosen instead of a Langstroth? Plans are a few clicks away, or a few hours to draw and post NC files for. Especially here in the cooler climes of Colorado, we've seen a bit higher winter kill rate with top bars. Is there a technical reason the project has focused on the top bar style?</p></li>
+<li><p>Many beekeepers here on the Front Range already have a hive or two instrumented for temp and humidity inside the hive, and some have the data streaming onto the internet. What other elements is the project trying to record for an open source beehive program? A few folks in my area are also recording sound, and others, mass. The units I'm familiar with are quite a bit less expensive than the units in development for the open source smart beehive project. Is there room for input on making the sensors more economical?</p></li>
+</ol>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/5</link>
+          <pubDate>Thu, 12 Dec 2013 00:12:51 -0500</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/5</guid>
+          <source url="http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9.rss">Colorado Top Bar Version 2.0</source>
+        </item>
+        <item>
+          <title>Colorado Top Bar Version 2.0 at 2013-11-29 11:07:49 -0500</title>
+          <description><![CDATA[
+            <p>Jean Carfantan (Jean) wrote:</p>
+            <p><aside class="quote" data-post="1" data-topic="9"><div class="title">
+<div class="quote-controls"></div>
+<img width="20" height="20" src="http://community.opensourcebeehives.net/uploads/default/avatars/ad3/7de/4d73a15d00/40.jpg" class="avatar">trizcs said:</div>
+<blockquote>1.905cm</blockquote></aside></p>
+
+<p>Well in France, we need 2.4 cm thick to protect bees from winter cold or even summer hear.</p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/4</link>
+          <pubDate>Fri, 29 Nov 2013 11:07:49 -0500</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/4</guid>
+          <source url="http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9.rss">Colorado Top Bar Version 2.0</source>
+        </item>
+        <item>
+          <title>Colorado Top Bar Version 2.0 at 2013-10-28 23:03:02 -0400</title>
+          <description><![CDATA[
+            <p>Tristan Copley Smith (trizcs) wrote:</p>
+            <p><a class="mention" href="/users/boort">@Boort</a> - thank you so much for this, and apologies for the late reply. We hadn't heard about this technique. I'm going to ask <a class="mention" href="/users/aaronmakaruk">@aaronmakaruk</a> if he can modify version 3 to implement this. Thanks so much for sharing!</p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/3</link>
+          <pubDate>Mon, 28 Oct 2013 23:03:02 -0400</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/3</guid>
+          <source url="http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9.rss">Colorado Top Bar Version 2.0</source>
+        </item>
+        <item>
+          <title>Colorado Top Bar Version 2.0 at 2013-10-08 00:31:10 -0400</title>
+          <description><![CDATA[
+            <p>Rob (Boort) wrote:</p>
+            <p>Hello,</p>
+
+<p>This suggestion is the result of a discussion that I had with Aaron at the NoCo Makerfare regarding the Open source Bee Hives and design changes going into the Top Bar 2.0 design. </p>
+
+<p>After discussed various ways for reducing water entering the hive through the gaps created in the 3 roof pieces I thought of another way to build the roof that may work to even better to keep water from getting into the hive. It should be possible to build both sides of the top as a single piece of plywood and use a wood working technique called kerf bending to curve the piece in the middle to form the ridge line and roof slope. A series of 5, 1/4" wide kerfs are cut about half way through the thickness of the 3/4" plywood should allow enough bend to get the job done. The sides would need to have a matching radius at their peak so that the now "flexible" top is supported.</p>
+
+<p>See the attached images I created in Sketchup for a quick drawing based on what I remember of the hive design. </p>
+
+<p><div><a href="http://community.opensourcebeehives.net/uploads/default/13/6b3d52acd84b265d.png" class="lightbox"><img src="http://community.opensourcebeehives.net/uploads/default/_optimized/7b2/555/5c1f98adb0_1000x545.png" width="1000" height="545"><div class="meta">
+<span class="filename">BeehiveTopISO.png</span><span class="informations">1602x874 42.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p><div><a href="http://community.opensourcebeehives.net/uploads/default/14/70f2794ab5c95cc5.png" class="lightbox"><img src="http://community.opensourcebeehives.net/uploads/default/_optimized/952/1e7/a6f58a2cc6_1000x545.png" width="1000" height="545"><div class="meta">
+<span class="filename">BeehiveTopSideZoomedIn.png</span><span class="informations">1602x874 38.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p>Here are more details from a Fine Woodworking article which may help explain the geometry behind the process better than I can:<br><a href="http://www.finewoodworking.com/FWNPDFFree/geometry.pdf" rel="nofollow">http://www.finewoodworking.com/FWNPDFFree/geometry.pdf</a></p>
+
+<p>Pros:<br> - This should simplify the design and may reduce the number of parts. The Hive may only need 2 Wedged tenons on each side, reducing the number of holes in the top to 4 from 8.<br> - Still build-able with generally available non-CNC tools (router or tablesaw, or even hand tools)</p>
+
+<p>Cons:<br> - May require a bit change when machining on the CNC router (Not sure if you are cutting with 1/2" Dia. bits or something smaller. If using 1/4" or 3/8" bits you could probably get away without a bit change.)</p>
+
+<p>I hope that this suggestion may be of some use to the project.</p>
+
+<p>BoorT</p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/2</link>
+          <pubDate>Tue, 08 Oct 2013 00:31:10 -0400</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/2</guid>
+          <source url="http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9.rss">Colorado Top Bar Version 2.0</source>
+        </item>
+        <item>
+          <title>Colorado Top Bar Version 2.0 at 2013-09-09 22:43:03 -0400</title>
+          <description><![CDATA[
+            <p>Tristan Copley Smith (trizcs) wrote:</p>
+            <p><a href="https://sphotos-a-dfw.xx.fbcdn.net/hphotos-ash3/1238174_415336998571126_1971390474_n.jpg" target="_blank"><div><a href="https://sphotos-a-dfw.xx.fbcdn.net/hphotos-ash3/1238174_415336998571126_1971390474_n.jpg" class="lightbox"><img src="https://sphotos-a-dfw.xx.fbcdn.net/hphotos-ash3/1238174_415336998571126_1971390474_n.jpg" alt="" width="607" height="404"><div class="meta">
+<span class="filename">1238174_415336998571126_1971390474_n.jpg</span><span class="informations">960x640</span><span class="expand"></span>
+</div></a></div></a></p>
+
+<p>Please review our <strong><a href="https://sketchfab.com/show/b5829c0a91064d71857eb0b211e0450d" class="onebox" rel="nofollow">Topbar v2.0</a></strong> design and post feedback below. Full documentation available <strong><a href="https://github.com/OpenTechForever/TopBar2.0" class="onebox" rel="nofollow">here</a></strong>.</p>
+
+<p>The Topbar v2.0 design is currently fabricated from a single piece of 4' x 8' x 3/4" plywood (121.92cm x 243.84cm x 1.905cm). The plywood is cut using a <a href="http://en.wikipedia.org/wiki/CNC_router" rel="nofollow">CNC router</a>, which can automatically 'print' the design in roughly 3hrs. The hive can be slotted together without screws, and we've coated it with linseed oil to improve weather resistance - any suggestions on alternative methods welcome.</p>
+
+<p>The Topbar v2.0 design has not yet been integrated with sensors. We are interested in feedback related to the structure, insulation, and usability of the current design. To make sensor suggestions please post to the Electronics &amp; Sensors category.</p>
+
+<p><strong><a href="https://sketchfab.com/show/b5829c0a91064d71857eb0b211e0450d" class="onebox" rel="nofollow">Topbar v2.0 3D design</a><br><a href="https://github.com/OpenTechForever/TopBar2.0" class="onebox" rel="nofollow">Full Documentation</a></strong></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/1</link>
+          <pubDate>Mon, 09 Sep 2013 22:43:03 -0400</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9/1</guid>
+          <source url="http://community.opensourcebeehives.net/t/colorado-top-bar-version-2-0/9.rss">Colorado Top Bar Version 2.0</source>
+        </item>
+  </channel>
+</rss>

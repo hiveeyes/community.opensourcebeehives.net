@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensor &amp; Beehive Integration</title>
+    <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50</link>
+    <description>Think, Suggest, Advise
+----------------------
+Help investigate how best to integrate the sensor system with beehives. Currently we have two concepts on the table. The first is to distribute our sensors around the hive and connect them with wires. The second is to integrate all our sensors into a top bar frame sized container, from where they will monitor hive conditions.
+
+Please share any thoughts or ideas you might have below.</description>
+    
+    <lastBuildDate>Mon, 09 Feb 2015 01:01:33 -0500</lastBuildDate>
+    <category>Sensor Kits</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@Jagungal Cormac Farrell)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jagungal">Cormac Farrell</a> wrote:</p>
+          <blockquote>
+              <p>The option that we have gone for when recording the audio has been a quilt box that sits under the top cover.  This is identical to a Warre quilt box, it is just made to Langstroth dimensions. </p>
+
+<p>Here is a photo that I tweeted a while back: <br><a href="https://twitter.com/jagungal1/status/544352195647266817" class="onebox" target="_blank" rel="nofollow">https://twitter.com/jagungal1/status/544352195647266817</a></p>
+
+<p>Nice and simple to build, and give you easy access to the sensors if you need to maintain them.  You still get really nice audio using this set-up, and should still get correct readings for temperature and humidity.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/32">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/32</link>
+        <pubDate>Mon, 09 Feb 2015 01:01:33 -0500</pubDate>
+        <guid isPermaLink="false">post-50-32</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@jmpratt Jason)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jmpratt">Jason</a> wrote:</p>
+          <blockquote>
+              <p>Hello all!<br><a class="mention" href="/users/micdasilva">@micdasilva</a>, I am going to start working on some Langstroth "sensor frames" this spring.  My idea is that the form factor will resemble a filled out frame.  Different sizes could be made for different depth boxes.</p>
+
+<p>As to how to prevent the bees from building on the sensor frames, a beekeeper friend suggested disguising it as capped off comb.  If the bees think it's capped off comb, maybe they won't build on it.</p>
+
+<p>-Jason</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/31">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/31</link>
+        <pubDate>Fri, 06 Feb 2015 16:39:54 -0500</pubDate>
+        <guid isPermaLink="false">post-50-31</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@micdasilva mario silva)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/micdasilva">mario silva</a> wrote:</p>
+          <blockquote>
+              <p>It sounds nice and fair.<br>Let me make some testing and give some think about this and I will come back with some design proposals.</p>
+
+<p>However in the meantime I am focus on bringing a new material to the community based in cork. This will be my first priority followed by the Langstroth<br>Keep up the good work!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/30">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/30</link>
+        <pubDate>Mon, 26 Jan 2015 13:53:46 -0500</pubDate>
+        <guid isPermaLink="false">post-50-30</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p>Hi <a class="mention" href="/users/micdasilva">@micdasilva</a>,</p>
+
+<p>Please see this <a href="//community.opensourcebeehives.net/t/langstroth-beehive-development/155">new thread about developing a Langstroth</a>. </p>
+
+<p>We'd love you to get involved in designing this hive, but can't offer a great deal of personal support at the moment since we are a small and overworked team! I'd encourage you to do some sketches and use the thread to share your work. I can direct collaborators to this threat to help you in whatever way they can.</p>
+
+<p>How does this sound?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/29">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/29</link>
+        <pubDate>Mon, 26 Jan 2015 12:28:13 -0500</pubDate>
+        <guid isPermaLink="false">post-50-29</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@micdasilva mario silva)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/micdasilva">mario silva</a> wrote:</p>
+          <blockquote>
+              <p>Hi, I am new in the community and I was wondering why is there no Langstroth design, like the Topbar or the Warré. Are you planning one? Do you need assistance?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/28">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/28</link>
+        <pubDate>Mon, 26 Jan 2015 11:37:10 -0500</pubDate>
+        <guid isPermaLink="false">post-50-28</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p>Hey <a class="mention" href="/users/ron">@ron</a> and <a class="mention" href="/users/jonathan">@jonathan</a>,</p>
+
+<p>I've been getting some queries from Langstroth users asking if the sensors can integrate with their hives. This is obviously ideal, but I wanted to <em>ping</em> that multi-hive integration is an ideal outcome for the sensors. </p>
+
+<p>Once you guys have a solid idea of the sensor dimension, we could put a call out to the community to perhaps design a new sensor container based on the one we did for the CTB, but for Langstroth dimensions. Found some dimensions for standard frame sizes below and at <a href="http://www.beesource.com/resources/usda/types-of-hives-and-hive-equipment/">this link</a>.</p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/210/10c691279f3b88dd.gif" class="lightbox" title="BN_30052_a.gif"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/f5c/c20/0600167f91_312x500.gif" width="312" height="500"><div class="meta">
+<span class="filename">BN_30052_a.gif</span><span class="informations">576x922 85.9 KB</span><span class="expand"></span>
+</div></a></div> </p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/27">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/27</link>
+        <pubDate>Mon, 26 Jan 2015 10:05:31 -0500</pubDate>
+        <guid isPermaLink="false">post-50-27</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@ron Ron Jacob)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
+          <blockquote>
+              <p>Hey!<br>Here we go: The PCB Design for the Alpha Sensor Kit.<br>You can plug the sensor devices and the board itself is pretty small and robust. It's also ready for I2C communication with the infrared beeCounter. You can find the files to make the board on github: <a href="https://github.com/jacobron/OSBH">https://github.com/jacobron/OSBH</a></p>
+
+<p>and here are some pics:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/201/5000db27d675aef7.jpg" class="lightbox" title="IMG_20150116_095508.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/10e/3c1/f6880012d9_603x499.jpg" width="603" height="499"><div class="meta">
+<span class="filename">IMG_20150116_095508.jpg</span><span class="informations">1200x994 281 KB</span><span class="expand"></span>
+</div></a></div> <div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/202/bd53e5eb3fd0f342.jpg" class="lightbox" title="IMG_20150116_095518.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/04e/b8d/fc63849671_345x500.jpg" width="345" height="500"><div class="meta">
+<span class="filename">IMG_20150116_095518.jpg</span><span class="informations">912x1321 294 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/26">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/26</link>
+        <pubDate>Sat, 17 Jan 2015 17:51:58 -0500</pubDate>
+        <guid isPermaLink="false">post-50-26</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p>Hey everyone! </p>
+
+<p><strong>Looking for some thoughts and feedback please!</strong></p>
+
+<p>Here is prototype one of the sensor container. It's made out of clear acrylic, with small holes to allow for air exchange. We've fabricated it using a laser cutter, which means it can be made quickly and easily (this took about 5-10 mins to cut). </p>
+
+<p>Inside the container is the micro controller with a core temp/humidity sensor. Also attached are two extendable temperature sensors (for the internal areas of the hive) and one temp/humidity sensor for external hive monitoring.</p>
+
+<p>There is an antenna which will be mounted externally to direct the wifi signal away from the hive.</p>
+
+<p>You cans see more pictures of <a href="https://www.facebook.com/opensourcebeehives/posts/835078469898792">the sensor case here</a>.</p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/178/3cc865b6a7f1fc39.jpg" class="lightbox" title="_DSC4552.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/ade/8e9/8a1fb2451c_690x460.jpg" width="690" height="460"><div class="meta">
+<span class="filename">_DSC4552.jpg</span><span class="informations">1280x854 78.7 KB</span><span class="expand"></span>
+</div></a></div> </p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/25">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/25</link>
+        <pubDate>Fri, 05 Dec 2014 03:26:02 -0500</pubDate>
+        <guid isPermaLink="false">post-50-25</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@ron Ron Jacob)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
+          <blockquote>
+              <p>Hey Seneca,<br>a lot of people are using a net around the sensor to prevent it being coated with propolis.<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/168/cf75220dcd5354a5.jpg" class="lightbox" title="smartFrame.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/f6c/f55/72aadab9df_611x500.jpg" width="611" height="500"><div class="meta">
+<span class="filename">smartFrame.jpg</span><span class="informations">1440x1178 727 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p>I'm on the CAD design for the case for the sensor-kit right now. The idea would be to build up a box, which bees won't be able to enter. Sensors and cables which would go out of this box into the hive may could need such a net to be protected. Most important the humidity and acoustic sensors. Are there other possibilities to protect sensors from coating by bees?</p>
+
+<p>best,<br>Ron</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/24">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/24</link>
+        <pubDate>Tue, 04 Nov 2014 07:07:28 -0500</pubDate>
+        <guid isPermaLink="false">post-50-24</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@SenecaUPP Seneca)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/senecaupp">Seneca</a> wrote:</p>
+          <blockquote>
+              <p>Will the sensor be affected by the bees building comb and propolis on it?? <br>What concerns do we have about wifi in the hive?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/23">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/23</link>
+        <pubDate>Mon, 03 Nov 2014 10:10:46 -0500</pubDate>
+        <guid isPermaLink="false">post-50-23</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@ron Ron Jacob)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
+          <blockquote>
+              <p>Image of the first test of the adapted Warré hive to fit in the sensors at the basement of the hive. You can access the sensor-kit by pulling out the board in the middle. The design also fixes the problem of bees building the combs to deep (till the entrance-level of the hive), using the slatted Rack idea mentioned above (thanks for that!).</p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/164/c800686ebd5a02c9.jpg" class="lightbox" title="IMG_20141031_145723.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/cae/90e/83e003b5e7_632x500.jpg" width="632" height="500"><div class="meta">
+<span class="filename">IMG_20141031_145723.jpg</span><span class="informations">1090x862 256 KB</span><span class="expand"></span>
+</div></a></div> <br>first cnc-cut version<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/166/b11c884ef40610c6.png" class="lightbox" title="new_base.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/56b/978/f63b4b6679_634x500.png" width="634" height="500"><div class="meta">
+<span class="filename">new_base.png</span><span class="informations">794x626 185 KB</span><span class="expand"></span>
+</div></a></div><br>3D-sample of the position of the sensor-kit inside the basement (red).</p>
+
+<p>Thanks,<br>Ron</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/22">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/22</link>
+        <pubDate>Fri, 31 Oct 2014 17:11:57 -0400</pubDate>
+        <guid isPermaLink="false">post-50-22</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><strong>Alpha Kit - v1.0 - Case Design</strong></p>
+
+<p><em>Introduction</em></p>
+
+<p>The first design will be for the Colorado Top Bar. After testing, it will be modified for the Barcelona Warre. The case will have the following features:</p>
+
+<ol>
+<li>Acrylic material - probably 1/4"</li>
+<li>Snap-fit design</li>
+<li>Prototyped on a laser cutter</li>
+<li>Follows the interior contour of the hive</li>
+<li>Drops in place like a normal top bar</li>
+<li>Preserves bee space on either side - 3/8"</li>
+<li>Maintains space at the bottom for bee movement beneath</li>
+<li>Uses cable glands to allow wires to pass through</li>
+<li>Uses holes for air ventilation for temperature &amp; humidity detection</li>
+<li>Uses standoffs to mount a perfboard as seen below</li>
+<li>Is mounted at the front of the hive by the entrance taking the first slot</li>
+<li>Uses the TF200 Thermo insulating membrane on the brood-facing wall to minimize wifi disturbance</li>
+<li>Uses an exterior-mounted wifi antenna to concentrate radio waves in one area and away from the hive core.</li>
+<li>Displays the Open Source Hardware Logo and/or OSBH logo in a prominent location as an engraving</li>
+</ol>
+
+<p><em>Sensor Kit Mounting</em><br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/161/3b9ab06c187ff3b3.png" class="lightbox" title="unnamed.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/0b3/94d/6a73a8635b_690x350.png" width="690" height="350"><div class="meta">
+<span class="filename">unnamed.png</span><span class="informations">1009x513 346 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p><em>Alpha Kit - v1.0 Schematic</em><br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/160/8c4a037ad63891ea.png" class="lightbox" title="OSBH_Wiring.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/30f/a28/63c9acb113_690x479.png" width="690" height="479"><div class="meta">
+<span class="filename">OSBH_Wiring.png</span><span class="informations">1303x905 274 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p>The IR counter is nearing the testing phase. It will have its own case.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/21">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/21</link>
+        <pubDate>Sat, 25 Oct 2014 16:18:26 -0400</pubDate>
+        <guid isPermaLink="false">post-50-21</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><strong>Barcelona Warre v2.4 Entrance Dimensions</strong></p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/154/e30f7ed05cf25cfd.jpg" class="lightbox" title="BCN Warre v2.4 - Entrance Dimensions.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/a6c/36e/4f0e359c4c_690x371.jpg" width="690" height="371"><div class="meta">
+<span class="filename">BCN Warre v2.4 - Entrance Dimensions.jpg</span><span class="informations">934x503 218 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p>Length: 3.149" / 80 mm</p>
+
+<p>Height: 0.378" / 9.61 mm</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/20">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/20</link>
+        <pubDate>Fri, 17 Oct 2014 17:29:23 -0400</pubDate>
+        <guid isPermaLink="false">post-50-20</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><strong>CTB Entrance Dimensions</strong></p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/153/b31fb91b1092f851.jpg" class="lightbox" title="CTB v6.1 - Entrance Dimensions.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/684/fcb/e5f2286f29_690x371.jpg" width="690" height="371"><div class="meta">
+<span class="filename">CTB v6.1 - Entrance Dimensions.jpg</span><span class="informations">934x503 78.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/19">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/19</link>
+        <pubDate>Fri, 17 Oct 2014 17:09:49 -0400</pubDate>
+        <guid isPermaLink="false">post-50-19</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/148/4a0bf5f2139dfd2a.jpg" class="lightbox" title="unnamed.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/d63/f51/db02f8b9be_666x500.jpg" width="666" height="500"><div class="meta">
+<span class="filename">unnamed.jpg</span><span class="informations">1075x806 111 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p>Here is a (very rough) alternative design for an in-hive sensor container.</p>
+
+<p>This design uses a u-shaped wooden frame, with mesh stabled on either face to sandwich the sensors inside. Supposed benefits might be easier flow of air through the container to more accurately measure humidity and temperature, though I'm not sure if the mesh would allow for accurate readings within the sandwiched space.</p>
+
+<p>In this design, the sensor hangs independently from a top bar within the frame.</p>
+
+<p>Feedback encouraged for either option!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/18">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/18</link>
+        <pubDate>Tue, 14 Oct 2014 08:26:20 -0400</pubDate>
+        <guid isPermaLink="false">post-50-18</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/147/d3882b3a5e64902f.png" class="lightbox" title="Screen Shot 2014-10-14 at 13.15.26.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/312/356/c6de49c1f1_465x500.png" width="465" height="500"><div class="meta">
+<span class="filename">Screen Shot 2014-10-14 at 13.15.26.png</span><span class="informations">466x501 374 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p>Apparently this TF200 Thermo is pretty good at insulating against Wifi and other signals.</p>
+
+<p><a href="http://www.glidevale.com/downloads/protect_tf200_thermo.pdf">READ MORE HERE</a></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/17">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/17</link>
+        <pubDate>Tue, 14 Oct 2014 08:17:10 -0400</pubDate>
+        <guid isPermaLink="false">post-50-17</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p>This design looks great - it looks as though it could be quite easily laser cut, though that brings up questions about materials again! </p>
+
+<p>As for bee space, if we place the sensor bar at the front of the hive, bee space would likely only be a consideration for the inner facing wall. The outer facing wall could probably sit right up against the front section of the CTB. Of course we need to make sure there is room under the structure for bees to enter the hive.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/16">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/16</link>
+        <pubDate>Tue, 14 Oct 2014 08:13:14 -0400</pubDate>
+        <guid isPermaLink="false">post-50-16</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><em>Re: Preventing RFI</em><br>(<a href="//community.opensourcebeehives.net/t/wifi-data-bee-disturbance-limiting/94">see this thread elsewhere in the forum</a>)</p>
+
+<p>If this box is inserted at the entrance of the hive, the case's back side, which faces the brood, could be shielded, and the front face would be directed towards the wifi router. So, the front of the hive would need to face the wifi router.</p>
+
+<p><strong>Incredible Schematic</strong></p>
+
+<ul>
+<li>The black box is the CTB</li>
+<li>The yellow area is the majority of the bee colony</li>
+<li>The orange box is the sensor case</li>
+<li>the red line is the shielding on the back of the sensor case</li>
+<li>the green arrows are the wifi signal</li>
+<li>the blue box is the wifi router</li>
+</ul>
+
+<p>If you shield the box completely, you defeat the purpose of putting the case inside the brood with a drop in design, because you can't broadcast your wifi. We should look at antennaes that can be mounted outside the hive - this came up with my discussion with Caleb today.</p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/116/982b605f93e123ef.png" class="lightbox" title="whatever.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/ab4/c48/9f72e829cb_689x350.png" width="689" height="350"><div class="meta">
+<span class="filename">whatever.png</span><span class="informations">1308x665 28.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/15">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/15</link>
+        <pubDate>Fri, 03 Oct 2014 07:04:44 -0400</pubDate>
+        <guid isPermaLink="false">post-50-15</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><strong>Critique of v0.1</strong></p>
+
+<ol>
+<li><p>The model above doesn't allow for bee spacing. Currently, the top and bottom pieces pass through the side walls. It needs to be the opposite way - the side walls need to pass through the top and bottom, and the top piece needs to be wide enough to account for bee space.</p></li>
+<li><p>There's a gap on the left side at the bottom for some reason. It's not wide enough.</p></li>
+</ol>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/14">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/14</link>
+        <pubDate>Thu, 02 Oct 2014 23:26:02 -0400</pubDate>
+        <guid isPermaLink="false">post-50-14</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <iframe width="640" height="480" src="https://sketchfab.com/models/659b03697a174d2da6e1b509ef6216e3/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/659b03697a174d2da6e1b509ef6216e3?utm_source=oembed&amp;utm_medium=embed&amp;utm_campaign=659b03697a174d2da6e1b509ef6216e3" target="_blank" style="font-weight: bold; color: #1CAAD9;">Alpha Sensor Case - 01</a>
+    by <a href="https://sketchfab.com/AaronMakaruk?utm_source=oembed&amp;utm_medium=embed&amp;utm_campaign=659b03697a174d2da6e1b509ef6216e3" target="_blank" style="font-weight: bold; color: #1CAAD9;"></a>
+    on <a href="https://sketchfab.com?utm_source=oembed&amp;utm_medium=embed&amp;utm_campaign=659b03697a174d2da6e1b509ef6216e3" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/13">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/13</link>
+        <pubDate>Thu, 02 Oct 2014 23:22:11 -0400</pubDate>
+        <guid isPermaLink="false">post-50-13</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><strong>Colorado Top Bar - v6.1 - Alpha Kit Sensor Case Dimensions</strong></p>
+
+<ul>
+<li>Top: 17.77" / 451.358 mm</li>
+<li>Bottom: 7.10" / 180.34 mm</li>
+<li>Sides: 10.12" / 257.048 mm</li>
+<li>Width: minimum 3" / 76.2 mm</li>
+</ul>
+
+<p><strong>Determining Width Requirements</strong></p>
+
+<ul>
+<li>Bee Spacing: 0.27" x 2 = 0.54" / 13.716 mm (<a href="http://www.bushfarms.com/beesframewidth.htm">source</a>)</li>
+<li>Breadboard: 0.33" / 8.5 mm (<a href="https://www.sparkfun.com/products/12002">source</a>)</li>
+<li>DHT22: 0.988" / 25.1 mm (<a href="http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Weather/RHT03.pdf">source</a>)</li>
+<li>Standoffs: .375" / 9.525 mm (<a href="https://www.sparkfun.com/products/10739">source</a>)</li>
+<li>Wall Thickness: 0.125" x 2 = 0.25" / 6.35 mm</li>
+<li>
+<strong>Total</strong>: 2.533" / 64.34 mm</li>
+</ul>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/12">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/12</link>
+        <pubDate>Thu, 02 Oct 2014 12:47:55 -0400</pubDate>
+        <guid isPermaLink="false">post-50-12</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><strong>CTB - v6.1 - Top Bar Dimensions</strong></p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/105/0f3f105592afa8a6.png" class="lightbox" title="CTB - Top Bar Dims.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/bce/694/2263a49151_690x371.png" width="690" height="371"><div class="meta">
+<span class="filename">CTB - Top Bar Dims.png</span><span class="informations">934x503 24.6 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p><strong>Note</strong>: On the right, the 0.27" dimension refers to the space between the comb and the outside edge of the top bar. This is based on an average comb width of 20.20 mm (<a href="http://www.bushfarms.com/beesframewidth.htm">source</a>).</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/11">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/11</link>
+        <pubDate>Wed, 01 Oct 2014 16:37:40 -0400</pubDate>
+        <guid isPermaLink="false">post-50-11</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><strong>Colorado Top Bar - v6.1 - Interior Dimensions</strong></p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/104/47a8400b53d08c09.png" class="lightbox" title="CTB - Interior Hive Dims.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/ea0/8bd/59140dfbf2_690x371.png" width="690" height="371"><div class="meta">
+<span class="filename">CTB - Interior Hive Dims.png</span><span class="informations">934x503 47.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p><strong>Note</strong>: The vertical height from the bottom of the hive to the bottom of the top bar is 8.76".</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/10">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/10</link>
+        <pubDate>Wed, 01 Oct 2014 16:27:00 -0400</pubDate>
+        <guid isPermaLink="false">post-50-10</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p>We've started with wired sensors, because that's the most straightforward path. It's possible we'll use multiple wireless sensor nodes in the future that communicate via Bluetooth LE to a central microcontroller that broadcasts data to our servers via wifi. More to come, but yes, it's all wired at the moment.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/8">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/8</link>
+        <pubDate>Wed, 01 Oct 2014 04:44:10 -0400</pubDate>
+        <guid isPermaLink="false">post-50-8</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+      <item>
+        <title>Sensor &amp; Beehive Integration</title>
+        <author>no-reply@example.com (@markbuiford Mark Bui-Ford)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/markbuiford">Mark Bui-Ford</a> wrote:</p>
+          <blockquote>
+              <p>For Langstroth hives, a sensor system integrated into a <a href="http://www.beesbuzzing.com/the-slatted-rack/" rel="nofollow">slatted rack</a> might be an option. Those would fit well in an awful lot of commercial hives. </p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/7">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50/7</link>
+        <pubDate>Tue, 30 Sep 2014 17:15:47 -0400</pubDate>
+        <guid isPermaLink="false">post-50-7</guid>
+        <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+      </item>
+  </channel>
+</rss>

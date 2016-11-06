@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Are the OSBH designs available in SVG?</title>
+    <link>http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303</link>
+    <description>Hi there,
+
+I am new here and found out about your project very recently. I was wondering if anyone could export the latest plans to SVG for me. At our makerspace we don’t have access to any commercial CAM software that can import the DXF and converting the DXF to SVG is proving rather difficult. If you could export the parts to SVG from your CAD, that would be very useful to us! I am attempting to use easel to create the gcode. 
+
+I have already tried using Inkscape and QCAD to convert the DXF file into SVG. QCAD does a better job, however it still breaks segments of contour into individual path.</description>
+    
+    <lastBuildDate>Wed, 03 Feb 2016 12:44:18 -0500</lastBuildDate>
+    <category>CNC Fabrication Support</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Are the OSBH designs available in SVG?</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><strong>Attempt 1: Export of DXF to SVG from Adobe Illustrator - Default Settings</strong></p>
+
+<p>I'm sure we'll have to troubleshoot this, but we can start with this file:</p>
+
+<p><a class="attachment" href="//community.opensourcebeehives.net/uploads/default/301/9bc780d33e017cdf.svg">CTB - v6.8 - Nesting_18mm.svg</a> (220.9 KB)</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303/2</link>
+        <pubDate>Wed, 03 Feb 2016 12:44:18 -0500</pubDate>
+        <guid isPermaLink="false">post-303-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303.rss">Are the OSBH designs available in SVG?</source>
+      </item>
+      <item>
+        <title>Are the OSBH designs available in SVG?</title>
+        <author>no-reply@example.com (@arasbm Aras)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/arasbm">Aras</a> wrote:</p>
+          <blockquote>
+              <p>Hi there,</p>
+
+<p>I am new here and found out about your project very recently. I was wondering if anyone could export the latest plans to SVG for me. At our makerspace we don’t have access to any commercial CAM software that can import the DXF and converting the DXF to SVG is proving rather difficult. If you could export the parts to SVG from your CAD, that would be very useful to us! I am attempting to use easel to create the gcode. </p>
+
+<p>I have already tried using Inkscape and QCAD to convert the DXF file into SVG. QCAD does a better job, however it still breaks segments of contour into individual path.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303/1</link>
+        <pubDate>Wed, 03 Feb 2016 05:43:46 -0500</pubDate>
+        <guid isPermaLink="false">post-303-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/are-the-osbh-designs-available-in-svg/303.rss">Are the OSBH designs available in SVG?</source>
+      </item>
+  </channel>
+</rss>

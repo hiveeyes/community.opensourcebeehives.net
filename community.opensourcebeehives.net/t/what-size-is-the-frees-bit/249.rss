@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What size is the frees bit?</title>
+    <link>http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249</link>
+    <description>Trying to get a CTB 6.1 cut here in the Netherlands. The company I am trying to use says that he can only use an 8mm bit and that there are several cuts that seemingly require a 4mm bit. He says that he can only use an 8mm bit.
+
+Has anyone else experienced this?  What size bit is expected to be used?</description>
+    
+    <lastBuildDate>Thu, 02 Jul 2015 07:18:08 -0400</lastBuildDate>
+    <category>CNC Fabrication Support</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What size is the frees bit?</title>
+        <author>no-reply@example.com (@mnealon Malcolm Nealon)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/mnealon">Malcolm Nealon</a> wrote:</p>
+          <blockquote>
+              <p>I might do that next time. Just got my first one back on Monday.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249/4</link>
+        <pubDate>Thu, 02 Jul 2015 07:18:08 -0400</pubDate>
+        <guid isPermaLink="false">post-249-4</guid>
+        <source url="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249.rss">What size is the frees bit?</source>
+      </item>
+      <item>
+        <title>What size is the frees bit?</title>
+        <author>no-reply@example.com (@kristof kristof)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/kristof">kristof</a> wrote:</p>
+          <blockquote>
+              <p>hi,<br>I had three hives produced in Bemmel in the Netherlands, they used a 6mm bit. at feijenSP, for 160 Euro. they know the drill, it would be a good idea to go there.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249/3</link>
+        <pubDate>Mon, 29 Jun 2015 17:14:24 -0400</pubDate>
+        <guid isPermaLink="false">post-249-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249.rss">What size is the frees bit?</source>
+      </item>
+      <item>
+        <title>What size is the frees bit?</title>
+        <author>no-reply@example.com (@SouthwestCnc Southwest Cnc)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/southwestcnc">Southwest Cnc</a> wrote:</p>
+          <blockquote>
+              <p>He is most likely trying to remove the material in a single pass.. He is correct that doing it that way requires a bit larger than 4mm due to the thickness as a 4mm bit would most likely deflect too much and snap. </p>
+
+<p>However i regularly use 1/4" bits on ply with no problem what so ever so a little extreme to say he needs to use an 8mm.</p>
+
+<p>Once the 8mm or 1/4inch bit has contoured the part, as long as the tabs/tags or vacuum bed/double-sided tape are good enough to hold the part in place a 4mm bit could be used in a second operation called rest machining to remove the fillets left behind by the larger bits.</p>
+
+<p>Hope this helps.  </p>
+
+<p><a href="http://www.southwestcnc.co.uk" class="onebox" target="_blank" rel="nofollow">http://www.southwestcnc.co.uk</a></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249/2</link>
+        <pubDate>Fri, 12 Jun 2015 03:17:41 -0400</pubDate>
+        <guid isPermaLink="false">post-249-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249.rss">What size is the frees bit?</source>
+      </item>
+      <item>
+        <title>What size is the frees bit?</title>
+        <author>no-reply@example.com (@mnealon Malcolm Nealon)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/mnealon">Malcolm Nealon</a> wrote:</p>
+          <blockquote>
+              <p>Trying to get a CTB 6.1 cut here in the Netherlands. The company I am trying to use says that he can only use an 8mm bit and that there are several cuts that seemingly require a 4mm bit. He says that he can only use an 8mm bit.</p>
+
+<p>Has anyone else experienced this?  What size bit is expected to be used?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249/1</link>
+        <pubDate>Thu, 04 Jun 2015 16:17:07 -0400</pubDate>
+        <guid isPermaLink="false">post-249-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/what-size-is-the-frees-bit/249.rss">What size is the frees bit?</source>
+      </item>
+  </channel>
+</rss>

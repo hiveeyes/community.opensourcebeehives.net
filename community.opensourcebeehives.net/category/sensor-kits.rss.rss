@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensor Kits</title>
+    <link>http://community.opensourcebeehives.net/category/sensor-kits</link>
+    <description>Topics in the &#39;Sensor Kits&#39; category Welcome to the SENSOR KIT collaboration area. If you&#39;re an electrical engineer, sensor expert, or beekeeper we would love to see any work or research into relevant sensors from bee monitoring, and any insights into what factors indicate bee colony health. To get started, please see the To Do List thread below.</description>
+    
+      <lastBuildDate>Thu, 08 Oct 2015 10:55:49 -0400</lastBuildDate>
+      <atom:link href="http://community.opensourcebeehives.net/category/sensor-kits.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>BroodMinder IndieGoGo Project</title>
+          <author>no-reply@example.com (@fullerm14 Mike Fuller)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/fullerm14">Mike Fuller</a> wrote:</p>
+            <blockquote>
+              <p>I recently heard about a project being run by someone in my area.  Its a Bluetooth LE sensor that would reside inside a hive.  Thought it would be on interest to people on this board.</p>
+
+<p><a href="https://www.indiegogo.com/projects/broodminder-honeybee-health-telemetry#/" class="onebox" target="_blank">https://www.indiegogo.com/projects/broodminder-honeybee-health-telemetry#/</a></p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276</link>
+          <pubDate>Thu, 08 Oct 2015 10:55:49 -0400</pubDate>
+          <guid isPermaLink="false">topic-276</guid>
+          <source url="http://community.opensourcebeehives.net/t/broodminder-indiegogo-project/276.rss">BroodMinder IndieGoGo Project</source>
+        </item>
+        <item>
+          <title>Using PlainDSP audio kit for insectd characerization</title>
+          <author>no-reply@example.com (@Didier Didier LONGUEVILLE)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/didier">Didier LONGUEVILLE</a> wrote:</p>
+            <blockquote>
+              <p>Hi,</p>
+
+<p>May I encourage you to read <a href="http://www.arduinoos.com/2015/05/publication-of-the-day/"> this post and the related publication</a></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/using-plaindsp-audio-kit-for-insectd-characerization/263">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/using-plaindsp-audio-kit-for-insectd-characerization/263</link>
+          <pubDate>Thu, 23 Jul 2015 10:15:47 -0400</pubDate>
+          <guid isPermaLink="false">topic-263</guid>
+          <source url="http://community.opensourcebeehives.net/t/using-plaindsp-audio-kit-for-insectd-characerization/263.rss">Using PlainDSP audio kit for insectd characerization</source>
+        </item>
+        <item>
+          <title>Bosch load cell results</title>
+          <author>no-reply@example.com (@geo3geo Geo Meadows)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/geo3geo">Geo Meadows</a> wrote:</p>
+            <blockquote>
+              <p>I've updated my BeeBug blog at <a href="http://bugthebees.blogspot.co.uk/" rel="nofollow">http://bugthebees.blogspot.co.uk/</a> to show latest results for a Bosch  H10A-C3-0040 sensor that I've had on test for a week. It costs less than 30 euros delivered to the UK from Germany and I'm most impressed with its performance. It's a full bridge configuration so very easy to connect to an instrumentation amp. It's now part of my second BeeBug installation, linked to my website via Thingspeak and local Wifi. </p>
+
+<p>Live at <a href="http://www.mecol.co.uk/P11.php" rel="nofollow">www.mecol.co.uk/P11.php</a><br>Click on Hive 2 at bottom of page for second BeeBug system,  just settling down now after some Wifi teething problems.</p>
+
+<p>Geo</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/bosch-load-cell-results/210</link>
+          <pubDate>Fri, 13 Mar 2015 06:01:07 -0400</pubDate>
+          <guid isPermaLink="false">topic-210</guid>
+          <source url="http://community.opensourcebeehives.net/t/bosch-load-cell-results/210.rss">Bosch load cell results</source>
+        </item>
+        <item>
+          <title>Live and working bee hive monitoring</title>
+          <author>no-reply@example.com (@mark Mark)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/mark">Mark</a> wrote:</p>
+            <blockquote>
+              <p>see <a href="http://www.euse.de/honig/beescale/graph.php" rel="nofollow">http://www.euse.de/honig/beescale/graph.php</a><br>my monitoring prototype uses the weight cell you are proposing <a href="//community.opensourcebeehives.net/t/load-cell-integration/171">here</a>.<br>the [hive design][2] is from a urban bee keeping community project called "bienenkiste.de". they re-invented and upgraded the [Krainer Bauernstock][3], a design from an 18th century beekeeping book describing beekeeping techniques in the Balkans. my [data][4] is also downloadable. but sorry, my [how-to][5] and [todo-list][6] are only in German language. i would like to answer translation questions or assist a translation.</p>
+
+<p>my next step will be a temperature sensor matrix inside the hive (7x5x3 sensors in the 60x40x20cm hive breeding space). it will produce plots like [here][7] (i tried to connect to those developers but they didnt answer). i will probably use [heatmap.js][8] to visualize data. my plan is to improve visualization techniques to be able to show an animated semi-transparent 3d-heat plot of the hive - instead of only (animated) 2d-cuts through the hive. hardware-work, electronic circuits and data-transfer and -storage will not be my problem. i need help (or more self-education) when it comes to improving visualization algorithms and coding.</p>
+
+<p>  further links: sorry, i'm not allowed to save more than two links because i'm a new user.</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/live-and-working-bee-hive-monitoring/185">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/live-and-working-bee-hive-monitoring/185</link>
+          <pubDate>Wed, 11 Feb 2015 06:31:56 -0500</pubDate>
+          <guid isPermaLink="false">topic-185</guid>
+          <source url="http://community.opensourcebeehives.net/t/live-and-working-bee-hive-monitoring/185.rss">Live and working bee hive monitoring</source>
+        </item>
+        <item>
+          <title>Concept alpha sensor kit</title>
+          <author>no-reply@example.com (@ron Ron Jacob)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
+            <blockquote>
+              <p>Here's an image showing the actual concept of the alpha kit using the spark core<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/226/0d5029a29287828a.png" class="lightbox" title="concept.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/607/26f/c99f4ddac4_571x499.png" width="571" height="499"><div class="meta">
+<span class="filename">concept.png</span><span class="informations">1415x1238 175 KB</span><span class="expand"></span>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/concept-alpha-sensor-kit/178">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/concept-alpha-sensor-kit/178</link>
+          <pubDate>Sun, 08 Feb 2015 06:53:31 -0500</pubDate>
+          <guid isPermaLink="false">topic-178</guid>
+          <source url="http://community.opensourcebeehives.net/t/concept-alpha-sensor-kit/178.rss">Concept alpha sensor kit</source>
+        </item>
+        <item>
+          <title>Load Cell Integration</title>
+          <author>no-reply@example.com (@ron Ron Jacob)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
+            <blockquote>
+              <p>This Topic is about how we acutally integrate a load cell into the hive designs (Colorado Top Bar and the Warré Design).</p>
+
+<p>As exact working load cells are quite expensive the approach is to use only <strong>one sensor per Hive</strong> - taking the whole weight of it.</p>
+
+<p>This is the load cell  we're up to right now:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/218/2a254ae2790ba2e0.jpg" class="lightbox" title="p1040455.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/951/c6b/d555ed988e_690x466.jpg" width="690" height="466"><div class="meta">
+<span class="filename">p1040455.jpg</span><span class="informations">1395x943 133 KB</span><span class="expand"></span>
+</div></a></div></p>
+
+<p>And here are some general ideas about the possibilities of how to install the load cell:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/217/1d611dde885a896e.png" class="lightbox" title="text3970.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/240/1fa/7f9842fd4d_690x318.png" width="690" height="318"><div class="meta">
+<span class="filename">text3970.png</span><span class="informations">929x429 61.4 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p><a class="mention" href="/users/jonathan">@jonathan</a> <a class="mention" href="/users/aaronm">@AaronM</a> Any idea where to go from here?</p>
+            </blockquote>
+            <p>Posts: 17</p>
+            <p>Participants: 9</p>
+            <p><a href="http://community.opensourcebeehives.net/t/load-cell-integration/171">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/load-cell-integration/171</link>
+          <pubDate>Mon, 02 Feb 2015 14:14:21 -0500</pubDate>
+          <guid isPermaLink="false">topic-171</guid>
+          <source url="http://community.opensourcebeehives.net/t/load-cell-integration/171.rss">Load Cell Integration</source>
+        </item>
+        <item>
+          <title>HiveLife + OSBH Sensor symbiosis</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <p>This topic is continued from a <a href="//community.opensourcebeehives.net/t/project-goals-please-explain/164/5?u=trizcs">previous conversation in the forum</a>.</p>
+
+<p>The manual <a href="https://hivelife.co/">HiveLife data entry app</a> and the OSBH sensor kit may benefit from exchanging data, possibly to inform an OSBH data algorithm. The intended result of this would be to teach the OSBH algorithm how to detect more subtle variations in the hive via manual data entry by HiveLife app users.</p>
+            </blockquote>
+            <p>Posts: 27</p>
+            <p>Participants: 8</p>
+            <p><a href="http://community.opensourcebeehives.net/t/hivelife-osbh-sensor-symbiosis/169">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/hivelife-osbh-sensor-symbiosis/169</link>
+          <pubDate>Sun, 01 Feb 2015 11:49:31 -0500</pubDate>
+          <guid isPermaLink="false">topic-169</guid>
+          <source url="http://community.opensourcebeehives.net/t/hivelife-osbh-sensor-symbiosis/169.rss">HiveLife + OSBH Sensor symbiosis</source>
+        </item>
+        <item>
+          <title>Hive monitoring project located in berlin</title>
+          <author>no-reply@example.com (@bienenpapa karsten harazim)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/bienenpapa">karsten harazim</a> wrote:</p>
+            <blockquote>
+              <p>proud to announce that we started working on a hive censoring kit in september. you can join our progress, give suggestions and help if you like. visit our blog at <a href="https://hiveeyes.ideensyndikat.org" rel="nofollow">https://hiveeyes.ideensyndikat.org</a> our aim is to develop a sensoring kit based on open hardware (arduino) and working with open source software free to use change and distribute! feel free to get in touch.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 4</p>
+            <p><a href="http://community.opensourcebeehives.net/t/hive-monitoring-project-located-in-berlin/147">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/hive-monitoring-project-located-in-berlin/147</link>
+          <pubDate>Sun, 28 Dec 2014 16:01:18 -0500</pubDate>
+          <guid isPermaLink="false">topic-147</guid>
+          <source url="http://community.opensourcebeehives.net/t/hive-monitoring-project-located-in-berlin/147.rss">Hive monitoring project located in berlin</source>
+        </item>
+        <item>
+          <title>Investigations into low cost Load Cells</title>
+          <author>no-reply@example.com (@geo3geo Geo Meadows)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/geo3geo">Geo Meadows</a> wrote:</p>
+            <blockquote>
+              <p>I've started a blog on my ongoing beehive monitoring system development and the fist section is mainly about using cheap load cells (about a dollar each) from China. Apologies for not putting it all here but it's only a click away at<br><a href="http://bugthebees.blogspot.co.uk/" class="onebox" target="_blank" rel="nofollow">http://bugthebees.blogspot.co.uk/</a> </p>
+
+<p>I'd welcome any feedback, on this forum, not under the blog comments. As an inducement to visit the blog here's the curve that says it all really about these devices. </p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/177/4ede456ec998b5b2.png" class="lightbox" title="Pasted image"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/4b2/eda/243c31ada7_690x464.png" width="690" height="464"><div class="meta">
+<span class="filename">Pasted image</span><span class="informations">765x515 55.8 KB</span><span class="expand"></span>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 16</p>
+            <p>Participants: 7</p>
+            <p><a href="http://community.opensourcebeehives.net/t/investigations-into-low-cost-load-cells/133">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/investigations-into-low-cost-load-cells/133</link>
+          <pubDate>Thu, 04 Dec 2014 13:29:46 -0500</pubDate>
+          <guid isPermaLink="false">topic-133</guid>
+          <source url="http://community.opensourcebeehives.net/t/investigations-into-low-cost-load-cells/133.rss">Investigations into low cost Load Cells</source>
+        </item>
+        <item>
+          <title>Research: Audio Sensors</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p><strong>Research Paper Analysis</strong><br><em>On the Design of a Bioacoustic Sensor for the Early Detection of the Red Palm Weevil</em><br><a href="https://drive.google.com/open?id=0Bz7WbjRT9mlmSWtpU3NGb0FGWFk&amp;authuser=0">link</a></p>
+
+<p><strong>Abstract</strong></p>
+
+<blockquote><p>During the last two decades Red Palm Weevil (RPW, Rynchophorus Ferrugineus) has become one of the most dangerous threats to palm trees in many parts of the World. Its early detection is difficult, since palm trees do not show visual evidence of infection until it is too late for them to recover. For this reason the development of efficient early detection mechanisms is a critical element of RPW pest management systems. One of the early detection mechanisms proposed in the literature is based on acoustic monitoring, as the activity of RPW larvae inside the palm trunk is audible for human operators under acceptable environmental noise levels (rural areas, night periods, etc.). In this work we propose the design of an autonomous bioacoustic sensor that can be installed in every palm tree under study and is able to analyze the captured audio signal during large periods of time. The results of the audio analysis would be reported wirelessly to a control station, to be subsequently processed and conveniently stored. That control station is to be accessible via the Internet. It is programmed to send warning messages when predefined alarm thresholds are reached, thereby allowing supervisors to check on-line the status and evolution of the palm tree orchards. We have developed a bioacoustic sensor prototype and performed an extensive set of experiments to measure its detection capability, achieving average detection rates over 90%.</p></blockquote>
+
+<p><strong>Introduction</strong></p>
+
+<blockquote>
+<p>In this paper, we design and develop a bioacoustic sensor prototype which efficiently detects the<br>sounds produced by RPW larvae after the first infestation stages. The proposed bioacoustic sensor is<br>able to: </p>
+<ul>
+<li>(1) effectively detect the RPW presence with high detection rates (over 90%); </li>
+<li>(2) perform monitoring tests at user programmable frequencies in order to achieve a fast detection response;</li>
+<li>(3) work autonomously during large periods of time (at least one year); </li>
+<li>(4) work without maintenance requirements after installation;</li>
+<li>(5) form a wireless sensor network to cover from little orchards to<br>large plantation extensions;</li>
+<li>(6) allow continuous monitoring activity, since data may be checked<br>on-line in real-time through an Internet connection with the control<br>station;</li>
+<li>(7) trigger an alarm system defined at the control station to warn supervisors about the desired events by means of e-mail, Short Message System (SMS), Instantaneous Message System (IMS), etc.</li>
+</ul>
+</blockquote>
+
+<p><strong>Microcontroller</strong></p>
+
+<blockquote><ul>
+<li>Jennic (now NXP) model number <a href="http://www.jennic.com/products/modules/">JN5148-001</a>
+</li>
+<li>Low power operation modes, from 1.5 uA in sleep mode, and close to 200 mA in full power mode with all peripherals working on.</li>
+<li>Thirty two-bits RISC pipelined processor.</li>
+<li>One memory of 128 KB ROM and one memory of 128 KB RAM, large enough to store program and data used to perform the bioacoustic detection of the RPW.</li>
+<li>Wireless 2.4 GHz, IEEE 802.15.4 compliant transceiver, with ZigBee network support.</li>
+<li>Up to 21 general purpose digital inputs/outputs.</li>
+<li>Twelve bit ADC with a maximum sampling frequency of 100 kHz.</li>
+<li>Four wire interface for digital audio.</li>
+</ul></blockquote>
+
+<p><strong>Power Consumption</strong></p>
+
+<blockquote><ul>
+<li>Regarding the power supply, the bioacoustic sensor measured consumption rises up to 200 mA when performing detection process.</li>
+<li>When sensor wakes up from sleep mode, it enters running mode, where all the required systems are turned on, and the RPW detection software starts to work during a limited period of time (between 5 and 10 minutes, although it may be programmable).</li>
+<li>This working behaviour is periodically repeated during the life of the sensor node,<br>performing between 3 and 12 audio analysis a day (again this may be modified). In the best case, a battery of 2,000 mAh works for no more than one month.</li>
+</ul></blockquote>
+
+<p><strong>Power Unit</strong></p>
+
+<blockquote><ul>
+<li>Supercapacitor at 500 mA of one hour of continuous operation.</li>
+<li>8 miniature solar cells wired in parallel generating around 350 mA.</li>
+<li>Every cell works at 3.0 volts and is able to give 45 mA, with dimensions: 54 mm × 43 mm × 3.0 mm (L × W × D).</li>
+<li>The current produced by solar cells is supplied to a Low Dropout  (LDO) Linear Voltage Regulator (LT3085 from Linear Technology), to adjust the solar cells voltage to the input range demanded by   supercapacitor, which operates at 2.3 volts. The output of the supercapacitor powers the sensor board using a Step-Up Voltage Regulator (L6920 from STMicroelectronics) to properly adjust capacitor’s voltage to that required by the sensor board.</li>
+</ul></blockquote>
+
+<p><strong>Radio Interface</strong></p>
+
+<blockquote><ul><li>The radio interface is up to create a reliable point-to-point outdoor communication over distances of 30 meters. Nominal values from manufacturer are larger, but they can be achieved only in optimal conditions of no EMI interferences, higher transmission power (up to 20 dBm), and particular antenna arrangement and orientation.</li></ul></blockquote>
+
+<p><strong>Audio Probe</strong></p>
+
+<blockquote><ul><li>To decide the appropriate audio probe design, we have analyzed the features of RPW sound: (a) studying previous works like [11–13], (b) performing a preliminary spectral and temporal analysis of available RPW audio recordings, and (c) taking into account several aspects, as probe insertion into palm trees, environmental noise levels, signal adjust conditioning parameters (i.e., signal amplification and    filtering) among others, by means of laboratory and field tests.</li></ul></blockquote>
+
+<p><strong>Microphone</strong></p>
+
+<blockquote><ul><li>We used also <a href="http://www.newark.com/kingstate/kecg2740pbj/microphone-miniature-electret/dp/24M3209">KINGSTATE KECG2740PBJ</a>, a 6 mm external diameter and<br>length of 2.7 mm, with a sensitivity of –40 dB at 1 kHz.</li></ul></blockquote>
+
+<p><strong>Signal Conditioning: Filtering and Amplification Stage</strong></p>
+
+<blockquote>
+<p>Once we have defined the audio sensor and the probe, we need to perform some signal conditioning to deliver the microphone output signal to the A/D converter with the highest possible quality. The main issue here is the amplification stage, which is a well-known problem with lots of solutions. In this case, not all of these solutions are convenient, because the bioacoustic sensor has a set of requirements that limits the design: (1) it has to be powered by batteries, so the use of high and bipolar voltages should be avoided, and (2) sensor signal output has to be largely amplified, in the whole range of frequencies, up to 10 kHz.</p>
+<p>To fit the requirements, we have used a Texas Instruments TLV2785 operational amplifier. This chip includes four operational amplifiers, with single supply since 1.8 V up to 3.6 V, and a supply current of less than 1 mA per channel, very convenient for battery operated devices. In addition, amplifiers may be shutdown to save battery when the device is not capturing sound. Its bandwidth is 8 MHz, allowing gains of more than 50 dB for a cut off frequency of 10 kHz.</p>
+<p>A PCB board has been designed, where two of the operational amplifiers are used to amplify the microphone output. Two additional amplifiers are used to create an active low pass filter at 10 kHz, to avoid aliases in the digital part of acquisition chain. This board is inserted in a plastic box, with an RCA connector for the microphone, a potentiometer to adjust the desired gain, and two jack outputs, one for the headphones and the other for the connection with an analog input of a microcontroller (a prototype is shown at Figure 5). The goal of this design is the modularity and flexibility of the device: different microphones may be connected to the amplifier, it can be used by a human operator listening through headphones, or it can be connected to the microcontroller for the autonomous detection.</p>
+</blockquote>
+
+<ul><li>Texas Instruments <a href="http://www.ti.com/product/tlv2785">TLV2785</a> operational amplifier</li></ul>
+
+<p><strong>Bioacoustic Sensor: Software Description</strong></p>
+
+<blockquote>
+<p>In running mode, the first operation performed by the sensor node is to configure and initialize the audio system with the parameters established at the initialization stage (sample bits, sampling rate, window size, etc.). Then, a Signal-to-Noise Ratio (SNR) measurement test is executed to determine the actual noise level before the audio analysis procedure;</p>
+<p>In our studies we have chosen 4096-sample fixed size windows with the minimal overlapping that prevents potential losses of RPW signals located at window edges.</p>
+<p>Once we have captured a window of audio samples, we proceed to apply our RPW analysis algorithm. If this window contains one or more RPW audio signals, the analysis results are time stamped and stored as part of the running mode analysis report.</p>
+</blockquote>
+
+<p><strong>RPW Sound Model</strong></p>
+
+<blockquote>
+<p>We have classified three different kinds of sounds coming from RPW larvae: “eating”, “squealing” and “moving”.</p>
+<p>For our study, we have chosen the first one, “eating”, because (1) it is the loudest sound, (2) its frequency is clearly superior to the other identified sounds in all available recordings, and (3) it is representative of the RPW larvae feeding actions in the first stages of their evolution.</p>
+<p>Figure 7 shows a good example of “eating” sound that was extracted from the recordings above mentioned. We can see the “eating” sound in both temporal, Figure 7(a), and frequency domains, Figure 7(b). The later was obtained from a wavelet packet transform with five decomposition levels that equally divides the input audio signal bandwidth in 32 subbands (horizontal axis). For each wavelet subband, we have computed the normalized energy of its coefficients in order to visually determine the energy distribution. As it can be seen, in Figure 7(b), there are three subbands that accumulate most of the signal energy. Thus, energy distribution across wavelet subbands may be considered a spectral fingerprint of RPW feeding activity, being an important feature to be included in our RPW “eating” sound model.</p>
+<p>We also analyze the “eating” sample in the temporal domain, determining its main duration in terms of audio samples. We need to determine the beginning and ending positions of “eating” sound inside captured audio window using three parameters: audio signal level, signal variance, and SNR level, as shown in Figure 7(a). With the SNR level we determine the noise domain present in the captured audio, which is the actual noise level plus a 6 dB margin. The beginning of a new sound will be determined by α consecutive samples which value is above noise domain; meanwhile, the ending of the new sound will be determined just before β consecutive samples, which value falls inside noise domain. Both parameters are empirically established to properly identify potential RPW sounds. It can be seen in Figure 7(a) that the RPW “eating” temporal extension is of 492 samples (around 11 milliseconds).</p>
+</blockquote>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/145/8ccfdc3fe790c4d2.png" class="lightbox" title="yup.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/752/a4e/84afb62247_690x328.png" width="690" height="328"><div class="meta">
+<span class="filename">yup.png</span><span class="informations">1307x622 195 KB</span><span class="expand"></span>
+</div></a></div> </p>
+            </blockquote>
+            <p>Posts: 13</p>
+            <p>Participants: 5</p>
+            <p><a href="http://community.opensourcebeehives.net/t/research-audio-sensors/111">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/research-audio-sensors/111</link>
+          <pubDate>Mon, 13 Oct 2014 18:10:11 -0400</pubDate>
+          <guid isPermaLink="false">topic-111</guid>
+          <source url="http://community.opensourcebeehives.net/t/research-audio-sensors/111.rss">Research: Audio Sensors</source>
+        </item>
+        <item>
+          <title>PCB Board Design Tutorials</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p>Discussion about PCB design as a general practice.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/pcb-board-design-tutorials/100">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/pcb-board-design-tutorials/100</link>
+          <pubDate>Sun, 05 Oct 2014 12:53:24 -0400</pubDate>
+          <guid isPermaLink="false">topic-100</guid>
+          <source url="http://community.opensourcebeehives.net/t/pcb-board-design-tutorials/100.rss">PCB Board Design Tutorials</source>
+        </item>
+        <item>
+          <title>Beehive Audio Field Recording Kits</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p>We'll be recording audio in the southern hemisphere as soon as possible using high fidelity audio recording equipment. General questions:</p>
+
+<ol>
+<li>Which field recorder should we use?</li>
+<li>How should we power it?</li>
+<li>Which general thing should we be aware of? Process and methodology...</li>
+</ol>
+            </blockquote>
+            <p>Posts: 9</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/beehive-audio-field-recording-kits/96">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/beehive-audio-field-recording-kits/96</link>
+          <pubDate>Fri, 03 Oct 2014 15:13:34 -0400</pubDate>
+          <guid isPermaLink="false">topic-96</guid>
+          <source url="http://community.opensourcebeehives.net/t/beehive-audio-field-recording-kits/96.rss">Beehive Audio Field Recording Kits</source>
+        </item>
+        <item>
+          <title>Alpha Kit Development Discussion</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p>Hello OSBH Community,</p>
+
+<p>This thread is the main discussion point for alpha kit development. It's a good one to 'watch' for updates, and feel free to join in at any time.</p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/117/9e324370ca068a26.png" class="lightbox" title="watch.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/422/547/773646595b_690x184.png" width="690" height="184"><div class="meta">
+<span class="filename">watch.png</span><span class="informations">1151x308 40 KB</span><span class="expand"></span>
+</div></a></div> </p>
+
+<p>Thanks,<br>Aaron</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/alpha-kit-development-discussion/95">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/alpha-kit-development-discussion/95</link>
+          <pubDate>Fri, 03 Oct 2014 11:35:14 -0400</pubDate>
+          <guid isPermaLink="false">topic-95</guid>
+          <source url="http://community.opensourcebeehives.net/t/alpha-kit-development-discussion/95.rss">Alpha Kit Development Discussion</source>
+        </item>
+        <item>
+          <title>EMF / Wifi vs. Bees</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <p>Some research indicates that WiFi and other wireless data transfer technologies can cause disruption with bees. We are exploring ways to limit/prevent the signal from interfering with bees.</p>
+
+<p>Please share any research into WiFi etc. effects on bees, and any research into how we might limit or prevent these effects.</p>
+            </blockquote>
+            <p>Posts: 23</p>
+            <p>Participants: 5</p>
+            <p><a href="http://community.opensourcebeehives.net/t/emf-wifi-vs-bees/94">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/emf-wifi-vs-bees/94</link>
+          <pubDate>Fri, 03 Oct 2014 06:49:55 -0400</pubDate>
+          <guid isPermaLink="false">topic-94</guid>
+          <source url="http://community.opensourcebeehives.net/t/emf-wifi-vs-bees/94.rss">EMF / Wifi vs. Bees</source>
+        </item>
+        <item>
+          <title>Research: Wifi Data Transmission</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <a href="http://i.imgur.com/7shGsKj.gif" target="_blank"><img src="http://i.imgur.com/7shGsKj.gif" width="199" height="500"></a>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/research-wifi-data-transmission/93">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/research-wifi-data-transmission/93</link>
+          <pubDate>Fri, 03 Oct 2014 01:53:21 -0400</pubDate>
+          <guid isPermaLink="false">topic-93</guid>
+          <source url="http://community.opensourcebeehives.net/t/research-wifi-data-transmission/93.rss">Research: Wifi Data Transmission</source>
+        </item>
+        <item>
+          <title>Breadboards and Alternatives</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p><strong>Standard Breadboard</strong><br>$4.95 at <a href="https://www.sparkfun.com/products/12002">SparkFun</a></p>
+
+<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/106/230769d6311781f7.png" class="lightbox" title="Pasted image"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/528/b73/28ad7546a9_500x500.png" width="500" height="500"><div class="meta">
+<span class="filename">Pasted image</span><span class="informations">600x600 327 KB</span><span class="expand"></span>
+</div></a></div> </p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/breadboards-and-alternatives/92">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/breadboards-and-alternatives/92</link>
+          <pubDate>Thu, 02 Oct 2014 11:03:30 -0400</pubDate>
+          <guid isPermaLink="false">topic-92</guid>
+          <source url="http://community.opensourcebeehives.net/t/breadboards-and-alternatives/92.rss">Breadboards and Alternatives</source>
+        </item>
+        <item>
+          <title>URGENT: Animal Planet Special - seeking sensor collaborators and hive designers</title>
+          <author>no-reply@example.com (@foundups Michael Trout)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/foundups">Michael Trout</a> wrote:</p>
+            <blockquote>
+              <p>I am a cerana bee conservationist living in rural Japan and the pioneer of the <a href="http://youtu.be/FU1BbxLDib0?t=1m15s" rel="nofollow">1st conservation beehive for wild Asian cerana bees</a>, I am filming an Animal Planet special filming the week of Oct 22-29 in Japan on giant Japanese killer hornets and it's airing April 2015. I would like to showcase and test cerana conservation os bee hive. Offering the opportunity to get OS Beehives significant. I want to explore making a sensor that can detect Giant Hornets via their deep distinguishable buzz. I am also looking for folks to work with me on the design of the hive and offering a $1000 towards this project (as a incentive prize for the best design -- paid out $100 per month over the 10 months - or made as a contribution to the project?).  I don't know if we can get this done in time. Anyone interested in helping skype:foundup and let's get the project going. I was JUST contacted last week that the filming is going to happen next month and just today that it will happen the week of October 22. </p>
+
+<p>About the design cc: <a class="mention" href="/users/jonathan">@jonathan</a>  :<br>PROBLEM: Giant Hornets.<br>SOLUTION: Some kind of bottom trap that works like a crab trap that allows hornet scout in but does not allow them out. Maybe a false bottom region that draws in the wasp but is built in such a way that once they push themselves in they cant get out. Also serves as a natural area for the bees to ambush them.<br>SOLUTION: Entrances needs to be ONLY 8mm also by maybe using routing in a 2 box design (box in a box) maybe we can design man-made tunnel where due to angles a larger wasp can not navigate? </p>
+
+<p>PROBLEM: Black bears and maybe Japanese raccoon dogs<br>SOLUTION: Firmly attached on tree trunk 2-3 meters up using wire that is tightened with a stick. To protect the tree wood will be used to stop the wire from cutting into the tree. Box needs to be firmly constructed. I recommend a box-in-a-box construction. Hives should take the dimensions of the <a href="https://www.youtube.com/watch?v=QbC1hFIO14A" rel="nofollow">Traditional Japanese beehives</a> (link for inspiration only) box height (1 - 1.5 m) and width (260-280 cm). </p>
+
+<p>SENSOR:<br>Sensor, if possible, needs to be calibrated to detect the deep buzzing of the hornet. We will probably not use them this time but they need to be built with them in mind in the future.</p>
+
+<p>OTHER FEATURES:<br>1. If the hive can be designed so that the front panel can be removed for sensor access for cleaning and comb inspection that would be awesome. Wires attaching the hive would loop above and blow the door with a removable lashing for the front door. <br>2. Strength, durability and thickness to help bees over cold Japanese winters<br>3. Wax moth... not sure if they would be a problem.<br>4. Bottom ventilation. This can tie into the giant hornet trap? Causing the bee sent to come primarily out of the bottom, luring in and trapping moths... </p>
+
+<p>October 11, 2014 update: Talked to the producer today. We will do a shot of the new Cerana Conservation OS Beehive being CNC routed out. Currently seeking a CNC router to use in Fukui, Japan and reaching out to Tech Universities to lend student engineers to the continued design process. Another shot the hive being placed near an existing wild who have set up shop in a tree. The aim is to see if scouts will mark it and take to it. I will be documenting the shoot for patrons of <a href="http://foundups.com" rel="nofollow">foundups.com</a> foundup fund and 100% of proceeds will be used for Japan OSBeehive project I am undertaking in Fukui Japan. </p>
+            </blockquote>
+            <p>Posts: 9</p>
+            <p>Participants: 3</p>
+            <p><a href="http://community.opensourcebeehives.net/t/urgent-animal-planet-special-seeking-sensor-collaborators-and-hive-designers/89">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/urgent-animal-planet-special-seeking-sensor-collaborators-and-hive-designers/89</link>
+          <pubDate>Tue, 30 Sep 2014 19:45:46 -0400</pubDate>
+          <guid isPermaLink="false">topic-89</guid>
+          <source url="http://community.opensourcebeehives.net/t/urgent-animal-planet-special-seeking-sensor-collaborators-and-hive-designers/89.rss">URGENT: Animal Planet Special - seeking sensor collaborators and hive designers</source>
+        </item>
+        <item>
+          <title>Remote Sensor Testers (Northern Hemisphere)</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <h2>Introduce, Explain, Collaborate</h2>
+
+<p>Are you interested in testing our sensors in the Northern Hemesphere? Please introduce yourself, your interest, and your skill level in sensor development below!</p>
+            </blockquote>
+            <p>Posts: 13</p>
+            <p>Participants: 10</p>
+            <p><a href="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82</link>
+          <pubDate>Thu, 25 Sep 2014 15:24:46 -0400</pubDate>
+          <guid isPermaLink="false">topic-82</guid>
+          <source url="http://community.opensourcebeehives.net/t/remote-sensor-testers-northern-hemisphere/82.rss">Remote Sensor Testers (Northern Hemisphere)</source>
+        </item>
+        <item>
+          <title>Solar Charger R&amp;D</title>
+          <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+            <blockquote>
+              <p>Our initial tests were with the <a href="http://www.browndoggadgets.com/blogs/resources/14851505-lithium-heavy-duty-solar-usb-charger-2-0">Lithium Heavy Duty Solar USB Charger 2.0</a> from Brown Dog Gadgets.</p>
+
+<p><img src="//community.opensourcebeehives.net/uploads/default/96/4786905ec912d830.png" width="480" height="360"></p>
+
+<p>Here are our initial results from field tester Matthew McDonald:</p>
+
+<blockquote>
+<p>Afternoon Folks,</p>
+<p>Wanted to let you know what I found with the solar charger.  </p>
+<p>Regardless of available solar power the charging circuit will only output about 530mA to the battery.  This was confirmed with an external DC supply and a fluke current meter connected at the battery terminals.</p>
+<p>I made the following assumptions to estimate power consumption:<br>- spark core consumption continuous @ 300mA.<br>- Battery capacity is 6600mA-hr<br>- hive activity will be monitored 365 / 24 hrs<br>- shortest day in a year has about 9.5 hours of sunlight<br>- solar panel see's sunlight throughout the day<br>- max charge rate is 530mA</p>
+<p>In a 24 hour period on the shortest day there is a potential for a 5035mA-hr charge.  A 300mA consumption for 24 hours would require a 7200mA-hr charge.  In order to break even the spark core will need to consume at most an average of 209mA.  I'd recommend a little less to give the system more headroom, so maybe shoot for 180mA for a daily average on the spark core consumption and go from there.  </p>
+<p>One thing to note is that the solar panel suffers severely with any shade or overcast.  I measured a max of only 55mA from the panel this afternoon with an overcast sky.  I was only recently able to acquire the data logging software and will have that running tomorrow evening which will give a more accurate estimation.  My guess is that 180mA estimate will need to come down lower.</p>
+<p>Also, NREL has amassed significant solar data which may be worth looking at . [ <a href="http://www.nrel.gov/solar_radiation/data.html">http://www.nrel.gov/solar_radiation/data.html</a> ]</p>
+<p>Let me know if you guys have any questions, comments or suggestions.<br>~Matt</p>
+</blockquote>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="http://community.opensourcebeehives.net/t/solar-charger-r-d/79">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/solar-charger-r-d/79</link>
+          <pubDate>Tue, 23 Sep 2014 16:18:53 -0400</pubDate>
+          <guid isPermaLink="false">topic-79</guid>
+          <source url="http://community.opensourcebeehives.net/t/solar-charger-r-d/79.rss">Solar Charger R&amp;D</source>
+        </item>
+        <item>
+          <title>Looking for Collaborators in the Southern Hemisphere!</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <h2>Introduce, Connect, Collaborate</h2>
+
+<p>Are you based in the Southern Hemisphere? Are you interested in collaborating on sensor development this Spring? We want to connect remote collaborators to join our sensor development team and test the sensor system through our Winter (we're based in Colorado and Spain).</p>
+
+<p>Please introduce yourself, your location and your skills below. If you see anyone below who is local to you, please reach out to them by typing @(username) in your post and they will be notified.</p>
+
+<p> <img src="//community.opensourcebeehives.net/uploads/default/85/aa8de8179211a1a6.gif" width="642" height="320"></p>
+            </blockquote>
+            <p>Posts: 13</p>
+            <p>Participants: 7</p>
+            <p><a href="http://community.opensourcebeehives.net/t/looking-for-collaborators-in-the-southern-hemisphere/69">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/looking-for-collaborators-in-the-southern-hemisphere/69</link>
+          <pubDate>Thu, 18 Sep 2014 13:50:31 -0400</pubDate>
+          <guid isPermaLink="false">topic-69</guid>
+          <source url="http://community.opensourcebeehives.net/t/looking-for-collaborators-in-the-southern-hemisphere/69.rss">Looking for Collaborators in the Southern Hemisphere!</source>
+        </item>
+        <item>
+          <title>Sensor &amp; Beehive Integration</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <h2>Think, Suggest, Advise</h2>
+
+<p>Help investigate how best to integrate the sensor system with beehives. Currently we have two concepts on the table. The first is to distribute our sensors around the hive and connect them with wires. The second is to integrate all our sensors into a top bar frame sized container, from where they will monitor hive conditions.</p>
+
+<p>Please share any thoughts or ideas you might have below.</p>
+            </blockquote>
+            <p>Posts: 31</p>
+            <p>Participants: 11</p>
+            <p><a href="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/sensor-beehive-integration/50</link>
+          <pubDate>Fri, 12 Sep 2014 17:50:42 -0400</pubDate>
+          <guid isPermaLink="false">topic-50</guid>
+          <source url="http://community.opensourcebeehives.net/t/sensor-beehive-integration/50.rss">Sensor &amp; Beehive Integration</source>
+        </item>
+        <item>
+          <title>Research: Infrared Sensors</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <h2>Research, Share, Explain</h2>
+
+<p>We are investigating durable, cost effective and accurate sensors appropriate for placing within a beehive. Please document any infrared sensor research below.</p>
+            </blockquote>
+            <p>Posts: 29</p>
+            <p>Participants: 6</p>
+            <p><a href="http://community.opensourcebeehives.net/t/research-infrared-sensors/48">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/research-infrared-sensors/48</link>
+          <pubDate>Fri, 12 Sep 2014 17:34:45 -0400</pubDate>
+          <guid isPermaLink="false">topic-48</guid>
+          <source url="http://community.opensourcebeehives.net/t/research-infrared-sensors/48.rss">Research: Infrared Sensors</source>
+        </item>
+        <item>
+          <title>Detecting Pesticides / VOC Sensors</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <h2>Research, Share, Explain</h2>
+
+<p>We are investigating durable, cost effective and accurate sensors appropriate for placing within a beehive. Please document any pesticide and volatile organic compound sensor research below.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/detecting-pesticides-voc-sensors/47">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/detecting-pesticides-voc-sensors/47</link>
+          <pubDate>Fri, 12 Sep 2014 17:32:39 -0400</pubDate>
+          <guid isPermaLink="false">topic-47</guid>
+          <source url="http://community.opensourcebeehives.net/t/detecting-pesticides-voc-sensors/47.rss">Detecting Pesticides / VOC Sensors</source>
+        </item>
+        <item>
+          <title>Research: Humidity Sensors</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <h2>Research, Share, Explain</h2>
+
+<p>We are investigating durable, cost effective and accurate sensors appropriate for placing within a beehive. Please document any temperature sensor research below.</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 5</p>
+            <p><a href="http://community.opensourcebeehives.net/t/research-humidity-sensors/46">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/research-humidity-sensors/46</link>
+          <pubDate>Fri, 12 Sep 2014 17:30:44 -0400</pubDate>
+          <guid isPermaLink="false">topic-46</guid>
+          <source url="http://community.opensourcebeehives.net/t/research-humidity-sensors/46.rss">Research: Humidity Sensors</source>
+        </item>
+        <item>
+          <title>Research: Temperature Sensors</title>
+          <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+          <category>Sensor Kits</category>
+          <description><![CDATA[
+            <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+            <blockquote>
+              <h2>Research, Share, Explain</h2>
+
+<p>We are investigating durable, cost effective and accurate sensors appropriate for placing within a beehive. Please document any temperature sensor research below.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="http://community.opensourcebeehives.net/t/research-temperature-sensors/45">Read full topic</a></p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/research-temperature-sensors/45</link>
+          <pubDate>Fri, 12 Sep 2014 17:26:19 -0400</pubDate>
+          <guid isPermaLink="false">topic-45</guid>
+          <source url="http://community.opensourcebeehives.net/t/research-temperature-sensors/45.rss">Research: Temperature Sensors</source>
+        </item>
+  </channel>
+</rss>

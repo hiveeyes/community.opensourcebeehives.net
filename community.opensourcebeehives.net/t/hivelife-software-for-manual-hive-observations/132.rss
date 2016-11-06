@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hivelife - software for manual hive observations</title>
+    <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132</link>
+    <description>Hello everyone!
+
+I&#39;m here to post about a project I&#39;ve been working on called Hivelife. The project is a web application that shares a similar philosophy to the OSBH project. The goal of Hivelife is to create a free tool for beekeepers to record their observations from beehive inspections. The data from these inspections is then anonymized according to user settings and made available for the public. I started working on this as an academic project and have since then taken it down to focus on redesigning it. In the future, I&#39;d like to also develop mobile applications that make data collection in the field easier. Right now, the focus is to make a polished web application so that everyone with a web browser can add data. I&#39;d also like to explore ways to integrate Hivelife with the OSBH sensors kits. I believe this would make it a very powerful tool in that it would be able to record data from both sensors and human observation.
+
+Right now you can visit the site at https://hivelife.co/ - its just a single page with a little bit of information at the moment, but in the coming weeks there will be a blog containing development updates. If anyone has any questions, thoughts, or comments, I&#39;d love to hear them! I hope to have a working beta of the site ready by the beginning of the next beekeeping season in the US!</description>
+    
+    <lastBuildDate>Sun, 26 Apr 2015 23:53:38 -0400</lastBuildDate>
+    <category>Software App.</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@niki9 Niki Hammond)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/niki9">Niki Hammond</a> wrote:</p>
+          <blockquote>
+              <p>Hey all,</p>
+
+<p>I've also been working on something similar, but a bit more abstract. I've been studying permaculture and designed what I was calling an "observation cataloging system." The original intent was to be able to more easily gather info on a large site by having multiple human observers recording things like sunlight, moisture, wind, etc., and then rolling up the info into a single database. The data schema is intentionally generic so that it can be used for types of projects. Anything from, say, documenting instances of street art in a city to  counting monarchs over time along their migration path can be set up, and ultimately there'd be built-in reporting so that people can do basic statistical analysis and data visualization on what's reported. </p>
+
+<p>I tried to sign up for the Hivelife email but it doesn't seem to be hooked up. Would love to either collaborate or just exchange ideas with anyone interested-- email me at niki@niki9.com. </p>
+
+<p>Thanks!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/23">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/23</link>
+        <pubDate>Sun, 26 Apr 2015 23:53:38 -0400</pubDate>
+        <guid isPermaLink="false">post-132-23</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@jakub Jakub)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jakub">Jakub</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/users/aaronm">@AaronM</a> I think at the beginning the already meaningful data should be collected such as in/out temperature, humidity, weight and colony count along with the Apidictor data. But such data set seems not enough if you want to answer the root decline causes and to be able to detect such a decline before it actually happens. So here is where all sort of air composition and voc sensors come to play. In the sense of big data analysis, the bigger data collection the better, because we are looking for answers without the complete knowledge of the domain. For sure there are many other sensors that might be helpful but not so obvious as those mentioned.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/22">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/22</link>
+        <pubDate>Sun, 14 Dec 2014 05:04:15 -0500</pubDate>
+        <guid isPermaLink="false">post-132-22</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/users/jakub">@jakub</a> - what would be the minimally useful set of data in your opinion?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/21">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/21</link>
+        <pubDate>Sat, 13 Dec 2014 17:17:50 -0500</pubDate>
+        <guid isPermaLink="false">post-132-21</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@jakub Jakub)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jakub">Jakub</a> wrote:</p>
+          <blockquote>
+              <p>The whole thing about data mining is to collect as much data as you can. Even if now some of the data seems not interesting, its analysis may be fundamental for designing data stream mining algorithms. And I belive this is the direction we have to take to collect as much data as possible using standardized, cheap and easy to maintain equipment.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/20">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/20</link>
+        <pubDate>Sat, 13 Dec 2014 17:05:57 -0500</pubDate>
+        <guid isPermaLink="false">post-132-20</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@Jack Jonathan)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jack">Jonathan</a> wrote:</p>
+          <blockquote>
+              <p>I do look at those things indeed, i suppose with more info from more people over more years you could gain some insights.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/19">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/19</link>
+        <pubDate>Thu, 11 Dec 2014 10:12:17 -0500</pubDate>
+        <guid isPermaLink="false">post-132-19</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@brianzable Brian Zable)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/brianzable">Brian Zable</a> wrote:</p>
+          <blockquote>
+              <p>There is a lot if data that can be collected. Presence of queen cells (and type and progress), presence of disease, which treatments were applied, how a hive died, amounts of honey, and more. Much of it may not be interesting to anyone but the beekeeper but some of it may be useful in data mining. Off the top of my head I can think of a couple of examples of why you would want to keep records;</p>
+
+<ol>
+<li><p>To compare how a hive is doing year over year. Logging the % of capped honey in each super might be useful if you can't remember how fast your bees progressed last year.</p></li>
+<li><p>In the case where you have a ton of hives and multiple people maintaining these hives, you have a centralized way of keeping records.</p></li>
+<li><p>Your new to beekeeping and you want to use the tool as a way of learning how to properly inspect (not saying Hivelife's forms will cover everything in this case, but it can help).</p></li>
+</ol>
+
+<p>Some people don't take records and that's totally normal too. In the case where you have a couple of hobby hives there may not be a need for this sort of record keeping.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/18">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/18</link>
+        <pubDate>Thu, 11 Dec 2014 09:09:15 -0500</pubDate>
+        <guid isPermaLink="false">post-132-18</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@Jack Jonathan)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jack">Jonathan</a> wrote:</p>
+          <blockquote>
+              <p>Ohhh! sorry, i misunderstood. I thought you were going for recording data like temperatures humidity relative (outside/inside) hive weight and whatever else you can find a cheap sensor for. and there are loads of them.. with the temperature alone i can see if the hive is doing well, see if the queen is laying and see how big the brood nest is etc.</p>
+
+<p>I am sure i must be doing it wrong as far as hive inspections, I don't see anything that i think needs to be recorded. I mean... I don't have the nagging inclination to search for the queen as long as i can see evadence that things are going well.</p>
+
+<p>What sort of specific information do you find interesting enough to collect?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/17">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/17</link>
+        <pubDate>Thu, 11 Dec 2014 08:04:37 -0500</pubDate>
+        <guid isPermaLink="false">post-132-17</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@brianzable Brian Zable)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/brianzable">Brian Zable</a> wrote:</p>
+          <blockquote>
+              <p>Hey <a class="mention" href="/users/jack">@Jack</a>,</p>
+
+<p>Hivelife is a bit different from the project you linked above. When I said observations I really meant human observations - mostly from a typical hive inspection. I suppose this could have better been reflected in the post title but someone already changed for me (thanks!).</p>
+
+<p>I plan on adding support for sensors later on down the line. Your project looks pretty awesome and I'd love to collaborate when I make it to a point where I want to get this interfacing with hardware!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/16">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/16</link>
+        <pubDate>Thu, 11 Dec 2014 07:43:56 -0500</pubDate>
+        <guid isPermaLink="false">post-132-16</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@Jack Jonathan)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jack">Jonathan</a> wrote:</p>
+          <blockquote>
+              <p>no, the bees dont seems to be bothered, we are not talking high volgage or high frequency where you can expect emi radiation. I am building it, and have tested much of the system however I am not the guy who did the initial design or programming. I have changed some of their code because i want it wireless and i am automatically recognizing the sensors. I also haven't mounted them like they have. It is an excellent code base and an active working project though and the webinterface backend is free open source as well as the arduino code for the sensors. You can add whatever sensors you like to the web interface as well.</p>
+
+<p><a href="http://openenergymonitor.org/emon/beehive/v2" class="onebox" target="_blank" rel="nofollow">http://openenergymonitor.org/emon/beehive/v2</a></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/15">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/15</link>
+        <pubDate>Thu, 11 Dec 2014 07:25:30 -0500</pubDate>
+        <guid isPermaLink="false">post-132-15</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p>Hey Jack - your work looks great - we're doing some similar stuff it seems. </p>
+
+<p>I can see you're applying this to Langstroth style hives, whereas ours are currently being built into top bar style hives. From the images, it seems you're wiring sensors directly into the combs. Have you noticed this disturbing the bees? A lot of people have brought up concerns about EMF (electromagnetic fields) generated by electronics disturbing the colony. Have you noticed anything like this?</p>
+
+<p>You can see more on our <a href="//community.opensourcebeehives.net/t/sensor-beehive-integration/50/24">beehive &amp; sensor integration on this threat</a>, and we'd love to hear <a href="//community.opensourcebeehives.net/t/wifi-data-bee-disturbance-limiting/94">thoughts / experiences on EMFs in this thread</a>.</p>
+
+<p>Perhaps <a class="mention" href="/users/mtnscott">@mtnscott</a> would be interested to take a look at <a class="mention" href="/users/jack">@Jack</a>'s work? </p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/14">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/14</link>
+        <pubDate>Thu, 11 Dec 2014 05:48:01 -0500</pubDate>
+        <guid isPermaLink="false">post-132-14</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@Jack Jonathan)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/jack">Jonathan</a> wrote:</p>
+          <blockquote>
+              <p>Can't you built upon this project? I am currently building this. </p>
+
+<p><a href="http://openenergymonitor.org/emon/beemonitor" class="onebox" target="_blank" rel="nofollow">http://openenergymonitor.org/emon/beemonitor</a></p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/13">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/13</link>
+        <pubDate>Thu, 11 Dec 2014 05:10:57 -0500</pubDate>
+        <guid isPermaLink="false">post-132-13</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/users/aaronm">@AaronM</a> <a class="mention" href="/users/barefootbee">@BarefootBee</a> <a class="mention" href="/users/brianzable">@brianzable</a>   </p>
+
+<p>Please see <a href="//community.opensourcebeehives.net/t/investigations-into-low-cost-load-cells/133/5">this thread</a> where <a class="mention" href="/users/mtnscott">@mtnscott</a> and <a class="mention" href="/users/geo3geo">@geo3geo</a> are discussing load cells, which can measure honey weight - it's <a href="http://www.ebay.co.uk/itm/4pcs-Body-Load-Cell-Weigh-Sensor-Resistance-strain-Half-bridge-sensors-50kg-/181284138618?pt=UK_BOI_Electrical_Test_Measurement_Equipment_ET&amp;hash=item2a35606e7a">not actually that expensive</a> and <a class="mention" href="/users/geo3geo">@geo3geo</a> has a working prototype and generated data already. Scott is talking with him about how to improve the code.</p>
+
+<p>With something like this, we may be able to measure weight for individual top bars, which would be even more accurate than measuring the entire weight of the hive.</p>
+
+<p><img src="//community.opensourcebeehives.net/uploads/default/181/bebda525f36f50c6.JPG" width="300" height="300"> </p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/12">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/12</link>
+        <pubDate>Sat, 06 Dec 2014 04:16:51 -0500</pubDate>
+        <guid isPermaLink="false">post-132-12</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@AaronM Aaron Makaruk)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/users/barefootbee">@BarefootBee</a> <a class="mention" href="/users/brianzable">@brianzable</a></p>
+
+<p>Hi Guys - I'd like to warn/deter you from attempting the hive scales based on some preliminary research I've done. At UPS, they use scales to measure packages, which obviously have to be very accurate since it costs customers/the company money per pound. They are rated for a maximum of 150#, cost $700, and require yearly maintenance and certification since they go out of calibration. </p>
+
+<p>There are people working on this though (see the NASA study), and a quick google search will give you more information. </p>
+
+<p>Further costs would include the integration with the microcontroller, weatherproofing the equipment, etc. If you have a large budget though, its completely possible.</p>
+
+<p>Aaron</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/11">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/11</link>
+        <pubDate>Fri, 05 Dec 2014 20:42:59 -0500</pubDate>
+        <guid isPermaLink="false">post-132-11</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@brianzable Brian Zable)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/brianzable">Brian Zable</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/users/barefootbee">@BarefootBee</a> - I love the idea of having a scale underneath the hive. That may actually become a summer project now that you mention it! pH of the atmosphere is also something that could be recorded automatically based on hive location. Since each hive will have a location associated with it, any sort of weather data will be pulled automatically so the beekeeper doesn't need to deal with filling it out. I think I saw atmospheric information in the NOAA api last time I played around with it.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/10">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/10</link>
+        <pubDate>Fri, 05 Dec 2014 20:28:40 -0500</pubDate>
+        <guid isPermaLink="false">post-132-10</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@brianzable Brian Zable)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/brianzable">Brian Zable</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/users/codenheimer">@codenheimer</a> - I'd love to checkout your database. Right now Hivelife is a Rails application and the database is built in a way that works best for Rails. I'm happy to collaborate if you like! Feel free to send me a message.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/9">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/9</link>
+        <pubDate>Fri, 05 Dec 2014 20:25:46 -0500</pubDate>
+        <guid isPermaLink="false">post-132-9</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@codenheimer C ADams)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/codenheimer">C ADams</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/users/brianzable">@brianzable</a> - I designed a scalable database to store data for an application similar to what you are describing. Would you be open to some collaboration?  I have some ideas on protocols and standards.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/8">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/8</link>
+        <pubDate>Fri, 05 Dec 2014 00:57:06 -0500</pubDate>
+        <guid isPermaLink="false">post-132-8</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@BarefootBee Philip Chandler)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/barefootbee">Philip Chandler</a> wrote:</p>
+          <blockquote>
+              <p>If you want to stray into more esoteric areas, there is pH of the atmosphere to consider.</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/7">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/7</link>
+        <pubDate>Thu, 04 Dec 2014 17:23:53 -0500</pubDate>
+        <guid isPermaLink="false">post-132-7</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@BarefootBee Philip Chandler)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/barefootbee">Philip Chandler</a> wrote:</p>
+          <blockquote>
+              <p>One of the most interesting and useful data streams would be the fluctuations in weight through the season. This could be gathered from pressure sensors mounted under the hive, and would show when a colony is bringing in plentiful nectar, and give warning of declining stores during winter or a drought. </p>
+
+<p>Temperature and humidity are obvious candidates for measurement; less so is an audio channel, measuring average pitch and volume. If queen piping could be detected and registered, there is the possibility of swarm prediction...</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/6">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/6</link>
+        <pubDate>Thu, 04 Dec 2014 17:20:59 -0500</pubDate>
+        <guid isPermaLink="false">post-132-6</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@SenecaUPP Seneca)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/senecaupp">Seneca</a> wrote:</p>
+          <blockquote>
+              <p>I think this sounds very exciting! I am not sure what kinds of specific data related possibilities it may have, but I think it has tremendous social networking possibilities. Would it look a little like Facebook or Instagram, where you could scroll through other folks observations, share things with each other, find mentors or other beekeepers near you? A network of folks that can communicate like that could be an awesome data base for a lot of research</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/5">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/5</link>
+        <pubDate>Thu, 04 Dec 2014 15:34:41 -0500</pubDate>
+        <guid isPermaLink="false">post-132-5</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@trizcs Tristan Copley Smith)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for sharing this <a class="mention" href="/users/brianzable">@brianzable</a> - some good questions above <a class="mention" href="/users/coloradobum">@coloradobum</a>. </p>
+
+<p>I think this system could be totally complimentary to the sensors we're installing, since there is obviously still a need for sentient life forms to examine hives properly!</p>
+
+<p>Interested to see what <a class="mention" href="/users/senecaupp">@SenecaUPP</a>, <a class="mention" href="/users/barefootbee">@BarefootBee</a> and others have to say?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/4">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/4</link>
+        <pubDate>Thu, 04 Dec 2014 14:25:24 -0500</pubDate>
+        <guid isPermaLink="false">post-132-4</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@brianzable Brian Zable)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/brianzable">Brian Zable</a> wrote:</p>
+          <blockquote>
+              <p>These are great questions <a class="mention" href="/users/coloradobum">@coloradobum</a>,</p>
+
+<ol>
+<li><p>I intend to capture as much as I can. A lot of this data may not be important to anyone doing any data analysis, but would be something beekeepers want to keep track of (temperature on the day of the inspection for example). The goal is to build an awesome tool that beekeepers want to use, that way more people will use it regardless of whether or not they care about sharing their data). In regards to the actual fields, I'd like to collect everything from the time, date and conditions the inspection took place, to the condition of different parts of the hive (brood patterns, presence of queen cells, what sort of diseases are in your hive?). I think it will also be important to track why a hive has died. Was there an intense varroa mite infestation? Have the bees simply absconded? Were they all just dead one day?</p></li>
+<li><p>You bring up an interesting problem. The original implementation of Hivelife assumed it was being used for the typical backyard beekeeper with just a handful of hives. I think this redesigned version will still sort of operate under that assumption, however I think that problem is best solved with a mobile app + QR code. In the event that a user has a lot of hives, it becomes cumbersome to name a hive and have to sift through a giant list every time you want to do an inspection. If it was possible to put a QR code on a hive, scan it at the end of an inspection, and fill things out on your phone, that would be pretty cool. In the mean time however, I think another solution will need to work for the beekeepers with large yards. Thats definitely something I will need to think of when working on the redesign.</p></li>
+<li><p>In regards to big data analysis, I think some pretty neat things could come from this. While a lot of the data we are collection might only be useful to the beekeeper who owns the hive, I think having a database of hives, with locations, and records of disease is one possible use case for this sort of thing. It would allow researchers to look where these diseases are prominent and what sort of environments different diseases (or even causes of collapsed hives) are occurring. Maybe hive deaths or more common in suburbia and in the city than on agricultural land? I should mention that i have been working with the guys at <a href="http://fallingfruit.org/" rel="nofollow">FallingFruit</a> who have been collecting data about plants and pollinators around the world. This combination of data could also open up our eyes to some interesting patterns. I think the most important use case would be having a group of users that record their inspections in this app AND have outfitted their hive with sensors that record data inside the hive. This combination could yield a lot of interesting patterns and possibly teach us more about what conditions in a hive trigger specific behavior. Thats one reason I wanted to share this project with this community!</p></li>
+</ol>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/3">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/3</link>
+        <pubDate>Thu, 04 Dec 2014 13:40:16 -0500</pubDate>
+        <guid isPermaLink="false">post-132-3</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@coloradobum Jeff Thomas)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/coloradobum">Jeff Thomas</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/users/brianzable">@brianzable</a> This is an interesting idea- one I had not considered.</p>
+
+<p>some questions:</p>
+
+<p>1) what kind of data do you intend to capture?</p>
+
+<p>2) how would would this approach scale? For example, let's say I have 50 hives?</p>
+
+<p>3) how could this collected data be usable in big data analysis?</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/2</link>
+        <pubDate>Thu, 04 Dec 2014 11:26:50 -0500</pubDate>
+        <guid isPermaLink="false">post-132-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+      <item>
+        <title>Hivelife - software for manual hive observations</title>
+        <author>no-reply@example.com (@brianzable Brian Zable)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/brianzable">Brian Zable</a> wrote:</p>
+          <blockquote>
+              <p>Hello everyone!</p>
+
+<p>I'm here to post about a project I've been working on called Hivelife. The project is a web application that shares a similar philosophy to the OSBH project. The goal of Hivelife is to create a free tool for beekeepers to record their observations from beehive inspections. The data from these inspections is then anonymized according to user settings and made available for the public. I started working on this as an academic project and have since then taken it down to focus on redesigning it. In the future, I'd like to also develop mobile applications that make data collection in the field easier. Right now, the focus is to make a polished web application so that everyone with a web browser can add data. I'd also like to explore ways to integrate Hivelife with the OSBH sensors kits. I believe this would make it a very powerful tool in that it would be able to record data from both sensors and human observation.</p>
+
+<p>Right now you can visit the site at <a href="https://hivelife.co/" rel="nofollow">https://hivelife.co/</a> - its just a single page with a little bit of information at the moment, but in the coming weeks there will be a blog containing development updates. If anyone has any questions, thoughts, or comments, I'd love to hear them! I hope to have a working beta of the site ready by the beginning of the next beekeeping season in the US!</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132/1</link>
+        <pubDate>Wed, 03 Dec 2014 21:41:44 -0500</pubDate>
+        <guid isPermaLink="false">post-132-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/hivelife-software-for-manual-hive-observations/132.rss">Hivelife - software for manual hive observations</source>
+      </item>
+  </channel>
+</rss>

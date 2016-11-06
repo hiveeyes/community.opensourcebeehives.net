@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How do I contribute to the software app?</title>
+    <link>http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212</link>
+    <description>Hi everyone.
+
+Bees are ordered and I plan to cut a Colorado top bar soon. I&#39;ve offered to be a alpha tester for the sensor kit.
+
+I&#39;m a developer by trade- so I&#39;m interested in helping with the software app.
+
+How can I get started helping with the software app?
+
+thanks
+
+jeff</description>
+    
+    <lastBuildDate>Wed, 25 Mar 2015 01:54:48 -0400</lastBuildDate>
+    <category>Software App.</category>
+    <atom:link href="http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How do I contribute to the software app?</title>
+        <author>no-reply@example.com (@cynod Andrew E)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/cynod">Andrew E</a> wrote:</p>
+          <blockquote>
+              <p>Hi all </p>
+
+<p>I too am new here and am looking to help. I've read through the Smart Citizen 2.0 API roadmap (http://community.opensourcebeehives.net/t/to-do-list-software-development/52) and was wondering how far along that design was. I'm mainly familiar with C++ for apps and PHP or node.js for backend web work but have heard good things about Rails so am willing to jump in. I'm ok (not great) at SQL too and pretty happy to learn whatever's needed.</p>
+
+<p>As for the bees, I live in an apartment with no balcony but am checking about maybe setting up a club at work so we can get some there. I've been reading about bees (and their plight) for years so it's about time I got an actual hive. I live in the Bay Area in California so, strangely enough, work for an IT company. The idea of bees, sensors and crowd sourced data immediately caught my eye <img src="//community.opensourcebeehives.net/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+
+<p>Andrew</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212/2">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212/2</link>
+        <pubDate>Wed, 25 Mar 2015 01:54:48 -0400</pubDate>
+        <guid isPermaLink="false">post-212-2</guid>
+        <source url="http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212.rss">How do I contribute to the software app?</source>
+      </item>
+      <item>
+        <title>How do I contribute to the software app?</title>
+        <author>no-reply@example.com (@coloradobum Jeff Thomas)</author>
+        <description><![CDATA[
+          <p><a href="http://community.opensourcebeehives.net/users/coloradobum">Jeff Thomas</a> wrote:</p>
+          <blockquote>
+              <p>Hi everyone.</p>
+
+<p>Bees are ordered and I plan to cut a Colorado top bar soon. I've offered to be a alpha tester for the sensor kit.</p>
+
+<p>I'm a developer by trade- so I'm interested in helping with the software app.</p>
+
+<p>How can I get started helping with the software app?</p>
+
+<p>thanks</p>
+
+<p>jeff</p>
+          </blockquote>
+          <p><a href="http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212/1">Read full topic</a></p>
+        ]]></description>
+        <link>http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212/1</link>
+        <pubDate>Tue, 17 Mar 2015 11:46:55 -0400</pubDate>
+        <guid isPermaLink="false">post-212-1</guid>
+        <source url="http://community.opensourcebeehives.net/t/how-do-i-contribute-to-the-software-app/212.rss">How do I contribute to the software app?</source>
+      </item>
+  </channel>
+</rss>

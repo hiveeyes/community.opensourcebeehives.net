@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Replication cost</title>
+    <link>http://community.opensourcebeehives.net/t/replication-cost/160</link>
+    <description>I am interested in replicating the TopBar design. But I&#x27;m a total noob at applying myself to fabrication. 
+
+Here in Seattle there is a [maker space business][1] that charges $3/min for laser cutting. Is using a laser cutter rather than cnc router appropriate? Does anyone have an estimate of how much time it would take to cut the pieces?
+
+From a different route, if I was to get a [ShapeOko][2] cnc router could the beehive be cut with it, or is the ShapeOko cutting space too small?
+
+Thanks!
+
+
+  [1]: http://www.metrixcreatespace.com/rates/
+  [2]: http://www.shapeoko.com/</description>
+    <atom:link href="http://community.opensourcebeehives.net/t/replication-cost/160.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Replication cost at 2014-03-22 16:13:09 -0400</title>
+          <description><![CDATA[
+            <p>Marcus (marcus) wrote:</p>
+            <p>I am interested in replicating the TopBar design. But I'm a total noob at applying myself to fabrication. </p>
+
+<p>Here in Seattle there is a <a href="http://www.metrixcreatespace.com/rates/" rel="nofollow">maker space business</a> that charges $3/min for laser cutting. Is using a laser cutter rather than cnc router appropriate? Does anyone have an estimate of how much time it would take to cut the pieces?</p>
+
+<p>From a different route, if I was to get a <a href="http://www.shapeoko.com/" rel="nofollow">ShapeOko</a> cnc router could the beehive be cut with it, or is the ShapeOko cutting space too small?</p>
+
+<p>Thanks!</p>
+          ]]></description>
+          <link>http://community.opensourcebeehives.net/t/replication-cost/160/1</link>
+          <pubDate>Sat, 22 Mar 2014 16:13:09 -0400</pubDate>
+          <guid>http://community.opensourcebeehives.net/t/replication-cost/160/1</guid>
+          <source url="http://community.opensourcebeehives.net/t/replication-cost/160.rss">Replication cost</source>
+        </item>
+  </channel>
+</rss>
