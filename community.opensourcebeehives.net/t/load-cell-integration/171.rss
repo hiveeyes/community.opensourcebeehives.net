@@ -101,7 +101,7 @@ And here are some general ideas about the possibilities of how to install the lo
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/marcob8890">Mark Benson</a> wrote:</p>
           <blockquote>
-              <p>I've used instrument amplifiers to act as the bridge and an Arduino to interface them , very low cost.  I'll try to find the actual part numbers but I believe they are made by Dallas Semi.  Attached is an illustration of how they were hooked up(for illustration purposes only!).  I used this setup to measure force on the rigging of a sailboat.<div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/239/631cc2224f8ad3e4.jpg" class="lightbox" title="Load Cell_bb.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/899/04e/ca870efb48_624x500.jpg" width="624" height="500"><div class="meta">
+              <p>I've used instrument amplifiers to act as the bridge and an Arduino to interface them , very low cost.  I'll try to find the actual part numbers but I believe they are made by Dallas Semi.  Attached is an illustration of how they were hooked up(for illustration purposes only!).  I used this setup to measure force on the rigging of a sailboat.<div class="lightbox-wrapper"><a href="/uploads/default/239/631cc2224f8ad3e4.jpg" class="lightbox" title="Load Cell_bb.jpg"><img src="/uploads/default/_optimized/899/04e/ca870efb48_624x500.jpg" width="624" height="500"><div class="meta">
 <span class="filename">Load Cell_bb.jpg</span><span class="informations">2343x1875 1020 KB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
@@ -297,11 +297,11 @@ And here are some general ideas about the possibilities of how to install the lo
 
 <p>As exact working load cells are quite expensive the approach is to use only <strong>one sensor per Hive</strong> - taking the whole weight of it.</p>
 
-<p>This is the load cell  we're up to right now:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/218/2a254ae2790ba2e0.jpg" class="lightbox" title="p1040455.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/951/c6b/d555ed988e_690x466.jpg" width="690" height="466"><div class="meta">
+<p>This is the load cell  we're up to right now:<br><div class="lightbox-wrapper"><a href="/uploads/default/218/2a254ae2790ba2e0.jpg" class="lightbox" title="p1040455.jpg"><img src="/uploads/default/_optimized/951/c6b/d555ed988e_690x466.jpg" width="690" height="466"><div class="meta">
 <span class="filename">p1040455.jpg</span><span class="informations">1395x943 133 KB</span><span class="expand"></span>
 </div></a></div></p>
 
-<p>And here are some general ideas about the possibilities of how to install the load cell:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/217/1d611dde885a896e.png" class="lightbox" title="text3970.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/240/1fa/7f9842fd4d_690x318.png" width="690" height="318"><div class="meta">
+<p>And here are some general ideas about the possibilities of how to install the load cell:<br><div class="lightbox-wrapper"><a href="/uploads/default/217/1d611dde885a896e.png" class="lightbox" title="text3970.png"><img src="/uploads/default/_optimized/240/1fa/7f9842fd4d_690x318.png" width="690" height="318"><div class="meta">
 <span class="filename">text3970.png</span><span class="informations">929x429 61.4 KB</span><span class="expand"></span>
 </div></a></div> </p>
 

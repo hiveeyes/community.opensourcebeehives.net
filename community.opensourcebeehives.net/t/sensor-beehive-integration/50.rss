@@ -75,7 +75,7 @@ Please share any thoughts or ideas you might have below.</description>
           <blockquote>
               <p>Hi <a class="mention" href="/users/micdasilva">@micdasilva</a>,</p>
 
-<p>Please see this <a href="//community.opensourcebeehives.net/t/langstroth-beehive-development/155">new thread about developing a Langstroth</a>. </p>
+<p>Please see this <a href="/t/langstroth-beehive-development/155">new thread about developing a Langstroth</a>. </p>
 
 <p>We'd love you to get involved in designing this hive, but can't offer a great deal of personal support at the moment since we are a small and overworked team! I'd encourage you to do some sketches and use the thread to share your work. I can direct collaborators to this threat to help you in whatever way they can.</p>
 
@@ -115,7 +115,7 @@ Please share any thoughts or ideas you might have below.</description>
 
 <p>Once you guys have a solid idea of the sensor dimension, we could put a call out to the community to perhaps design a new sensor container based on the one we did for the CTB, but for Langstroth dimensions. Found some dimensions for standard frame sizes below and at <a href="http://www.beesource.com/resources/usda/types-of-hives-and-hive-equipment/">this link</a>.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/210/10c691279f3b88dd.gif" class="lightbox" title="BN_30052_a.gif"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/f5c/c20/0600167f91_312x500.gif" width="312" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/210/10c691279f3b88dd.gif" class="lightbox" title="BN_30052_a.gif"><img src="/uploads/default/_optimized/f5c/c20/0600167f91_312x500.gif" width="312" height="500"><div class="meta">
 <span class="filename">BN_30052_a.gif</span><span class="informations">576x922 85.9 KB</span><span class="expand"></span>
 </div></a></div> </p>
           </blockquote>
@@ -134,9 +134,9 @@ Please share any thoughts or ideas you might have below.</description>
           <blockquote>
               <p>Hey!<br>Here we go: The PCB Design for the Alpha Sensor Kit.<br>You can plug the sensor devices and the board itself is pretty small and robust. It's also ready for I2C communication with the infrared beeCounter. You can find the files to make the board on github: <a href="https://github.com/jacobron/OSBH">https://github.com/jacobron/OSBH</a></p>
 
-<p>and here are some pics:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/201/5000db27d675aef7.jpg" class="lightbox" title="IMG_20150116_095508.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/10e/3c1/f6880012d9_603x499.jpg" width="603" height="499"><div class="meta">
+<p>and here are some pics:<br><div class="lightbox-wrapper"><a href="/uploads/default/201/5000db27d675aef7.jpg" class="lightbox" title="IMG_20150116_095508.jpg"><img src="/uploads/default/_optimized/10e/3c1/f6880012d9_603x499.jpg" width="603" height="499"><div class="meta">
 <span class="filename">IMG_20150116_095508.jpg</span><span class="informations">1200x994 281 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/202/bd53e5eb3fd0f342.jpg" class="lightbox" title="IMG_20150116_095518.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/04e/b8d/fc63849671_345x500.jpg" width="345" height="500"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a href="/uploads/default/202/bd53e5eb3fd0f342.jpg" class="lightbox" title="IMG_20150116_095518.jpg"><img src="/uploads/default/_optimized/04e/b8d/fc63849671_345x500.jpg" width="345" height="500"><div class="meta">
 <span class="filename">IMG_20150116_095518.jpg</span><span class="informations">912x1321 294 KB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
@@ -165,7 +165,7 @@ Please share any thoughts or ideas you might have below.</description>
 
 <p>You cans see more pictures of <a href="https://www.facebook.com/opensourcebeehives/posts/835078469898792">the sensor case here</a>.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/178/3cc865b6a7f1fc39.jpg" class="lightbox" title="_DSC4552.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/ade/8e9/8a1fb2451c_690x460.jpg" width="690" height="460"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/178/3cc865b6a7f1fc39.jpg" class="lightbox" title="_DSC4552.jpg"><img src="/uploads/default/_optimized/ade/8e9/8a1fb2451c_690x460.jpg" width="690" height="460"><div class="meta">
 <span class="filename">_DSC4552.jpg</span><span class="informations">1280x854 78.7 KB</span><span class="expand"></span>
 </div></a></div> </p>
           </blockquote>
@@ -182,7 +182,7 @@ Please share any thoughts or ideas you might have below.</description>
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
           <blockquote>
-              <p>Hey Seneca,<br>a lot of people are using a net around the sensor to prevent it being coated with propolis.<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/168/cf75220dcd5354a5.jpg" class="lightbox" title="smartFrame.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/f6c/f55/72aadab9df_611x500.jpg" width="611" height="500"><div class="meta">
+              <p>Hey Seneca,<br>a lot of people are using a net around the sensor to prevent it being coated with propolis.<br><div class="lightbox-wrapper"><a href="/uploads/default/168/cf75220dcd5354a5.jpg" class="lightbox" title="smartFrame.jpg"><img src="/uploads/default/_optimized/f6c/f55/72aadab9df_611x500.jpg" width="611" height="500"><div class="meta">
 <span class="filename">smartFrame.jpg</span><span class="informations">1440x1178 727 KB</span><span class="expand"></span>
 </div></a></div></p>
 
@@ -220,9 +220,9 @@ Please share any thoughts or ideas you might have below.</description>
           <blockquote>
               <p>Image of the first test of the adapted Warré hive to fit in the sensors at the basement of the hive. You can access the sensor-kit by pulling out the board in the middle. The design also fixes the problem of bees building the combs to deep (till the entrance-level of the hive), using the slatted Rack idea mentioned above (thanks for that!).</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/164/c800686ebd5a02c9.jpg" class="lightbox" title="IMG_20141031_145723.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/cae/90e/83e003b5e7_632x500.jpg" width="632" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/164/c800686ebd5a02c9.jpg" class="lightbox" title="IMG_20141031_145723.jpg"><img src="/uploads/default/_optimized/cae/90e/83e003b5e7_632x500.jpg" width="632" height="500"><div class="meta">
 <span class="filename">IMG_20141031_145723.jpg</span><span class="informations">1090x862 256 KB</span><span class="expand"></span>
-</div></a></div> <br>first cnc-cut version<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/166/b11c884ef40610c6.png" class="lightbox" title="new_base.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/56b/978/f63b4b6679_634x500.png" width="634" height="500"><div class="meta">
+</div></a></div> <br>first cnc-cut version<br><div class="lightbox-wrapper"><a href="/uploads/default/166/b11c884ef40610c6.png" class="lightbox" title="new_base.png"><img src="/uploads/default/_optimized/56b/978/f63b4b6679_634x500.png" width="634" height="500"><div class="meta">
 <span class="filename">new_base.png</span><span class="informations">794x626 185 KB</span><span class="expand"></span>
 </div></a></div><br>3D-sample of the position of the sensor-kit inside the basement (red).</p>
 
@@ -264,11 +264,11 @@ Please share any thoughts or ideas you might have below.</description>
 <li>Displays the Open Source Hardware Logo and/or OSBH logo in a prominent location as an engraving</li>
 </ol>
 
-<p><em>Sensor Kit Mounting</em><br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/161/3b9ab06c187ff3b3.png" class="lightbox" title="unnamed.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/0b3/94d/6a73a8635b_690x350.png" width="690" height="350"><div class="meta">
+<p><em>Sensor Kit Mounting</em><br><div class="lightbox-wrapper"><a href="/uploads/default/161/3b9ab06c187ff3b3.png" class="lightbox" title="unnamed.png"><img src="/uploads/default/_optimized/0b3/94d/6a73a8635b_690x350.png" width="690" height="350"><div class="meta">
 <span class="filename">unnamed.png</span><span class="informations">1009x513 346 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
-<p><em>Alpha Kit - v1.0 Schematic</em><br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/160/8c4a037ad63891ea.png" class="lightbox" title="OSBH_Wiring.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/30f/a28/63c9acb113_690x479.png" width="690" height="479"><div class="meta">
+<p><em>Alpha Kit - v1.0 Schematic</em><br><div class="lightbox-wrapper"><a href="/uploads/default/160/8c4a037ad63891ea.png" class="lightbox" title="OSBH_Wiring.png"><img src="/uploads/default/_optimized/30f/a28/63c9acb113_690x479.png" width="690" height="479"><div class="meta">
 <span class="filename">OSBH_Wiring.png</span><span class="informations">1303x905 274 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -289,7 +289,7 @@ Please share any thoughts or ideas you might have below.</description>
           <blockquote>
               <p><strong>Barcelona Warre v2.4 Entrance Dimensions</strong></p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/154/e30f7ed05cf25cfd.jpg" class="lightbox" title="BCN Warre v2.4 - Entrance Dimensions.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/a6c/36e/4f0e359c4c_690x371.jpg" width="690" height="371"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/154/e30f7ed05cf25cfd.jpg" class="lightbox" title="BCN Warre v2.4 - Entrance Dimensions.jpg"><img src="/uploads/default/_optimized/a6c/36e/4f0e359c4c_690x371.jpg" width="690" height="371"><div class="meta">
 <span class="filename">BCN Warre v2.4 - Entrance Dimensions.jpg</span><span class="informations">934x503 218 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -312,7 +312,7 @@ Please share any thoughts or ideas you might have below.</description>
           <blockquote>
               <p><strong>CTB Entrance Dimensions</strong></p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/153/b31fb91b1092f851.jpg" class="lightbox" title="CTB v6.1 - Entrance Dimensions.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/684/fcb/e5f2286f29_690x371.jpg" width="690" height="371"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/153/b31fb91b1092f851.jpg" class="lightbox" title="CTB v6.1 - Entrance Dimensions.jpg"><img src="/uploads/default/_optimized/684/fcb/e5f2286f29_690x371.jpg" width="690" height="371"><div class="meta">
 <span class="filename">CTB v6.1 - Entrance Dimensions.jpg</span><span class="informations">934x503 78.3 KB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
@@ -329,7 +329,7 @@ Please share any thoughts or ideas you might have below.</description>
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
           <blockquote>
-              <p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/148/4a0bf5f2139dfd2a.jpg" class="lightbox" title="unnamed.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/d63/f51/db02f8b9be_666x500.jpg" width="666" height="500"><div class="meta">
+              <p><div class="lightbox-wrapper"><a href="/uploads/default/148/4a0bf5f2139dfd2a.jpg" class="lightbox" title="unnamed.jpg"><img src="/uploads/default/_optimized/d63/f51/db02f8b9be_666x500.jpg" width="666" height="500"><div class="meta">
 <span class="filename">unnamed.jpg</span><span class="informations">1075x806 111 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -354,7 +354,7 @@ Please share any thoughts or ideas you might have below.</description>
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
           <blockquote>
-              <p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/147/d3882b3a5e64902f.png" class="lightbox" title="Screen Shot 2014-10-14 at 13.15.26.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/312/356/c6de49c1f1_465x500.png" width="465" height="500"><div class="meta">
+              <p><div class="lightbox-wrapper"><a href="/uploads/default/147/d3882b3a5e64902f.png" class="lightbox" title="Screen Shot 2014-10-14 at 13.15.26.png"><img src="/uploads/default/_optimized/312/356/c6de49c1f1_465x500.png" width="465" height="500"><div class="meta">
 <span class="filename">Screen Shot 2014-10-14 at 13.15.26.png</span><span class="informations">466x501 374 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -392,7 +392,7 @@ Please share any thoughts or ideas you might have below.</description>
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/aaronm">Aaron Makaruk</a> wrote:</p>
           <blockquote>
-              <p><em>Re: Preventing RFI</em><br>(<a href="//community.opensourcebeehives.net/t/wifi-data-bee-disturbance-limiting/94">see this thread elsewhere in the forum</a>)</p>
+              <p><em>Re: Preventing RFI</em><br>(<a href="/t/wifi-data-bee-disturbance-limiting/94">see this thread elsewhere in the forum</a>)</p>
 
 <p>If this box is inserted at the entrance of the hive, the case's back side, which faces the brood, could be shielded, and the front face would be directed towards the wifi router. So, the front of the hive would need to face the wifi router.</p>
 
@@ -409,7 +409,7 @@ Please share any thoughts or ideas you might have below.</description>
 
 <p>If you shield the box completely, you defeat the purpose of putting the case inside the brood with a drop in design, because you can't broadcast your wifi. We should look at antennaes that can be mounted outside the hive - this came up with my discussion with Caleb today.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/116/982b605f93e123ef.png" class="lightbox" title="whatever.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/ab4/c48/9f72e829cb_689x350.png" width="689" height="350"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/116/982b605f93e123ef.png" class="lightbox" title="whatever.png"><img src="/uploads/default/_optimized/ab4/c48/9f72e829cb_689x350.png" width="689" height="350"><div class="meta">
 <span class="filename">whatever.png</span><span class="informations">1308x665 28.3 KB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
@@ -503,7 +503,7 @@ Please share any thoughts or ideas you might have below.</description>
           <blockquote>
               <p><strong>CTB - v6.1 - Top Bar Dimensions</strong></p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/105/0f3f105592afa8a6.png" class="lightbox" title="CTB - Top Bar Dims.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/bce/694/2263a49151_690x371.png" width="690" height="371"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/105/0f3f105592afa8a6.png" class="lightbox" title="CTB - Top Bar Dims.png"><img src="/uploads/default/_optimized/bce/694/2263a49151_690x371.png" width="690" height="371"><div class="meta">
 <span class="filename">CTB - Top Bar Dims.png</span><span class="informations">934x503 24.6 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -524,7 +524,7 @@ Please share any thoughts or ideas you might have below.</description>
           <blockquote>
               <p><strong>Colorado Top Bar - v6.1 - Interior Dimensions</strong></p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/104/47a8400b53d08c09.png" class="lightbox" title="CTB - Interior Hive Dims.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/ea0/8bd/59140dfbf2_690x371.png" width="690" height="371"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/104/47a8400b53d08c09.png" class="lightbox" title="CTB - Interior Hive Dims.png"><img src="/uploads/default/_optimized/ea0/8bd/59140dfbf2_690x371.png" width="690" height="371"><div class="meta">
 <span class="filename">CTB - Interior Hive Dims.png</span><span class="informations">934x503 47.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 

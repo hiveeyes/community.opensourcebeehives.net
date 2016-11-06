@@ -23,7 +23,7 @@ Aaron</description>
 
 <p><a href="https://github.com/abszolut/valamikigyo/tree/Python/13OSBHmqtt" class="onebox" target="_blank" rel="nofollow">https://github.com/abszolut/valamikigyo/tree/Python/13OSBHmqtt</a></p>
 
-<p>With microphone.<div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/314/4cd80058b2c31dfd.JPG" class="lightbox" title="DSC02985.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/f33/5de/093dbe023b_666x500.JPG" width="666" height="500"><div class="meta">
+<p>With microphone.<div class="lightbox-wrapper"><a href="/uploads/default/314/4cd80058b2c31dfd.JPG" class="lightbox" title="DSC02985.JPG"><img src="/uploads/default/_optimized/f33/5de/093dbe023b_666x500.JPG" width="666" height="500"><div class="meta">
 <span class="filename">DSC02985.JPG</span><span class="informations">2000x1500 1.83 MB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
@@ -40,7 +40,7 @@ Aaron</description>
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
           <blockquote>
-              <p><img src="//community.opensourcebeehives.net/uploads/default/313/aa7ad3c1ef33760d.gif" width="365" height="200"></p>
+              <p><img src="/uploads/default/313/aa7ad3c1ef33760d.gif" width="365" height="200"></p>
           </blockquote>
           <p><a href="http://community.opensourcebeehives.net/t/official-thread-alpha-board-development/230/28">Read full topic</a></p>
         ]]></description>
@@ -57,11 +57,11 @@ Aaron</description>
           <blockquote>
               <p>OSBH Sensor KIT with Scale in test mode.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/310/decfccb05be0befe.JPG" class="lightbox" title="DSC02977.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/7b9/80a/aca66e34de_666x500.JPG" width="666" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/310/decfccb05be0befe.JPG" class="lightbox" title="DSC02977.JPG"><img src="/uploads/default/_optimized/7b9/80a/aca66e34de_666x500.JPG" width="666" height="500"><div class="meta">
 <span class="filename">DSC02977.JPG</span><span class="informations">2000x1500 1.95 MB</span><span class="expand"></span>
 </div></a></div> </p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/312/c400a1680e6bb76e.JPG" class="lightbox" title="DSC02980.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/b53/1c2/3d171c70a1_375x500.JPG" width="375" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/312/c400a1680e6bb76e.JPG" class="lightbox" title="DSC02980.JPG"><img src="/uploads/default/_optimized/b53/1c2/3d171c70a1_375x500.JPG" width="375" height="500"><div class="meta">
 <span class="filename">DSC02980.JPG</span><span class="informations">1500x2000 2.06 MB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
@@ -265,7 +265,7 @@ Aaron</description>
 
 <p>Probably you already have the most up-to-date firmware from<br><a href="https://github.com/opensourcebeehives/OSBH" class="onebox" target="_blank">https://github.com/opensourcebeehives/OSBH</a></p>
 
-<p>There's still a lot to do <img src="//community.opensourcebeehives.net/plugins/emoji/images/wink.png" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+<p>There's still a lot to do <img src="/plugins/emoji/images/wink.png" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
 
 <p>I was working on a proper mqtt client-server connection in the past and an encoding for the audio data.<br>the firmware uses io.adafruit.com right now to publish data - but that server has its limitations.. so We'll use a own mqtt server for testing in the future.</p>
 
@@ -301,13 +301,13 @@ Aaron</description>
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/absz0lut">Csaba Agod</a> wrote:</p>
           <blockquote>
-              <p>This is my device:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/307/243c18c01a2cd907.JPG" class="lightbox" title="DSC02963.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/c7b/7cd/dda3a1b54f_576x500.JPG" width="576" height="500"><div class="meta">
+              <p>This is my device:<br><div class="lightbox-wrapper"><a href="/uploads/default/307/243c18c01a2cd907.JPG" class="lightbox" title="DSC02963.JPG"><img src="/uploads/default/_optimized/c7b/7cd/dda3a1b54f_576x500.JPG" width="576" height="500"><div class="meta">
 <span class="filename">DSC02963.JPG</span><span class="informations">1360x1179 896 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/308/fc5c553c52f4ec13.JPG" class="lightbox" title="DSC02965.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/c32/d48/c9af6491db_594x500.JPG" width="594" height="500"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a href="/uploads/default/308/fc5c553c52f4ec13.JPG" class="lightbox" title="DSC02965.JPG"><img src="/uploads/default/_optimized/c32/d48/c9af6491db_594x500.JPG" width="594" height="500"><div class="meta">
 <span class="filename">DSC02965.JPG</span><span class="informations">1575x1324 1.17 MB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/309/28ecba3256e1b614.JPG" class="lightbox" title="DSC02971.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/b58/048/f518dda122_393x499.JPG" width="393" height="499"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a href="/uploads/default/309/28ecba3256e1b614.JPG" class="lightbox" title="DSC02971.JPG"><img src="/uploads/default/_optimized/b58/048/f518dda122_393x499.JPG" width="393" height="499"><div class="meta">
 <span class="filename">DSC02971.JPG</span><span class="informations">1545x1962 1.54 MB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/306/c62fdf9830f0ee6c.JPG" class="lightbox" title="DSC02958.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/745/9ac/7fdc326284_666x500.JPG" width="666" height="500"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a href="/uploads/default/306/c62fdf9830f0ee6c.JPG" class="lightbox" title="DSC02958.JPG"><img src="/uploads/default/_optimized/745/9ac/7fdc326284_666x500.JPG" width="666" height="500"><div class="meta">
 <span class="filename">DSC02958.JPG</span><span class="informations">2666x1999 1.99 MB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
@@ -377,7 +377,7 @@ Aaron</description>
 
 <p>Cheers!</p>
 
-<p> <div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/290/719e7453bbec2f49.jpg" class="lightbox" title="unnamed-2.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/d0a/769/52798eef68_429x500.jpg" width="429" height="500"><div class="meta">
+<p> <div class="lightbox-wrapper"><a href="/uploads/default/290/719e7453bbec2f49.jpg" class="lightbox" title="unnamed-2.jpg"><img src="/uploads/default/_optimized/d0a/769/52798eef68_429x500.jpg" width="429" height="500"><div class="meta">
 <span class="filename">unnamed-2.jpg</span><span class="informations">1178x1370 101 KB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
@@ -426,7 +426,7 @@ Aaron</description>
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
           <blockquote>
-              <p>Hey <a class="mention" href="/users/mattias">@mattias</a>--if you go back to the public Repo on GitHub it should all still be in there <img src="//community.opensourcebeehives.net/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+              <p>Hey <a class="mention" href="/users/mattias">@mattias</a>--if you go back to the public Repo on GitHub it should all still be in there <img src="/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
           <p><a href="http://community.opensourcebeehives.net/t/official-thread-alpha-board-development/230/6">Read full topic</a></p>
         ]]></description>

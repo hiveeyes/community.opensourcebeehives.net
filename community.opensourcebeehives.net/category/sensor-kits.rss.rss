@@ -76,7 +76,7 @@
           <description><![CDATA[
             <p><a href="http://community.opensourcebeehives.net/users/mark">Mark</a> wrote:</p>
             <blockquote>
-              <p>see <a href="http://www.euse.de/honig/beescale/graph.php" rel="nofollow">http://www.euse.de/honig/beescale/graph.php</a><br>my monitoring prototype uses the weight cell you are proposing <a href="//community.opensourcebeehives.net/t/load-cell-integration/171">here</a>.<br>the [hive design][2] is from a urban bee keeping community project called "bienenkiste.de". they re-invented and upgraded the [Krainer Bauernstock][3], a design from an 18th century beekeeping book describing beekeeping techniques in the Balkans. my [data][4] is also downloadable. but sorry, my [how-to][5] and [todo-list][6] are only in German language. i would like to answer translation questions or assist a translation.</p>
+              <p>see <a href="http://www.euse.de/honig/beescale/graph.php" rel="nofollow">http://www.euse.de/honig/beescale/graph.php</a><br>my monitoring prototype uses the weight cell you are proposing <a href="/t/load-cell-integration/171">here</a>.<br>the [hive design][2] is from a urban bee keeping community project called "bienenkiste.de". they re-invented and upgraded the [Krainer Bauernstock][3], a design from an 18th century beekeeping book describing beekeeping techniques in the Balkans. my [data][4] is also downloadable. but sorry, my [how-to][5] and [todo-list][6] are only in German language. i would like to answer translation questions or assist a translation.</p>
 
 <p>my next step will be a temperature sensor matrix inside the hive (7x5x3 sensors in the 60x40x20cm hive breeding space). it will produce plots like [here][7] (i tried to connect to those developers but they didnt answer). i will probably use [heatmap.js][8] to visualize data. my plan is to improve visualization techniques to be able to show an animated semi-transparent 3d-heat plot of the hive - instead of only (animated) 2d-cuts through the hive. hardware-work, electronic circuits and data-transfer and -storage will not be my problem. i need help (or more self-education) when it comes to improving visualization algorithms and coding.</p>
 
@@ -98,7 +98,7 @@
           <description><![CDATA[
             <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
             <blockquote>
-              <p>Here's an image showing the actual concept of the alpha kit using the spark core<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/226/0d5029a29287828a.png" class="lightbox" title="concept.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/607/26f/c99f4ddac4_571x499.png" width="571" height="499"><div class="meta">
+              <p>Here's an image showing the actual concept of the alpha kit using the spark core<br><div class="lightbox-wrapper"><a href="/uploads/default/226/0d5029a29287828a.png" class="lightbox" title="concept.png"><img src="/uploads/default/_optimized/607/26f/c99f4ddac4_571x499.png" width="571" height="499"><div class="meta">
 <span class="filename">concept.png</span><span class="informations">1415x1238 175 KB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
@@ -122,11 +122,11 @@
 
 <p>As exact working load cells are quite expensive the approach is to use only <strong>one sensor per Hive</strong> - taking the whole weight of it.</p>
 
-<p>This is the load cell  we're up to right now:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/218/2a254ae2790ba2e0.jpg" class="lightbox" title="p1040455.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/951/c6b/d555ed988e_690x466.jpg" width="690" height="466"><div class="meta">
+<p>This is the load cell  we're up to right now:<br><div class="lightbox-wrapper"><a href="/uploads/default/218/2a254ae2790ba2e0.jpg" class="lightbox" title="p1040455.jpg"><img src="/uploads/default/_optimized/951/c6b/d555ed988e_690x466.jpg" width="690" height="466"><div class="meta">
 <span class="filename">p1040455.jpg</span><span class="informations">1395x943 133 KB</span><span class="expand"></span>
 </div></a></div></p>
 
-<p>And here are some general ideas about the possibilities of how to install the load cell:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/217/1d611dde885a896e.png" class="lightbox" title="text3970.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/240/1fa/7f9842fd4d_690x318.png" width="690" height="318"><div class="meta">
+<p>And here are some general ideas about the possibilities of how to install the load cell:<br><div class="lightbox-wrapper"><a href="/uploads/default/217/1d611dde885a896e.png" class="lightbox" title="text3970.png"><img src="/uploads/default/_optimized/240/1fa/7f9842fd4d_690x318.png" width="690" height="318"><div class="meta">
 <span class="filename">text3970.png</span><span class="informations">929x429 61.4 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -148,7 +148,7 @@
           <description><![CDATA[
             <p><a href="http://community.opensourcebeehives.net/users/trizcs">Tristan Copley Smith</a> wrote:</p>
             <blockquote>
-              <p>This topic is continued from a <a href="//community.opensourcebeehives.net/t/project-goals-please-explain/164/5?u=trizcs">previous conversation in the forum</a>.</p>
+              <p>This topic is continued from a <a href="/t/project-goals-please-explain/164/5?u=trizcs">previous conversation in the forum</a>.</p>
 
 <p>The manual <a href="https://hivelife.co/">HiveLife data entry app</a> and the OSBH sensor kit may benefit from exchanging data, possibly to inform an OSBH data algorithm. The intended result of this would be to teach the OSBH algorithm how to detect more subtle variations in the hive via manual data entry by HiveLife app users.</p>
             </blockquote>
@@ -190,7 +190,7 @@
 
 <p>I'd welcome any feedback, on this forum, not under the blog comments. As an inducement to visit the blog here's the curve that says it all really about these devices. </p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/177/4ede456ec998b5b2.png" class="lightbox" title="Pasted image"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/4b2/eda/243c31ada7_690x464.png" width="690" height="464"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/177/4ede456ec998b5b2.png" class="lightbox" title="Pasted image"><img src="/uploads/default/_optimized/4b2/eda/243c31ada7_690x464.png" width="690" height="464"><div class="meta">
 <span class="filename">Pasted image</span><span class="informations">765x515 55.8 KB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
@@ -301,7 +301,7 @@
 <p>We also analyze the “eating” sample in the temporal domain, determining its main duration in terms of audio samples. We need to determine the beginning and ending positions of “eating” sound inside captured audio window using three parameters: audio signal level, signal variance, and SNR level, as shown in Figure 7(a). With the SNR level we determine the noise domain present in the captured audio, which is the actual noise level plus a 6 dB margin. The beginning of a new sound will be determined by α consecutive samples which value is above noise domain; meanwhile, the ending of the new sound will be determined just before β consecutive samples, which value falls inside noise domain. Both parameters are empirically established to properly identify potential RPW sounds. It can be seen in Figure 7(a) that the RPW “eating” temporal extension is of 492 samples (around 11 milliseconds).</p>
 </blockquote>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/145/8ccfdc3fe790c4d2.png" class="lightbox" title="yup.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/752/a4e/84afb62247_690x328.png" width="690" height="328"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/145/8ccfdc3fe790c4d2.png" class="lightbox" title="yup.png"><img src="/uploads/default/_optimized/752/a4e/84afb62247_690x328.png" width="690" height="328"><div class="meta">
 <span class="filename">yup.png</span><span class="informations">1307x622 195 KB</span><span class="expand"></span>
 </div></a></div> </p>
             </blockquote>
@@ -367,7 +367,7 @@
 
 <p>This thread is the main discussion point for alpha kit development. It's a good one to 'watch' for updates, and feel free to join in at any time.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/117/9e324370ca068a26.png" class="lightbox" title="watch.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/422/547/773646595b_690x184.png" width="690" height="184"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/117/9e324370ca068a26.png" class="lightbox" title="watch.png"><img src="/uploads/default/_optimized/422/547/773646595b_690x184.png" width="690" height="184"><div class="meta">
 <span class="filename">watch.png</span><span class="informations">1151x308 40 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -429,7 +429,7 @@
             <blockquote>
               <p><strong>Standard Breadboard</strong><br>$4.95 at <a href="https://www.sparkfun.com/products/12002">SparkFun</a></p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/106/230769d6311781f7.png" class="lightbox" title="Pasted image"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/528/b73/28ad7546a9_500x500.png" width="500" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/106/230769d6311781f7.png" class="lightbox" title="Pasted image"><img src="/uploads/default/_optimized/528/b73/28ad7546a9_500x500.png" width="500" height="500"><div class="meta">
 <span class="filename">Pasted image</span><span class="informations">600x600 327 KB</span><span class="expand"></span>
 </div></a></div> </p>
             </blockquote>
@@ -499,7 +499,7 @@
             <blockquote>
               <p>Our initial tests were with the <a href="http://www.browndoggadgets.com/blogs/resources/14851505-lithium-heavy-duty-solar-usb-charger-2-0">Lithium Heavy Duty Solar USB Charger 2.0</a> from Brown Dog Gadgets.</p>
 
-<p><img src="//community.opensourcebeehives.net/uploads/default/96/4786905ec912d830.png" width="480" height="360"></p>
+<p><img src="/uploads/default/96/4786905ec912d830.png" width="480" height="360"></p>
 
 <p>Here are our initial results from field tester Matthew McDonald:</p>
 
@@ -536,7 +536,7 @@
 
 <p>Please introduce yourself, your location and your skills below. If you see anyone below who is local to you, please reach out to them by typing @(username) in your post and they will be notified.</p>
 
-<p> <img src="//community.opensourcebeehives.net/uploads/default/85/aa8de8179211a1a6.gif" width="642" height="320"></p>
+<p> <img src="/uploads/default/85/aa8de8179211a1a6.gif" width="642" height="320"></p>
             </blockquote>
             <p>Posts: 13</p>
             <p>Participants: 7</p>

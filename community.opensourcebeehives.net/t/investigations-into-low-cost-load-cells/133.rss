@@ -94,13 +94,13 @@ I&#39;d welcome any feedback, on this forum, not under the blog comments. As an 
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/ron">Ron Jacob</a> wrote:</p>
           <blockquote>
-              <p>Hey,<br>there seems to be some <a href="http://wbk.in-berlin.de/wp/blog/2014/04/durchbruch-bienenwaage/">good research (german language) </a> out there already on well performing load cells with arduino integration.<br>They are suggesting an Aluminium block design with loads up to 100-500kg. The accuracy with one of the tests has been +-15grams. Pretty accurate!<br>Costs are quite a bit more: about 35€/unit.<br>Here's the link to the product:<br><a href="http://www.bosche.eu/produkte/waegezellen/plattform-waegezellen-h40a" class="onebox" target="_blank">http://www.bosche.eu/produkte/waegezellen/plattform-waegezellen-h40a</a><br>and here's the way you use it to measure weight:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/218/2a254ae2790ba2e0.jpg" class="lightbox" title="p1040455.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/951/c6b/d555ed988e_690x466.jpg" width="690" height="466"><div class="meta">
+              <p>Hey,<br>there seems to be some <a href="http://wbk.in-berlin.de/wp/blog/2014/04/durchbruch-bienenwaage/">good research (german language) </a> out there already on well performing load cells with arduino integration.<br>They are suggesting an Aluminium block design with loads up to 100-500kg. The accuracy with one of the tests has been +-15grams. Pretty accurate!<br>Costs are quite a bit more: about 35€/unit.<br>Here's the link to the product:<br><a href="http://www.bosche.eu/produkte/waegezellen/plattform-waegezellen-h40a" class="onebox" target="_blank">http://www.bosche.eu/produkte/waegezellen/plattform-waegezellen-h40a</a><br>and here's the way you use it to measure weight:<br><div class="lightbox-wrapper"><a href="/uploads/default/218/2a254ae2790ba2e0.jpg" class="lightbox" title="p1040455.jpg"><img src="/uploads/default/_optimized/951/c6b/d555ed988e_690x466.jpg" width="690" height="466"><div class="meta">
 <span class="filename">p1040455.jpg</span><span class="informations">1395x943 133 KB</span><span class="expand"></span>
 </div></a></div></p>
 
 <p>I would like to go into some tests with these sensors so we can collaborate with <a href="https://hiveeyes.org/">hiveeyes.org</a>.</p>
 
-<p>I opened a <a href="//community.opensourcebeehives.net/t/load-cell-integration/171">new Thread</a> concerning the issue how we actually are able to install a load cell into the hive designs.</p>
+<p>I opened a <a href="/t/load-cell-integration/171">new Thread</a> concerning the issue how we actually are able to install a load cell into the hive designs.</p>
           </blockquote>
           <p><a href="http://community.opensourcebeehives.net/t/investigations-into-low-cost-load-cells/133/11">Read full topic</a></p>
         ]]></description>
@@ -136,7 +136,7 @@ I&#39;d welcome any feedback, on this forum, not under the blog comments. As an 
         <description><![CDATA[
           <p><a href="http://community.opensourcebeehives.net/users/geo3geo">Geo Meadows</a> wrote:</p>
           <blockquote>
-              <p>A further test run on the load cells, now with temp compensation n software, is far more encouraging. The curve below is over 5 days and shows quite a stable situation. Ingore the first reading, I added that one to force the scaling, making it similar to previous plots.<br><img src="//community.opensourcebeehives.net/uploads/default/189/d1c869c2711b83dc.png" width="555" height="266"> <br>I'm beginning to wonder if there was some other factor that crept in to the previous test run. Anyway I'm more than happy with the cells for now and am moving on to do on-line tests inputting data into Plotly. I've had to make a lot of changes and compromises to get my code into the small amount of flash memory after the Adafruit and Plotly libs are included, but I have something that's looking promising at last. Plot is of two temps and weight (in red) - test environment for now, not a real hive yet but getting very close.<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/188/a1e76898f5399308.png" class="lightbox" title="Pasted image"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/aef/d06/f8765934e6_690x326.png" width="690" height="326"><div class="meta">
+              <p>A further test run on the load cells, now with temp compensation n software, is far more encouraging. The curve below is over 5 days and shows quite a stable situation. Ingore the first reading, I added that one to force the scaling, making it similar to previous plots.<br><img src="/uploads/default/189/d1c869c2711b83dc.png" width="555" height="266"> <br>I'm beginning to wonder if there was some other factor that crept in to the previous test run. Anyway I'm more than happy with the cells for now and am moving on to do on-line tests inputting data into Plotly. I've had to make a lot of changes and compromises to get my code into the small amount of flash memory after the Adafruit and Plotly libs are included, but I have something that's looking promising at last. Plot is of two temps and weight (in red) - test environment for now, not a real hive yet but getting very close.<br><div class="lightbox-wrapper"><a href="/uploads/default/188/a1e76898f5399308.png" class="lightbox" title="Pasted image"><img src="/uploads/default/_optimized/aef/d06/f8765934e6_690x326.png" width="690" height="326"><div class="meta">
 <span class="filename">Pasted image</span><span class="informations">1112x526 37.9 KB</span><span class="expand"></span>
 </div></a></div> <br>Oh yes, and I've added a hardware watchdog to get over issues with the Adafruit/Plotly library functions hanging up every few hours. But good progress! If anyone has a cut down version of the adafruit_cc3000 library files I'd be very interested!</p>
           </blockquote>
@@ -189,7 +189,7 @@ I&#39;d welcome any feedback, on this forum, not under the blog comments. As an 
           <blockquote>
               <p>This is a follow-on posting. I've produced the Processing software to check out the two averaging algorithms and  the program is up there on the web at <a href="http://www.openprocessing.org/sketch/175334" rel="nofollow">http://www.openprocessing.org/sketch/175334</a><br>It should be interactive, I got a bit carried away with it, allowing different sample size and noise levels using the f/F and n/N keys but on the Openprocessing site this doesn't work, something to do with it being a Javascript version, to get the fully interactive version simply copy and paste the code into your Processing IDE. It's worth doing as it's revealing to see the effects of changing sample size for different noise levels.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/182/16323e9db5e0c4e3.png" class="lightbox" title="Pasted image"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/889/01f/73e449b2ad_690x276.png" width="690" height="276"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/182/16323e9db5e0c4e3.png" class="lightbox" title="Pasted image"><img src="/uploads/default/_optimized/889/01f/73e449b2ad_690x276.png" width="690" height="276"><div class="meta">
 <span class="filename">Pasted image</span><span class="informations">1000x400 106 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -350,7 +350,7 @@ void loop {
 
 <p>I'd welcome any feedback, on this forum, not under the blog comments. As an inducement to visit the blog here's the curve that says it all really about these devices. </p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/177/4ede456ec998b5b2.png" class="lightbox" title="Pasted image"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/4b2/eda/243c31ada7_690x464.png" width="690" height="464"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/177/4ede456ec998b5b2.png" class="lightbox" title="Pasted image"><img src="/uploads/default/_optimized/4b2/eda/243c31ada7_690x464.png" width="690" height="464"><div class="meta">
 <span class="filename">Pasted image</span><span class="informations">765x515 55.8 KB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>

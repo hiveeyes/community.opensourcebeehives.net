@@ -71,11 +71,11 @@ Before gathering hive acoustic data, we are cataloging other previous beehive au
 
 <p>here are some of the frequency responses. I'm using the Octave IDE (similar to MATLAB) to perform the audio signal analysis and scanning for Frequencies.</p>
 
-<p>Frequency Response of a 1.5 sec timeframe:<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/221/7bbcf2dce3222909.png" class="lightbox" title="hetching_queen_analysis.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/255/b2a/e994ee9cc1_666x500.png" width="666" height="500"><div class="meta">
+<p>Frequency Response of a 1.5 sec timeframe:<br><div class="lightbox-wrapper"><a href="/uploads/default/221/7bbcf2dce3222909.png" class="lightbox" title="hetching_queen_analysis.png"><img src="/uploads/default/_optimized/255/b2a/e994ee9cc1_666x500.png" width="666" height="500"><div class="meta">
 <span class="filename">hetching_queen_analysis.png</span><span class="informations">1200x900 30.1 KB</span><span class="expand"></span>
 </div></a></div></p>
 
-<p>Frequency Response of the peaks over the whole timeframe (you can see bee's wingbeat frequencies, a lot of noise in the lower frequencies and the high frequencies of your voice from outside)<br><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/222/f2495ecf2f0810f5.png" class="lightbox" title="hetching_queen_analysis_2.png"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/d04/756/ad5e0489a6_666x500.png" width="666" height="500"><div class="meta">
+<p>Frequency Response of the peaks over the whole timeframe (you can see bee's wingbeat frequencies, a lot of noise in the lower frequencies and the high frequencies of your voice from outside)<br><div class="lightbox-wrapper"><a href="/uploads/default/222/f2495ecf2f0810f5.png" class="lightbox" title="hetching_queen_analysis_2.png"><img src="/uploads/default/_optimized/d04/756/ad5e0489a6_666x500.png" width="666" height="500"><div class="meta">
 <span class="filename">hetching_queen_analysis_2.png</span><span class="informations">1200x900 18.1 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
@@ -147,13 +147,13 @@ Before gathering hive acoustic data, we are cataloging other previous beehive au
           <blockquote>
               <p>We opened the hive to check for queens on Friday, and we had a very pleasant surprise - a very recently hatched queen and another queen hatching out.  I had a pro photographer with me, and he captured an amazing photo - you can see the newly hatched queen in the bottom right, and the hatching (soon to be brutally murdered) queen in the top left of the image.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/219/2c6b558071745c9f.jpg" class="lightbox" title="Aurecon_Honey_Harvest16_Photos_by_Kris.jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/d31/7de/1c06ca6cd5_333x500.jpg" width="333" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/219/2c6b558071745c9f.jpg" class="lightbox" title="Aurecon_Honey_Harvest16_Photos_by_Kris.jpg"><img src="/uploads/default/_optimized/d31/7de/1c06ca6cd5_333x500.jpg" width="333" height="500"><div class="meta">
 <span class="filename">Aurecon_Honey_Harvest16_Photos_by_Kris.jpg</span><span class="informations">667x1000 262 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
-<p>Here is the audio from just before we opened the hive, I think that this is the sound of the hatching queen, as the frame was right below the microphone:<br><a class="attachment" href="//community.opensourcebeehives.net/uploads/default/220/7ca79b736b0899a1.mp3">Hatching queen.mp3</a> (618.0 KB) </p>
+<p>Here is the audio from just before we opened the hive, I think that this is the sound of the hatching queen, as the frame was right below the microphone:<br><a class="attachment" href="/uploads/default/220/7ca79b736b0899a1.mp3">Hatching queen.mp3</a> (618.0 KB) </p>
 
-<p> So it looks like we got a nice dataset from queen loss to the hatching of her replacement <img src="//community.opensourcebeehives.net/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p> So it looks like we got a nice dataset from queen loss to the hatching of her replacement <img src="/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
           <p><a href="http://community.opensourcebeehives.net/t/beehive-audio/49/28">Read full topic</a></p>
         ]]></description>
@@ -170,7 +170,7 @@ Before gathering hive acoustic data, we are cataloging other previous beehive au
           <blockquote>
               <p>OK, here is a sample of the in-hive audio as a  .wav file with some of the background noise scrubbed out.  Looking at the data this appears to be around the time that the colony realised that the queen was missing, there are a lot more short spikes in the audio data after this:</p>
 
-<p><a class="attachment" href="//community.opensourcebeehives.net/uploads/default/215/5ee69e6469d426bf.wav">Missing queen sample.wav</a> (1.3 MB) </p>
+<p><a class="attachment" href="/uploads/default/215/5ee69e6469d426bf.wav">Missing queen sample.wav</a> (1.3 MB) </p>
 
 <p>The one interesting thing with the audio is how relatively uniform it is - this is a good thing for detecting swarming, as this seems to be a very different to most other hive events.</p>
           </blockquote>
@@ -242,7 +242,7 @@ Before gathering hive acoustic data, we are cataloging other previous beehive au
 
 <p>Hope your colleague can handle the buzz!</p>
 
-<p><img src="//community.opensourcebeehives.net/plugins/emoji/images/wink.png" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
+<p><img src="/plugins/emoji/images/wink.png" title=":wink:" class="emoji" alt="wink" width="20" height="20"></p>
           </blockquote>
           <p><a href="http://community.opensourcebeehives.net/t/beehive-audio/49/23">Read full topic</a></p>
         ]]></description>
@@ -327,7 +327,7 @@ Before gathering hive acoustic data, we are cataloging other previous beehive au
 
 <p><a class="mention" href="/users/jagungal">@Jagungal</a> - does this sound alright with you? Could you share a link where <a class="mention" href="/users/zoedoubleday">@ZoeDoubleday</a> could download some of the audio? I imagine soundcloud or somewhere we can easily share around might be a good option, since there seems to be quite a demand for your audio!</p>
 
-<p><img src="//community.opensourcebeehives.net/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
+<p><img src="/plugins/emoji/images/smile.png" title=":smile:" class="emoji" alt="smile" width="20" height="20"></p>
           </blockquote>
           <p><a href="http://community.opensourcebeehives.net/t/beehive-audio/49/18">Read full topic</a></p>
         ]]></description>
@@ -380,11 +380,11 @@ Before gathering hive acoustic data, we are cataloging other previous beehive au
           <blockquote>
               <p>This recorded hive swarmed on the weekend. The audio is quite interesting with "piping" calls evident. The noise on the pickup increased incredibly at swarm time. The internal hive temperature and humidity were also logged and show a marked peak at the time of swarming. Images for audio (not to time scale) and an environmental data plot are shown below. Swarm time was around 12:30pm in the afternoon on 26th Oct. A data link will be posted soon.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/162/aaffd7465a0006df.JPG" class="lightbox" title="Swarm Hive Data.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/a41/6fc/4d51a13770_690x378.JPG" width="690" height="378"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/162/aaffd7465a0006df.JPG" class="lightbox" title="Swarm Hive Data.JPG"><img src="/uploads/default/_optimized/a41/6fc/4d51a13770_690x378.JPG" width="690" height="378"><div class="meta">
 <span class="filename">Swarm Hive Data.JPG</span><span class="informations">1546x849 134 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/163/a1d187e23696281d.JPG" class="lightbox" title="hive audio snapshot.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/b98/dc2/0d06bef27c_690x236.JPG" width="690" height="236"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/163/a1d187e23696281d.JPG" class="lightbox" title="hive audio snapshot.JPG"><img src="/uploads/default/_optimized/b98/dc2/0d06bef27c_690x236.JPG" width="690" height="236"><div class="meta">
 <span class="filename">hive audio snapshot.JPG</span><span class="informations">1628x559 142 KB</span><span class="expand"></span>
 </div></a></div></p>
           </blockquote>
@@ -424,23 +424,23 @@ Before gathering hive acoustic data, we are cataloging other previous beehive au
 
 <p>Hive type : Modified 20 frame Langstroth hive. Sitting above the hive space is a layer of hessian enclosed wood shavings which helps with condensation. The lapel mic was placed above the central brood comb within a hessian layer.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/140/7c044303a249e4ac.jpg" class="lightbox" title="Hive Box (20 frame single level (Medium).jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/9de/afb/e3e7a3f6b6_666x500.jpg" width="666" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/140/7c044303a249e4ac.jpg" class="lightbox" title="Hive Box (20 frame single level (Medium).jpg"><img src="/uploads/default/_optimized/9de/afb/e3e7a3f6b6_666x500.jpg" width="666" height="500"><div class="meta">
 <span class="filename">Hive Box (20 frame single level (Medium).jpg</span><span class="informations">1024x768 215 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/141/0d0209a5bcf22066.jpg" class="lightbox" title="mike placement in condensation layer (Medium).jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/b0d/c5c/dfad821bce_666x500.jpg" width="666" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/141/0d0209a5bcf22066.jpg" class="lightbox" title="mike placement in condensation layer (Medium).jpg"><img src="/uploads/default/_optimized/b0d/c5c/dfad821bce_666x500.jpg" width="666" height="500"><div class="meta">
 <span class="filename">mike placement in condensation layer (Medium).jpg</span><span class="informations">1024x768 236 KB</span><span class="expand"></span>
 </div></a></div></p>
 
 <p>The lapel mike was sourced from a local electronics store for $20</p>
 
-<p>.<div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/142/75fc15f237cba52d.JPG" class="lightbox" title="Jaycar Lapel Mic.JPG"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/464/f2e/5879c9b990_690x460.JPG" width="690" height="460"><div class="meta">
+<p>.<div class="lightbox-wrapper"><a href="/uploads/default/142/75fc15f237cba52d.JPG" class="lightbox" title="Jaycar Lapel Mic.JPG"><img src="/uploads/default/_optimized/464/f2e/5879c9b990_690x460.JPG" width="690" height="460"><div class="meta">
 <span class="filename">Jaycar Lapel Mic.JPG</span><span class="informations">894x597 86.6 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
 <p>The Tascam recorder is fitted with an 32GB memory card and continuously records a stereo, 44.1kHz  MP3 file in 512MB blocks (around 9H of data). The recorder and a mains power supply are mounted into a weatherproof enclosure around 2.5m from the hive.</p>
 
-<p><div class="lightbox-wrapper"><a href="//community.opensourcebeehives.net/uploads/default/144/83557b0295978185.jpg" class="lightbox" title="Audio logger enclosure (Medium).jpg"><img src="//community.opensourcebeehives.net/uploads/default/_optimized/fd8/fd1/2add71c318_666x500.jpg" width="666" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a href="/uploads/default/144/83557b0295978185.jpg" class="lightbox" title="Audio logger enclosure (Medium).jpg"><img src="/uploads/default/_optimized/fd8/fd1/2add71c318_666x500.jpg" width="666" height="500"><div class="meta">
 <span class="filename">Audio logger enclosure (Medium).jpg</span><span class="informations">1024x768 307 KB</span><span class="expand"></span>
 </div></a></div> </p>
 
