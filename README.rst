@@ -38,5 +38,15 @@ Start git repository
     cd uploads/stylesheet-cache/
     mv 291bdad5-09af-4949-b894-1b7b534564be.css\?519000ceda98fb8a6e2c53b423aa7dd9 291bdad5-09af-4949-b894-1b7b534564be.css
 
+    # Add stuff to the repository selectively
+    # git add ...
+
     # Add README.rst (you are currently reading this)
+
+    git commit -m 'Initial commit of wayback machine contents of community.opensourcebeehives.net'
+
+
+Massage
+=======
+Tweak the HTML tree into being coherent and self-contained, YMMV.
 
