@@ -2,6 +2,8 @@
 Mirror archive of community.opensourcebeehives.net
 ##################################################
 
+Please visit https://community.osbh.mirror.hiveeyes.org/
+
 
 ************
 Introduction
@@ -17,6 +19,7 @@ some additional polishing was required. For details, have a look at the reposito
 ***********
 Restoration
 ***********
+
 
 Fetch from archive.org
 ======================
@@ -50,3 +53,10 @@ Massage
 =======
 Tweak the HTML tree into being coherent and self-contained, YMMV.
 
+
+************
+Republishing
+************
+
+The forum contents are now available statically at https://community.osbh.mirror.hiveeyes.org/.
+The raw content is also in a GitHub repository available at https://github.com/hiveeyes/community.opensourcebeehives.net.
